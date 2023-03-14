@@ -17,6 +17,7 @@ http://allelefrequencies.net
 Then, the script writes .tsv files like this:
 
     ls allelefrequencies.net/hla/
+
         787K  A.tsv
         1.5M  B.tsv
         454K  C.tsv
@@ -30,16 +31,13 @@ Each file looks like this:
 
     head allelefrequencies.net/A.tsv
 
-    allele   population                               allele_freq  sample_size
-    A*01:01  Argentina Rosario Toba                   0.0760       86
-    A*01:01  Armenia combined Regions                 0.1250       100
-    A*01:01  Australia Cape York Peninsula Aborigine  0.0530       103
-    A*01:01  Australia Groote Eylandt Aborigine       0.0270       75
-    A*01:01  Australia New South Wales Caucasian      0.1870       134
-    A*01:01  Australia Yuendumu Aborigine             0.0080       191
-    A*01:01  Austria                                  0.1460       200
-    A*01:01  Azores Central Islands                   0.0800       59
-    A*01:01  Azores Oriental Islands                  0.1150       43
+     allele                              population indivs_over_n alleles_over_2n   n
+    A*01:01                  Argentina Rosario Toba          15.1          0.0760  86
+    A*01:01                Armenia combined Regions                        0.1250 100
+    A*01:01 Australia Cape York Peninsula Aborigine                        0.0530 103
+    A*01:01      Australia Groote Eylandt Aborigine                        0.0270  75
+    A*01:01     Australia New South Wales Caucasian                        0.1870 134
+    A*01:01            Australia Yuendumu Aborigine                        0.0080 191
 
 
 Citation
@@ -63,6 +61,31 @@ on this project.
 
 [1]: https://github.com/DAWells/scrapeAF
 
+
+License
+-------
+
+MIT License
+
+Copyright (c) 2023 Kamil Slowikowski
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 """
 
 import os
@@ -197,17 +220,12 @@ def get_all_pages(url):
         return pd.DataFrame(None)
     print(f'{n_pages} pages of results')
     tables = []
-    # for i in range(1, min(n_pages + 1, 4)):
     for i in tqdm(range(1, n_pages + 1)):
         text = get_url(f'{url}&page={i}')
         bs = BeautifulSoup(text, 'html.parser')
         table = get_df(bs)
         tables.append(table)
     df = pd.concat(tables)
-    # Drop columns that have exactly 1 unique value
-    # for col in df.columns[3:]:
-    #     if len(df[col].unique()) == 1:
-    #         df.drop(col, inplace=True, axis=1)
     return df 
 
 def get_df(bs):
