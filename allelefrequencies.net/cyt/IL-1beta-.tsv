@@ -1,0 +1,299 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+IL-1beta/ -31CT	Denmark Cytokine	47.0		55
+IL-1beta/ -31CT	England South Cytokine	46.3		260
+IL-1beta/ -31CT	Spain Cytokine	34.0		97
+IL-1beta/ -31TT	Denmark Cytokine	49.0		55
+IL-1beta/ -31TT	England South Cytokine	40.3		260
+IL-1beta/ -31TT	Spain Cytokine	49.5		97
+IL-1beta/ 3953 CC	Czech Republic Moravia Cytokine pop2	58.3		90
+IL-1beta/ 3953 CT	Czech Republic Moravia Cytokine pop2	34.4		90
+IL-1beta/ 3953 TT	Czech Republic Moravia Cytokine pop2	7.3		90
+IL-1beta/ -511 CC	Brazil Parana Mixed Cytokine	33.7		823
+IL-1beta/ -511 CC	Brazil Sao Paulo Mixed Cytokine	32.6		99
+IL-1beta/ -511 CC	Cyprus Cytokine	43.2		100
+IL-1beta/ -511 CC	Czech Republic Prague Cytokine	54.5		103
+IL-1beta/ -511 CC	Czech Republic Moravia Cytokine	43.3		67
+IL-1beta/ -511 CC	Czech Republic Moravia Cytokine pop2	47.9		90
+IL-1beta/ -511 CC	Denmark Cytokine	49.0		55
+IL-1beta/ -511 CC	England South Cytokine	33.3		260
+IL-1beta/ -511 CC	England Newcastle Cytokine	37.0		200
+IL-1beta/ -511 CC	Germany Cytokine	39.0		200
+IL-1beta/ -511 CC	Greece Cytokine	45.0		120
+IL-1beta/ -511 CC	Greece Thrace Region Cytokine	18.0		27
+IL-1beta/ -511 CC	India North Cytokine	15.0		130
+IL-1beta/ -511 CC	India Delhi Cytokine	20.6		34
+IL-1beta/ -511 CC	India Mumbai Cytokine	14.5		62
+IL-1beta/ -511 CC	Iran South East Baloch Cytokine	17.7		96
+IL-1beta/ -511 CC	Iran South East Sistani Cytokine	36.7		98
+IL-1beta/ -511 CC	Iran Tehran Farsi Cytokine	23.5		40
+IL-1beta/ -511 CC	Iran Cytokine	25.0		40
+IL-1beta/ -511 CC	Iran Yazd Cytokine	22.3		121
+IL-1beta/ -511 CC	Iran Tehran Cytokine	25.8		140
+IL-1beta/ -511 CC	Iraq Arab Cytokine	27.2		224
+IL-1beta/ -511 CC	Ireland South Cytokine	42.0		200
+IL-1beta/ -511 CC	Italy Torino Cytokine	50.0		140
+IL-1beta/ -511 CC	South Korea Seoul Cytokine	21.0		57
+IL-1beta/ -511 CC	Macedonia Cytokine	48.0		125
+IL-1beta/ -511 CC	Malaysia Semai Cytokine	23.8		42
+IL-1beta/ -511 CC	Malaysia Orang Kanaq Cytokine	45.5		11
+IL-1beta/ -511 CC	Malaysia Batek Cytokine	76.0		25
+IL-1beta/ -511 CC	Malaysia Kensiu Cytokine	74.3		36
+IL-1beta/ -511 CC	Malaysia Lanoh Cytokine	52.0		24
+IL-1beta/ -511 CC	Malaysia Che Wong Cytokine	11.5		26
+IL-1beta/ -511 CC	Malaysia Peninsular Malay Cytokine	23.7		97
+IL-1beta/ -511 CC	Malaysia Peninsular Chinese Cytokine	3.9		77
+IL-1beta/ -511 CC	Malaysia Peninsular Indian Cytokine	31.3		48
+IL-1beta/ -511 CC	Netherlands Cytokine	45.0		107
+IL-1beta/ -511 CC	Portugal Azores Terceira Island Cytokine	44.4		117
+IL-1beta/ -511 CC	Portugal Center Cytokine	39.0		174
+IL-1beta/ -511 CC	Russia Moscow Cytokine	40.4		228
+IL-1beta/ -511 CC	Slovakia Cytokine	49.3		140
+IL-1beta/ -511 CC	Spain Lugo Cytokine	48.0		128
+IL-1beta/ -511 CC	Spain Cytokine	49.5		97
+IL-1beta/ -511 CC	Taiwan Ami Cytokine	46.0		50
+IL-1beta/ -511 CC	Taiwan Atayal Cytokine	38.0		50
+IL-1beta/ -511 CC	Taiwan Tsou Cytokine	28.0		50
+IL-1beta/ -511 CC	Taiwan Minnan Cytokine	28.0		50
+IL-1beta/ -511 CC	Taiwan Hakka Cytokine	24.0		45
+IL-1beta/ -511 CC	Taiwan Yami Cytokine	45.0		40
+IL-1beta/ -511 CC	Taiwan Cytokine	23.0		184
+IL-1beta/ -511 CC	Turkey Bursa Cytokine	33.8		60
+IL-1beta/ -511 CC	USA Caucasian Bone Marrow Donors Cytokine	43.3		1,477
+IL-1beta/ -511 CC	USA Hispanic Bone Marrow Donors Cytokine	50.0		74
+IL-1beta/ -511 CC	USA Amerindian Bone Marrow Donors Cytokine	18.2		23
+IL-1beta/ -511 CT	Brazil Sao Paulo Mixed Cytokine	49.0		99
+IL-1beta/ -511 CT	Brazil Parana Mixed Cytokine	51.1		823
+IL-1beta/ -511 CT	Cyprus Cytokine	43.2		100
+IL-1beta/ -511 CT	Czech Republic Moravia Cytokine	47.8		67
+IL-1beta/ -511 CT	Czech Republic Prague Cytokine	37.2		103
+IL-1beta/ -511 CT	Czech Republic Moravia Cytokine pop2	39.6		90
+IL-1beta/ -511 CT	Denmark Cytokine	47.0		55
+IL-1beta/ -511 CT	England South Cytokine	51.7		260
+IL-1beta/ -511 CT	England Newcastle Cytokine	50.0		200
+IL-1beta/ -511 CT	Germany Cytokine	49.0		200
+IL-1beta/ -511 CT	Greece Cytokine	44.0		120
+IL-1beta/ -511 CT	Greece Thrace Region Cytokine	52.0		27
+IL-1beta/ -511 CT	India North Cytokine	45.0		130
+IL-1beta/ -511 CT	India Delhi Cytokine	44.1		34
+IL-1beta/ -511 CT	India Mumbai Cytokine	59.7		62
+IL-1beta/ -511 CT	Iran South East Baloch Cytokine	58.3		96
+IL-1beta/ -511 CT	Iran South East Sistani Cytokine	45.9		98
+IL-1beta/ -511 CT	Iran Tehran Farsi Cytokine	60.9		40
+IL-1beta/ -511 CT	Iran Cytokine	55.0		40
+IL-1beta/ -511 CT	Iran Tehran Cytokine	59.0		140
+IL-1beta/ -511 CT	Iran Yazd Cytokine	62.8		121
+IL-1beta/ -511 CT	Iraq Arab Cytokine	47.3		224
+IL-1beta/ -511 CT	Ireland South Cytokine	49.0		200
+IL-1beta/ -511 CT	Italy Torino Cytokine	41.4		140
+IL-1beta/ -511 CT	South Korea Seoul Cytokine	45.0		57
+IL-1beta/ -511 CT	Macedonia Cytokine	33.6		125
+IL-1beta/ -511 CT	Malaysia Orang Kanaq Cytokine	54.5		11
+IL-1beta/ -511 CT	Malaysia Che Wong Cytokine	50.0		26
+IL-1beta/ -511 CT	Malaysia Lanoh Cytokine	40.0		24
+IL-1beta/ -511 CT	Malaysia Kensiu Cytokine	25.7		36
+IL-1beta/ -511 CT	Malaysia Batek Cytokine	24.0		25
+IL-1beta/ -511 CT	Malaysia Peninsular Indian Cytokine	52.1		48
+IL-1beta/ -511 CT	Malaysia Peninsular Chinese Cytokine	76.6		77
+IL-1beta/ -511 CT	Malaysia Peninsular Malay Cytokine	57.7		97
+IL-1beta/ -511 CT	Netherlands Cytokine	48.0		107
+IL-1beta/ -511 CT	Portugal Azores Terceira Island Cytokine	41.0		117
+IL-1beta/ -511 CT	Portugal Center Cytokine	46.0		174
+IL-1beta/ -511 CT	Russia Moscow Cytokine	50.0		228
+IL-1beta/ -511 CT	Slovakia Cytokine	40.7		140
+IL-1beta/ -511 CT	Spain Lugo Cytokine	39.0		128
+IL-1beta/ -511 CT	Spain Cytokine	34.0		97
+IL-1beta/ -511 CT	Taiwan Atayal Cytokine	42.0		50
+IL-1beta/ -511 CT	Taiwan Ami Cytokine	44.0		50
+IL-1beta/ -511 CT	Taiwan Yami Cytokine	45.0		40
+IL-1beta/ -511 CT	Taiwan Hakka Cytokine	56.0		45
+IL-1beta/ -511 CT	Taiwan Minnan Cytokine	44.0		50
+IL-1beta/ -511 CT	Taiwan Tsou Cytokine	46.0		50
+IL-1beta/ -511 CT	Taiwan Cytokine	49.0		184
+IL-1beta/ -511 CT	Turkey Bursa Cytokine	11.9		60
+IL-1beta/ -511 CT	USA Amerindian Bone Marrow Donors Cytokine	45.5		23
+IL-1beta/ -511 CT	USA Hispanic Bone Marrow Donors Cytokine	31.8		74
+IL-1beta/ -511 CT	USA Caucasian Bone Marrow Donors Cytokine	45.9		1,477
+IL-1beta/ -511 TT	Brazil Sao Paulo Mixed Cytokine	18.4		99
+IL-1beta/ -511 TT	Brazil Parana Mixed Cytokine	15.2		823
+IL-1beta/ -511 TT	Cyprus Cytokine	13.7		100
+IL-1beta/ -511 TT	Czech Republic Prague Cytokine	8.3		103
+IL-1beta/ -511 TT	Czech Republic Moravia Cytokine	9.0		67
+IL-1beta/ -511 TT	Czech Republic Moravia Cytokine pop2	12.5		90
+IL-1beta/ -511 TT	Denmark Cytokine	4.0		55
+IL-1beta/ -511 TT	England South Cytokine	14.9		260
+IL-1beta/ -511 TT	England Newcastle Cytokine	13.0		200
+IL-1beta/ -511 TT	Germany Cytokine	12.0		200
+IL-1beta/ -511 TT	Greece Cytokine	11.0		120
+IL-1beta/ -511 TT	Greece Thrace Region Cytokine	30.0		27
+IL-1beta/ -511 TT	India North Cytokine	40.0		130
+IL-1beta/ -511 TT	India Delhi Cytokine	35.3		34
+IL-1beta/ -511 TT	India Mumbai Cytokine	25.8		62
+IL-1beta/ -511 TT	Iran South East Baloch Cytokine	24.0		96
+IL-1beta/ -511 TT	Iran South East Sistani Cytokine	17.4		98
+IL-1beta/ -511 TT	Iran Tehran Farsi Cytokine	15.1		40
+IL-1beta/ -511 TT	Iran Cytokine	20.0		40
+IL-1beta/ -511 TT	Iran Yazd Cytokine	14.9		121
+IL-1beta/ -511 TT	Iran Tehran Cytokine	15.2		140
+IL-1beta/ -511 TT	Iraq Arab Cytokine	25.4		224
+IL-1beta/ -511 TT	Ireland South Cytokine	9.0		200
+IL-1beta/ -511 TT	Italy Torino Cytokine	8.6		140
+IL-1beta/ -511 TT	South Korea Seoul Cytokine	34.0		57
+IL-1beta/ -511 TT	Macedonia Cytokine	18.4		125
+IL-1beta/ -511 TT	Malaysia Orang Kanaq Cytokine	0.0		11
+IL-1beta/ -511 TT	Malaysia Batek Cytokine	0.0		25
+IL-1beta/ -511 TT	Malaysia Kensiu Cytokine	0.0		36
+IL-1beta/ -511 TT	Malaysia Lanoh Cytokine	8.0		24
+IL-1beta/ -511 TT	Malaysia Che Wong Cytokine	38.5		26
+IL-1beta/ -511 TT	Malaysia Peninsular Indian Cytokine	16.7		48
+IL-1beta/ -511 TT	Malaysia Peninsular Malay Cytokine	18.6		97
+IL-1beta/ -511 TT	Malaysia Peninsular Chinese Cytokine	19.5		77
+IL-1beta/ -511 TT	Netherlands Cytokine	7.0		107
+IL-1beta/ -511 TT	Portugal Azores Terceira Island Cytokine	14.5		117
+IL-1beta/ -511 TT	Portugal Center Cytokine	15.0		174
+IL-1beta/ -511 TT	Russia Moscow Cytokine	9.6		228
+IL-1beta/ -511 TT	Slovakia Cytokine	10.0		140
+IL-1beta/ -511 TT	Spain Lugo Cytokine	13.0		128
+IL-1beta/ -511 TT	Spain Cytokine	16.5		97
+IL-1beta/ -511 TT	Taiwan Ami Cytokine	10.0		50
+IL-1beta/ -511 TT	Taiwan Atayal Cytokine	20.0		50
+IL-1beta/ -511 TT	Taiwan Tsou Cytokine	26.0		50
+IL-1beta/ -511 TT	Taiwan Minnan Cytokine	28.0		50
+IL-1beta/ -511 TT	Taiwan Hakka Cytokine	20.0		45
+IL-1beta/ -511 TT	Taiwan Yami Cytokine	10.0		40
+IL-1beta/ -511 TT	Taiwan Cytokine	28.0		184
+IL-1beta/ -511 TT	Turkey Bursa Cytokine	54.2		60
+IL-1beta/ -511 TT	USA Caucasian Bone Marrow Donors Cytokine	10.8		1,477
+IL-1beta/ -511 TT	USA Hispanic Bone Marrow Donors Cytokine	18.2		74
+IL-1beta/ -511 TT	USA Amerindian Bone Marrow Donors Cytokine	36.3		23
+IL-1beta/ 3962 CC	Brazil Sao Paulo Mixed Cytokine	76.1		99
+IL-1beta/ 3962 CC	Brazil Parana Mixed Cytokine	64.9		823
+IL-1beta/ 3962 CC	Cyprus Cytokine	57.7		100
+IL-1beta/ 3962 CC	Czech Republic Prague Cytokine	51.4		103
+IL-1beta/ 3962 CC	Czech Republic Moravia Cytokine	59.7		67
+IL-1beta/ 3962 CC	Germany Cytokine	57.0		200
+IL-1beta/ 3962 CC	Greece Cytokine	63.0		120
+IL-1beta/ 3962 CC	Greece Thrace Region Cytokine	69.0		27
+IL-1beta/ 3962 CC	India North Cytokine	73.0		130
+IL-1beta/ 3962 CC	India Delhi Cytokine	52.9		34
+IL-1beta/ 3962 CC	India Mumbai Cytokine	62.9		62
+IL-1beta/ 3962 CC	Iran South East Baloch Cytokine	49.0		96
+IL-1beta/ 3962 CC	Iran Tehran Farsi Cytokine	47.0		40
+IL-1beta/ 3962 CC	Iran Yazd Cytokine	42.1		121
+IL-1beta/ 3962 CC	Iran South East Sistani Cytokine	55.1		98
+IL-1beta/ 3962 CC	Iran Tehran Cytokine	50.0		140
+IL-1beta/ 3962 CC	Iran Cytokine	37.5		40
+IL-1beta/ 3962 CC	Iraq Arab Cytokine	56.5		224
+IL-1beta/ 3962 CC	Ireland South Cytokine	60.0		200
+IL-1beta/ 3962 CC	Italy Torino Cytokine	54.3		140
+IL-1beta/ 3962 CC	South Korea Seoul Cytokine	89.0		57
+IL-1beta/ 3962 CC	Macedonia Cytokine	56.8		125
+IL-1beta/ 3962 CC	Malaysia Orang Kanaq Cytokine	81.8		11
+IL-1beta/ 3962 CC	Malaysia Semai Cytokine	88.1		42
+IL-1beta/ 3962 CC	Malaysia Che Wong Cytokine	57.7		26
+IL-1beta/ 3962 CC	Malaysia Lanoh Cytokine	80.0		24
+IL-1beta/ 3962 CC	Malaysia Kensiu Cytokine	41.7		36
+IL-1beta/ 3962 CC	Malaysia Batek Cytokine	40.0		25
+IL-1beta/ 3962 CC	Malaysia Peninsular Indian Cytokine	93.8		48
+IL-1beta/ 3962 CC	Malaysia Peninsular Chinese Cytokine	100.0		77
+IL-1beta/ 3962 CC	Malaysia Peninsular Malay Cytokine	91.8		97
+IL-1beta/ 3962 CC	Netherlands Cytokine	69.0		107
+IL-1beta/ 3962 CC	Portugal Azores Terceira Island Cytokine	53.8		117
+IL-1beta/ 3962 CC	Portugal Center Cytokine	61.0		174
+IL-1beta/ 3962 CC	Slovakia Cytokine	57.9		140
+IL-1beta/ 3962 CC	Taiwan Ami Cytokine	82.0		50
+IL-1beta/ 3962 CC	Taiwan Tsou Cytokine	96.0		50
+IL-1beta/ 3962 CC	Taiwan Atayal Cytokine	100.0		50
+IL-1beta/ 3962 CC	Taiwan Yami Cytokine	92.5		40
+IL-1beta/ 3962 CC	Taiwan Hakka Cytokine	98.0		45
+IL-1beta/ 3962 CC	Taiwan Minnan Cytokine	94.0		50
+IL-1beta/ 3962 CC	Taiwan Cytokine	99.0		184
+IL-1beta/ 3962 CC	Turkey Istanbul Cytokine	60.4		104
+IL-1beta/ 3962 CC	Turkey Bursa Cytokine	70.6		60
+IL-1beta/ 3962 CT	Brazil Sao Paulo Mixed Cytokine	18.5		99
+IL-1beta/ 3962 CT	Brazil Parana Mixed Cytokine	27.6		823
+IL-1beta/ 3962 CT	Cyprus Cytokine	37.1		100
+IL-1beta/ 3962 CT	Czech Republic Prague Cytokine	38.2		103
+IL-1beta/ 3962 CT	Czech Republic Moravia Cytokine	32.8		67
+IL-1beta/ 3962 CT	Germany Cytokine	33.0		200
+IL-1beta/ 3962 CT	Greece Cytokine	29.0		120
+IL-1beta/ 3962 CT	Greece Thrace Region Cytokine	19.0		27
+IL-1beta/ 3962 CT	India Delhi Cytokine	44.1		34
+IL-1beta/ 3962 CT	India North Cytokine	24.0		130
+IL-1beta/ 3962 CT	India Mumbai Cytokine	32.3		62
+IL-1beta/ 3962 CT	Iran South East Baloch Cytokine	44.8		96
+IL-1beta/ 3962 CT	Iran Tehran Farsi Cytokine	48.0		40
+IL-1beta/ 3962 CT	Iran Cytokine	60.0		40
+IL-1beta/ 3962 CT	Iran Tehran Cytokine	41.4		140
+IL-1beta/ 3962 CT	Iran South East Sistani Cytokine	30.6		98
+IL-1beta/ 3962 CT	Iran Yazd Cytokine	54.6		121
+IL-1beta/ 3962 CT	Iraq Arab Cytokine	31.9		224
+IL-1beta/ 3962 CT	Ireland South Cytokine	37.5		200
+IL-1beta/ 3962 CT	Italy Torino Cytokine	40.0		140
+IL-1beta/ 3962 CT	South Korea Seoul Cytokine	11.0		57
+IL-1beta/ 3962 CT	Macedonia Cytokine	23.2		125
+IL-1beta/ 3962 CT	Malaysia Semai Cytokine	9.5		42
+IL-1beta/ 3962 CT	Malaysia Orang Kanaq Cytokine	18.2		11
+IL-1beta/ 3962 CT	Malaysia Batek Cytokine	36.0		25
+IL-1beta/ 3962 CT	Malaysia Kensiu Cytokine	33.3		36
+IL-1beta/ 3962 CT	Malaysia Lanoh Cytokine	12.0		24
+IL-1beta/ 3962 CT	Malaysia Che Wong Cytokine	42.3		26
+IL-1beta/ 3962 CT	Malaysia Peninsular Malay Cytokine	7.2		97
+IL-1beta/ 3962 CT	Malaysia Peninsular Chinese Cytokine	0.0		77
+IL-1beta/ 3962 CT	Malaysia Peninsular Indian Cytokine	6.3		48
+IL-1beta/ 3962 CT	Netherlands Cytokine	28.0		107
+IL-1beta/ 3962 CT	Portugal Azores Terceira Island Cytokine	40.2		117
+IL-1beta/ 3962 CT	Portugal Center Cytokine	33.0		174
+IL-1beta/ 3962 CT	Slovakia Cytokine	33.6		140
+IL-1beta/ 3962 CT	Taiwan Yami Cytokine	5.0		40
+IL-1beta/ 3962 CT	Taiwan Minnan Cytokine	4.0		50
+IL-1beta/ 3962 CT	Taiwan Hakka Cytokine	2.0		45
+IL-1beta/ 3962 CT	Taiwan Atayal Cytokine	0.0		50
+IL-1beta/ 3962 CT	Taiwan Tsou Cytokine	4.0		50
+IL-1beta/ 3962 CT	Taiwan Ami Cytokine	16.0		50
+IL-1beta/ 3962 CT	Taiwan Cytokine	1.0		184
+IL-1beta/ 3962 CT	Turkey Istanbul Cytokine	34.0		104
+IL-1beta/ 3962 CT	Turkey Bursa Cytokine	2.0		60
+IL-1beta/ 3962 TT	Brazil Sao Paulo Mixed Cytokine	5.4		99
+IL-1beta/ 3962 TT	Brazil Parana Mixed Cytokine	7.5		823
+IL-1beta/ 3962 TT	Cyprus Cytokine	5.2		100
+IL-1beta/ 3962 TT	Czech Republic Prague Cytokine	10.4		103
+IL-1beta/ 3962 TT	Czech Republic Moravia Cytokine	7.5		67
+IL-1beta/ 3962 TT	Germany Cytokine	10.0		200
+IL-1beta/ 3962 TT	Greece Cytokine	8.0		120
+IL-1beta/ 3962 TT	Greece Thrace Region Cytokine	12.0		27
+IL-1beta/ 3962 TT	India North Cytokine	3.0		130
+IL-1beta/ 3962 TT	India Delhi Cytokine	2.9		34
+IL-1beta/ 3962 TT	India Mumbai Cytokine	4.8		62
+IL-1beta/ 3962 TT	Iran South East Baloch Cytokine	6.2		96
+IL-1beta/ 3962 TT	Iran Tehran Farsi Cytokine	4.9		40
+IL-1beta/ 3962 TT	Iran Cytokine	2.5		40
+IL-1beta/ 3962 TT	Iran Yazd Cytokine	3.3		121
+IL-1beta/ 3962 TT	Iran South East Sistani Cytokine	14.3		98
+IL-1beta/ 3962 TT	Iran Tehran Cytokine	8.6		140
+IL-1beta/ 3962 TT	Iraq Arab Cytokine	11.5		224
+IL-1beta/ 3962 TT	Ireland South Cytokine	2.5		200
+IL-1beta/ 3962 TT	Italy Torino Cytokine	5.7		140
+IL-1beta/ 3962 TT	South Korea Seoul Cytokine	0.0		57
+IL-1beta/ 3962 TT	Macedonia Cytokine	20.0		125
+IL-1beta/ 3962 TT	Malaysia Orang Kanaq Cytokine	0.0		11
+IL-1beta/ 3962 TT	Malaysia Semai Cytokine	2.4		42
+IL-1beta/ 3962 TT	Malaysia Che Wong Cytokine	0.0		26
+IL-1beta/ 3962 TT	Malaysia Lanoh Cytokine	8.0		24
+IL-1beta/ 3962 TT	Malaysia Kensiu Cytokine	25.0		36
+IL-1beta/ 3962 TT	Malaysia Batek Cytokine	24.0		25
+IL-1beta/ 3962 TT	Malaysia Peninsular Indian Cytokine	0.0		48
+IL-1beta/ 3962 TT	Malaysia Peninsular Chinese Cytokine	0.0		77
+IL-1beta/ 3962 TT	Malaysia Peninsular Malay Cytokine	1.0		97
+IL-1beta/ 3962 TT	Netherlands Cytokine	3.0		107
+IL-1beta/ 3962 TT	Portugal Azores Terceira Island Cytokine	6.0		117
+IL-1beta/ 3962 TT	Portugal Center Cytokine	6.0		174
+IL-1beta/ 3962 TT	Slovakia Cytokine	8.6		140
+IL-1beta/ 3962 TT	Taiwan Yami Cytokine	2.5		40
+IL-1beta/ 3962 TT	Taiwan Hakka Cytokine	0.0		45
+IL-1beta/ 3962 TT	Taiwan Minnan Cytokine	2.0		50
+IL-1beta/ 3962 TT	Taiwan Ami Cytokine	2.0		50
+IL-1beta/ 3962 TT	Taiwan Tsou Cytokine	0.0		50
+IL-1beta/ 3962 TT	Taiwan Atayal Cytokine	0.0		50
+IL-1beta/ 3962 TT	Taiwan Cytokine	0.0		184
+IL-1beta/ 3962 TT	Turkey Istanbul Cytokine	5.7		104
+IL-1beta/ 3962 TT	Turkey Bursa Cytokine	27.4		60

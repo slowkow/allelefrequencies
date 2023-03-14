@@ -1,0 +1,170 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+3DP1	Argentina Buenos Aires KIR	100.0		365
+3DP1	Argentina Chaco Region Wichi KIR	100.0		82
+3DP1	Argentina Chiriguano KIR	100.0		54
+3DP1	Argentina KIR	100.0		102
+3DP1	Argentina Salta Wichi KIR	100.0		19
+3DP1	Australia Queensland Brisbane KIR	100.0		106
+3DP1	Belgium KIR pop 2	100.0		100
+3DP1	Borneo Kalimantan KIR	100.0		48
+3DP1	Brazil Bahia IlhÃ©us KIR	100.0	1.000	102
+3DP1	Brazil Belo Horizonte Caucasian KIR	100.0		90
+3DP1	Brazil Guarani KaiowÃ¡ KIR	100.0		96
+3DP1	Brazil Guarani MByÃ¡ KIR	100.0		81
+3DP1	Brazil Guarani Ãandeva KIR	100.0		50
+3DP1	Brazil Kaingang KIR	100.0		100
+3DP1	Brazil Mato Grosso do Sul Campo Grande KIR	100.0		206
+3DP1	Brazil ParanÃ¡ Maringa KIR	100.0		130
+3DP1	Brazil Parana Mixed KIR	100.0		289
+3DP1	Brazil Porto Alegre Caucasian KIR pop 3	100.0		278
+3DP1	Brazil Rio de Janeiro Caucasian pop 2 KIR	100.0		98
+3DP1	Brazil Rio de Janeiro Mixed KIR	100.0		166
+3DP1	Brazil Rondonia Porto Velho KIR	100.0		377
+3DP1	Brazil Sao Paulo KIR	100.0		289
+3DP1	Canada Iranian KIR	95.6		68
+3DP1	Chile Talca KIR	100.0		90
+3DP1	China Eastern Mainland Han KIR	100.0		106
+3DP1	China Guangdong Han KIR	100.0		107
+3DP1	China Hubei  Province Tujia KIR	100.0		124
+3DP1	China Hunan Han KIR	100.0		448
+3DP1	China Inner Mongolia Han KIR	100.0		104
+3DP1	China Inner Mongolia Mongol KIR	100.0		160
+3DP1	China Inner Mongolia Province KIR pop 2	100.0	1.000	87
+3DP1	China Jiangsu Province Han KIR	100.0		150
+3DP1	China Jiangsu Province Han KIR pop2	88.3		60
+3DP1	China Mongolia Province KIR	94.4		90
+3DP1	China Shaanxi Province Han KIR	100.0		104
+3DP1	China Shenzhen Han KIR pop 2	100.0		503
+3DP1	China Tibet Lhasa KIR	99.0		102
+3DP1	China Xinjiang Region Urumqi Uygur KIR	100.0		120
+3DP1	China Yunnan Han KIR	99.5		404
+3DP1	China Yunnan Province Dali Bai KIR	100.0		100
+3DP1	China Yunnan Province Drung KIR	100.0		152
+3DP1	China Yunnan Province Fengyandong Han KIR	100.0		93
+3DP1	China Yunnan Province Fugong Nu KIR	100.0		112
+3DP1	China Yunnan Province Menghai Bulang KIR	100.0		109
+3DP1	China Yunnan Province Sunan Yugu KIR	99.0		104
+3DP1	China Yunnan Province Tiandeng Zhuang KIR	100.0		98
+3DP1	China Zhejiang Han KIR	100.0		273
+3DP1	Comoros Mixed KIR	100.0		54
+3DP1	Cook Islands KIR	94.0		48
+3DP1	Croatia KIR	100.0		125
+3DP1	Croatia KIR pop 2	100.0		111
+3DP1	Croatia KIR pop 3	100.0		121
+3DP1	Cuba Caucasian KIR	100.0		70
+3DP1	Czech Republic KIR	100.0		125
+3DP1	East Timor KIR	100.0		50
+3DP1	England KIR pop 4	100.0		99
+3DP1	England KIR pop 5	100.0		584
+3DP1	Equatorial Guinea Bioko Island Bubi KIR	99.0		95
+3DP1	Finland Helsinki KIR	100.0		101
+3DP1	France Reims KIR	100.0		102
+3DP1	France Southeast KIR	100.0		130
+3DP1	France Southeast KIR pop 2	100.0		38
+3DP1	France West KIR	97.0		108
+3DP1	Gabon KIR	100.0		54
+3DP1	Ghana KIR	100.0		41
+3DP1	Guadeloupe Mixed KIR	100.0		90
+3DP1	Hong Kong Chinese KIR	100.0		100
+3DP1	India Madurai Piramalai Kallar Dravidian KIR	86.0		100
+3DP1	India North KIR	92.6		512
+3DP1	India Northeast  Assam Kharachi	100.0		108
+3DP1	India Northeast Assam Adivasi	100.0		101
+3DP1	India Northeast Assam Ahom	100.0		104
+3DP1	India Tamil Nadu Kanikar KIR	100.0		35
+3DP1	India Tamil Nadu Mollukurumba KIR	100.0		41
+3DP1	India Tamil Nadu Paravar KIR	100.0		77
+3DP1	India West Bengal Rabha KIR	100.0		50
+3DP1	India West Bengal Rajbanshi KIR	100.0		75
+3DP1	India Western KIR	99.4		161
+3DP1	Indonesia Java KIR	100.0		45
+3DP1	Indonesia Moluccan Islands KIR	100.0		63
+3DP1	Indonesia Sulawesi Minahasans KIR	100.0		60
+3DP1	Indonesia West Sumatra Minangs KIR	100.0		45
+3DP1	Iran East Azerbaijan Azerbaijani KIR	100.0		100
+3DP1	Iran East Azerbaijan Azeri KIR	100.0		84
+3DP1	Iran Fars Persian KIR	100.0		248
+3DP1	Iran Hormozgan and Balochistan Jonobi KIR	100.0		100
+3DP1	Iran Khuzestan Arab KIR	100.0		76
+3DP1	Iran Khuzestan Bakhtiari KIR	100.0		96
+3DP1	Iran KIR	100.0		200
+3DP1	Iran Northern KIR	100.0		100
+3DP1	Iran Tehran KIR	100.0		100
+3DP1	Ireland KIR pop 2	100.0		240
+3DP1	Ireland Northern KIR	100.0		200
+3DP1	Ireland Northern KIR pop2	100.0		154
+3DP1	Italy Lombardy KIR	100.0		50
+3DP1	Japan KIR pop 2	100.0		41
+3DP1	Japan KIR pop 3	100.0		132
+3DP1	Korea pop 2 KIR	100.0		159
+3DP1	Macedonia KIR	99.5		214
+3DP1	Macedonia Romani KIR	100.0		103
+3DP1	Malaysia Peninsular KIR	100.0		120
+3DP1	Mexico Mestizo Guerrero KIR	100.0		120
+3DP1	Mexico Mestizo Jalisco KIR	99.0		100
+3DP1	Mexico Mestizo Jalisco pop 2 KIR	100.0		124
+3DP1	Mexico Mestizo KIR	100.0		54
+3DP1	Mexico Mestizo KIR pop 2	100.0		300
+3DP1	Morocco Chaouya KIR	100.0		67
+3DP1	Oman KIR	100.0		99
+3DP1	Panama KIR	100.0		116
+3DP1	Papua New Guinea Irian Jaya  KIR	100.0		50
+3DP1	Portugal Azores Terceira Island KIR	89.8		127
+3DP1	Portugal KIR	100.0		65
+3DP1	Reunion Mixed KIR	100.0		101
+3DP1	Romania KIR	100.0		123
+3DP1	Russia Chechens KIR	100.0		48
+3DP1	Russia Moscow  KIR	100.0		84
+3DP1	Russia Northwest pop 3 KIR	100.0		100
+3DP1	Samoa KIR	98.0		50
+3DP1	Saudi Arabia KIR	100.0		162
+3DP1	Saudi Arabia KIR pop 2	100.0		148
+3DP1	Saudi Arabia KIR pop 3	100.0		65
+3DP1	Saudi Arabia Riyadh KIR	100.0		152
+3DP1	Scotland Orkney KIR	100.0		90
+3DP1	Senegal KIR	100.0		118
+3DP1	Serbia Vojvodina KIR	100.0	1.000	134
+3DP1	Singapore Chinese KIR	100.0		47
+3DP1	Singapore Chinese KIR pop 2	100.0		210
+3DP1	Singapore Indians KIR	100.0		80
+3DP1	Singapore Malays KIR	100.0		80
+3DP1	Slovenia KIR	100.0		130
+3DP1	Solomon Islands KIR	95.0		40
+3DP1	South Africa Black African KIR	100.0		167
+3DP1	South Africa Carletonville Gauteng KIR	100.0		81
+3DP1	South Africa Caucasian KIR	100.0		97
+3DP1	South Africa Indian KIR	100.0		50
+3DP1	South Africa Mixed Ancestry KIR	100.0		50
+3DP1	South Africa San KIR	100.0		91
+3DP1	South Africa Xhosa KIR	100.0		50
+3DP1	Spain AvilÃ©s KIR	100.0		339
+3DP1	Spain Basque KIR	99.0		71
+3DP1	Spain Cantabria KIR	100.0		230
+3DP1	Spain Madrid KIR	100.0		131
+3DP1	Spain Sevilla KIR	100.0		278
+3DP1	Sweden KIR	100.0		102
+3DP1	Taiwan Han KIR pop 4	100.0		97
+3DP1	Thailand Bangkok KIR pop 2	100.0		100
+3DP1	Thailand Bangkok KIR pop 3	100.0		150
+3DP1	Thailand North East KIR	100.0		235
+3DP1	Tokelau KIR	96.0		47
+3DP1	Turkey KIR pop 2	100.0		154
+3DP1	Turkey KIR pop 3	100.0		187
+3DP1	Turkey South KIR	99.0		200
+3DP1	Uruguay Mixed KIR	100.0		41
+3DP1	USA California African American KIR	100.0		58
+3DP1	USA California Asian American KIR	100.0		150
+3DP1	USA California Caucasians KIR	100.0		195
+3DP1	USA California Hispanic KIR	100.0		128
+3DP1	USA Caucasian KIR	100.0		255
+3DP1	USA Springfield Puerto Rican KIR	100.0		74
+3DP1	Uzbekistan KIR	98.5		67
+3DP1	Venezuela Mestizo KIR	100.0		205
+3DP1*001	China Zhejiang Province Han KIR	14.4		104
+3DP1*001	Italy KIR	30.0		217
+3DP1*001	Portugal Azores Terceira Island KIR	86.6		127
+3DP1*003	Belgium KIR pop 2	100.0		100
+3DP1*003	China Zhejiang Province Han KIR	99.0		104
+3DP1*003	France Southeast KIR	98.4		130
+3DP1*003	Italy KIR	96.0		217
+3DP1*003	Portugal Azores Terceira Island KIR	89.8		127

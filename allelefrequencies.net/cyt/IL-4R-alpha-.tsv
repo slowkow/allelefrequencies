@@ -1,0 +1,145 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+IL-4R alpha/1902 AA	Brazil Sao Paulo Mixed Cytokine	38.8		99
+IL-4R alpha/1902 AA	Brazil Parana Mixed Cytokine	55.1		823
+IL-4R alpha/1902 AA	Cyprus Cytokine	70.4		100
+IL-4R alpha/1902 AA	Czech Republic Prague Cytokine	57.9		103
+IL-4R alpha/1902 AA	Czech Republic Moravia Cytokine	67.7		67
+IL-4R alpha/1902 AA	Czech Republic Moravia Cytokine pop2	70.8		90
+IL-4R alpha/1902 AA	Germany Cytokine	59.5		200
+IL-4R alpha/1902 AA	Greece Cytokine	72.0		120
+IL-4R alpha/1902 AA	Greece Thrace Region Cytokine	81.0		27
+IL-4R alpha/1902 AA	India North Cytokine	52.0		130
+IL-4R alpha/1902 AA	India Delhi Cytokine	26.5		34
+IL-4R alpha/1902 AA	Iran Tehran Farsi Cytokine	74.0		40
+IL-4R alpha/1902 AA	Iran Cytokine	72.5		40
+IL-4R alpha/1902 AA	Iran South East Sistani Cytokine	71.4		98
+IL-4R alpha/1902 AA	Iran South East Baloch Cytokine	69.8		96
+IL-4R alpha/1902 AA	Iran Yazd Cytokine	74.4		121
+IL-4R alpha/1902 AA	Iran Tehran Cytokine	76.8		140
+IL-4R alpha/1902 AA	Iraq Arab Cytokine	45.3		224
+IL-4R alpha/1902 AA	Ireland South Cytokine	60.5		200
+IL-4R alpha/1902 AA	Italy Torino Cytokine	67.9		140
+IL-4R alpha/1902 AA	Italy Sicily West	63.8		220
+IL-4R alpha/1902 AA	South Korea Seoul Cytokine	75.0		57
+IL-4R alpha/1902 AA	Macedonia Cytokine	68.8		125
+IL-4R alpha/1902 AA	Malaysia Batek Cytokine	84.0		25
+IL-4R alpha/1902 AA	Malaysia Kensiu Cytokine	80.5		36
+IL-4R alpha/1902 AA	Malaysia Peninsular Chinese Cytokine	59.7		77
+IL-4R alpha/1902 AA	Malaysia Peninsular Indian Cytokine	41.7		48
+IL-4R alpha/1902 AA	Malaysia Orang Kanaq Cytokine	27.3		11
+IL-4R alpha/1902 AA	Malaysia Peninsular Malay Cytokine	47.4		97
+IL-4R alpha/1902 AA	Malaysia Lanoh Cytokine	36.0		24
+IL-4R alpha/1902 AA	Malaysia Che Wong Cytokine	27.0		26
+IL-4R alpha/1902 AA	Netherlands Cytokine	63.0		107
+IL-4R alpha/1902 AA	Portugal Center Cytokine	56.0		174
+IL-4R alpha/1902 AA	Portugal Azores Terceira Island Cytokine	66.7		117
+IL-4R alpha/1902 AA	Slovakia Cytokine	59.4		140
+IL-4R alpha/1902 AA	Taiwan Ami Cytokine	80.0		50
+IL-4R alpha/1902 AA	Taiwan Atayal Cytokine	72.0		50
+IL-4R alpha/1902 AA	Taiwan Hakka Cytokine	71.1		45
+IL-4R alpha/1902 AA	Taiwan Yami Cytokine	68.0		40
+IL-4R alpha/1902 AA	Taiwan Tsou Cytokine	66.0		50
+IL-4R alpha/1902 AA	Taiwan Minnan Cytokine	62.0		50
+IL-4R alpha/1902 AA	Turkey Istanbul Cytokine	64.5		104
+IL-4R alpha/1902 AA	Turkey Bursa Cytokine	80.7		60
+IL-4R alpha/1902 AA	Uganda Baganda Cytokine	8.9		115
+IL-4R alpha/1902 AA	USA Bronx Hispanic Cytokine	40.9		173
+IL-4R alpha/1902 AA	USA Upstate NY Caucasian Renal Recs Cytokine	60.3		133
+IL-4R alpha/1902 AA	USA Upstate NY Af Am Renal Recs Cytokine	6.7		16
+IL-4R alpha/1902 AA	Zimbabwe Harare Shona Cytokine	7.1		118
+IL-4R alpha/1902 AG	Brazil Parana Mixed Cytokine	39.1		823
+IL-4R alpha/1902 AG	Brazil Sao Paulo Mixed Cytokine	43.9		99
+IL-4R alpha/1902 AG	Cyprus Cytokine	27.6		100
+IL-4R alpha/1902 AG	Czech Republic Prague Cytokine	38.6		103
+IL-4R alpha/1902 AG	Czech Republic Moravia Cytokine pop2	22.9		90
+IL-4R alpha/1902 AG	Czech Republic Moravia Cytokine	29.2		67
+IL-4R alpha/1902 AG	Germany Cytokine	35.5		200
+IL-4R alpha/1902 AG	Greece Cytokine	27.0		120
+IL-4R alpha/1902 AG	Greece Thrace Region Cytokine	19.0		27
+IL-4R alpha/1902 AG	India North Cytokine	39.0		130
+IL-4R alpha/1902 AG	India Delhi Cytokine	73.5		34
+IL-4R alpha/1902 AG	Iran South East Baloch Cytokine	30.2		96
+IL-4R alpha/1902 AG	Iran South East Sistani Cytokine	27.6		98
+IL-4R alpha/1902 AG	Iran Cytokine	15.0		40
+IL-4R alpha/1902 AG	Iran Tehran Farsi Cytokine	20.0		40
+IL-4R alpha/1902 AG	Iran Tehran Cytokine	21.7		140
+IL-4R alpha/1902 AG	Iran Yazd Cytokine	16.2		121
+IL-4R alpha/1902 AG	Iraq Arab Cytokine	40.8		224
+IL-4R alpha/1902 AG	Ireland South Cytokine	35.5		200
+IL-4R alpha/1902 AG	Italy Torino Cytokine	27.1		140
+IL-4R alpha/1902 AG	Italy Sicily West	33.1		220
+IL-4R alpha/1902 AG	South Korea Seoul Cytokine	23.0		57
+IL-4R alpha/1902 AG	Macedonia Cytokine	27.2		125
+IL-4R alpha/1902 AG	Malaysia Batek Cytokine	16.0		25
+IL-4R alpha/1902 AG	Malaysia Che Wong Cytokine	69.2		26
+IL-4R alpha/1902 AG	Malaysia Lanoh Cytokine	44.0		24
+IL-4R alpha/1902 AG	Malaysia Peninsular Malay Cytokine	37.1		97
+IL-4R alpha/1902 AG	Malaysia Orang Kanaq Cytokine	54.5		11
+IL-4R alpha/1902 AG	Malaysia Peninsular Indian Cytokine	54.2		48
+IL-4R alpha/1902 AG	Malaysia Peninsular Chinese Cytokine	33.8		77
+IL-4R alpha/1902 AG	Malaysia Kensiu Cytokine	16.7		36
+IL-4R alpha/1902 AG	Netherlands Cytokine	28.0		107
+IL-4R alpha/1902 AG	Portugal Center Cytokine	34.0		174
+IL-4R alpha/1902 AG	Portugal Azores Terceira Island Cytokine	26.5		117
+IL-4R alpha/1902 AG	Slovakia Cytokine	34.1		140
+IL-4R alpha/1902 AG	Taiwan Atayal Cytokine	24.0		50
+IL-4R alpha/1902 AG	Taiwan Ami Cytokine	20.0		50
+IL-4R alpha/1902 AG	Taiwan Minnan Cytokine	36.0		50
+IL-4R alpha/1902 AG	Taiwan Tsou Cytokine	32.0		50
+IL-4R alpha/1902 AG	Taiwan Yami Cytokine	30.0		40
+IL-4R alpha/1902 AG	Taiwan Hakka Cytokine	24.5		45
+IL-4R alpha/1902 AG	Turkey Bursa Cytokine	15.8		60
+IL-4R alpha/1902 AG	Turkey Istanbul Cytokine	30.8		104
+IL-4R alpha/1902 AG	Uganda Baganda Cytokine	21.4		115
+IL-4R alpha/1902 AG	USA Bronx Hispanic Cytokine	49.4		173
+IL-4R alpha/1902 AG	USA Upstate NY Af Am Renal Recs Cytokine	40.0		16
+IL-4R alpha/1902 AG	USA Upstate NY Caucasian Renal Recs Cytokine	37.4		133
+IL-4R alpha/1902 AG	Zimbabwe Harare Shona Cytokine	26.2		118
+IL-4R alpha/1902 GG	Brazil Sao Paulo Mixed Cytokine	17.3		99
+IL-4R alpha/1902 GG	Brazil Parana Mixed Cytokine	5.8		823
+IL-4R alpha/1902 GG	Cyprus Cytokine	2.0		100
+IL-4R alpha/1902 GG	Czech Republic Prague Cytokine	3.4		103
+IL-4R alpha/1902 GG	Czech Republic Moravia Cytokine	3.1		67
+IL-4R alpha/1902 GG	Czech Republic Moravia Cytokine pop2	6.3		90
+IL-4R alpha/1902 GG	Germany Cytokine	5.0		200
+IL-4R alpha/1902 GG	Greece Cytokine	1.0		120
+IL-4R alpha/1902 GG	Greece Thrace Region Cytokine	0.0		27
+IL-4R alpha/1902 GG	India North Cytokine	9.0		130
+IL-4R alpha/1902 GG	India Delhi Cytokine	0.0		34
+IL-4R alpha/1902 GG	Iran Tehran Farsi Cytokine	6.0		40
+IL-4R alpha/1902 GG	Iran Cytokine	12.5		40
+IL-4R alpha/1902 GG	Iran South East Sistani Cytokine	1.0		98
+IL-4R alpha/1902 GG	Iran South East Baloch Cytokine	0.0		96
+IL-4R alpha/1902 GG	Iran Yazd Cytokine	9.4		121
+IL-4R alpha/1902 GG	Iran Tehran Cytokine	1.5		140
+IL-4R alpha/1902 GG	Iraq Arab Cytokine	13.9		224
+IL-4R alpha/1902 GG	Ireland South Cytokine	4.0		200
+IL-4R alpha/1902 GG	Italy Torino Cytokine	5.0		140
+IL-4R alpha/1902 GG	Italy Sicily West	3.1		220
+IL-4R alpha/1902 GG	South Korea Seoul Cytokine	2.0		57
+IL-4R alpha/1902 GG	Macedonia Cytokine	4.0		125
+IL-4R alpha/1902 GG	Malaysia Batek Cytokine	0.0		25
+IL-4R alpha/1902 GG	Malaysia Kensiu Cytokine	2.8		36
+IL-4R alpha/1902 GG	Malaysia Peninsular Chinese Cytokine	6.5		77
+IL-4R alpha/1902 GG	Malaysia Peninsular Indian Cytokine	4.2		48
+IL-4R alpha/1902 GG	Malaysia Orang Kanaq Cytokine	18.2		11
+IL-4R alpha/1902 GG	Malaysia Peninsular Malay Cytokine	15.5		97
+IL-4R alpha/1902 GG	Malaysia Lanoh Cytokine	20.0		24
+IL-4R alpha/1902 GG	Malaysia Che Wong Cytokine	3.8		26
+IL-4R alpha/1902 GG	Netherlands Cytokine	9.0		107
+IL-4R alpha/1902 GG	Portugal Center Cytokine	10.0		174
+IL-4R alpha/1902 GG	Portugal Azores Terceira Island Cytokine	6.8		117
+IL-4R alpha/1902 GG	Slovakia Cytokine	6.5		140
+IL-4R alpha/1902 GG	Taiwan Ami Cytokine	0.0		50
+IL-4R alpha/1902 GG	Taiwan Atayal Cytokine	4.0		50
+IL-4R alpha/1902 GG	Taiwan Hakka Cytokine	4.4		45
+IL-4R alpha/1902 GG	Taiwan Yami Cytokine	2.0		40
+IL-4R alpha/1902 GG	Taiwan Tsou Cytokine	2.0		50
+IL-4R alpha/1902 GG	Taiwan Minnan Cytokine	2.0		50
+IL-4R alpha/1902 GG	Turkey Istanbul Cytokine	4.7		104
+IL-4R alpha/1902 GG	Turkey Bursa Cytokine	3.5		60
+IL-4R alpha/1902 GG	Uganda Baganda Cytokine	69.6		115
+IL-4R alpha/1902 GG	USA Bronx Hispanic Cytokine	9.7		173
+IL-4R alpha/1902 GG	USA Upstate NY Caucasian Renal Recs Cytokine	2.3		133
+IL-4R alpha/1902 GG	USA Upstate NY Af Am Renal Recs Cytokine	53.3		16
+IL-4R alpha/1902 GG	Zimbabwe Harare Shona Cytokine	66.7		118

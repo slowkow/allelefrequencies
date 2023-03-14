@@ -1,0 +1,212 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+DPA1*01:03	Brazil Ticuna		0.7170	50
+DPA1*01:03	Cameroon Saa		0.3720	172
+DPA1*01:03	China Shanghai pop 2		0.4380	40
+DPA1*01:03	China Zhejiang Han pop 2		0.3193	833
+DPA1*01:03	Ecuador African		0.2070	58
+DPA1*01:03	France Ceph		0.8180	124
+DPA1*01:03	Gabon Lambarene		0.4250	120
+DPA1*01:03	Gambia		0.2120	146
+DPA1*01:03	Gambia pop 2		0.3250	100
+DPA1*01:03	Hong Kong Chinese HKBMDR. DQ and DP	48.9	0.2918	1,064
+DPA1*01:03	India Bombay		0.5930	59
+DPA1*01:03	Japan Fukuoka		0.3310	86
+DPA1*01:03	Japan pop 17		0.4030	3,078
+DPA1*01:03	Liberia Bong County		0.0950	110
+DPA1*01:03	Mexico Chiapas Lacandon Mayans		0.9014	218
+DPA1*01:03	Mexico Sonora Seri		0.8600	34
+DPA1*01:03	New Zealand Maori pop 2	77.3	0.4770	55
+DPA1*01:03	Nigeria Southwest Abanla Yoruba		0.2350	130
+DPA1*01:03	Niue pop 2	48.4	0.2580	38
+DPA1*01:03	Papua New Guinea Highland pop2		0.7760	28
+DPA1*01:03	Russia Tuva pop 2		0.7660	169
+DPA1*01:03	Samoa pop 3	52.4	0.3570	65
+DPA1*01:03	Singapore SGVP Chinese CHS		0.2800	96
+DPA1*01:03	Singapore SGVP Malay MAS		0.4260	89
+DPA1*01:03	Singapore SGVP. Indian INS		0.6400	86
+DPA1*01:03	South Africa Worcester	75.0	0.4510	159
+DPA1*01:03	Spain Gipuzkoa Basque		0.7750	100
+DPA1*01:03	Spain Navarre Basques		0.7670	116
+DPA1*01:03	Sweden pop 2		0.8650	200
+DPA1*01:03	Tonga pop 2	60.0	0.3560	50
+DPA1*01:03	Uganda Baganda		0.3080	47
+DPA1*01:03	USA Arizona Pima		0.9540	100
+DPA1*01:03	USA Arizona Pima pop2		1.0000	18
+DPA1*01:04	Brazil Barra Mansa Rio State Black		0.0143	73
+DPA1*01:04	Brazil Barra Mansa Rio State Caucasian		0.0181	405
+DPA1*01:04	Brazil Rio de Janeiro Caucasian		0.0011	521
+DPA1*01:04	Brazil Rio de Janeiro Parda		0.0033	170
+DPA1*01:04	Cameroon Saa		0	172
+DPA1*01:04	China Shanghai pop 2		0	40
+DPA1*01:04	China Zhejiang Han pop 2		0.0006	833
+DPA1*01:04	Ecuador African		0.0090	58
+DPA1*01:04	France Ceph		0.0080	124
+DPA1*01:04	Gambia		0.0030	146
+DPA1*01:04	Gambia pop 2		0	100
+DPA1*01:04	Hong Kong Chinese HKBMDR HLA 11 loci	0.0	0.0002	5,266
+DPA1*01:04	India Bombay		0.0250	59
+DPA1*01:04	Japan Fukuoka		0	86
+DPA1*01:04	New Zealand Maori pop 2	0.0	0	55
+DPA1*01:04	Niue pop 2	0.0	0	38
+DPA1*01:04	Papua New Guinea Highland pop2		0	28
+DPA1*01:04	Russia  Belgorod region	0.7	0.0033	153
+DPA1*01:04	Russia Tuva pop 2		0.0120	169
+DPA1*01:04	Samoa pop 3	0.0	0	65
+DPA1*01:04	Singapore SGVP Chinese CHS		0.0050	96
+DPA1*01:04	Singapore SGVP Malay MAS		0	89
+DPA1*01:04	Singapore SGVP. Indian INS		0.0180	86
+DPA1*01:04	Slovenia	1.0	0.0050	100
+DPA1*01:04	South Africa Worcester	3.0	0.0160	159
+DPA1*01:04	Sweden pop 2		0	200
+DPA1*01:04	Tonga pop 2	0.0	0	50
+DPA1*01:04	Uganda Baganda		0	47
+DPA1*01:04	USA Arizona Gila River Pima		0.0002	3,000
+DPA1*01:05	New Zealand Maori pop 2	0.0	0	55
+DPA1*01:05	Niue pop 2	0.0	0	38
+DPA1*01:05	Samoa pop 3	0.0	0	65
+DPA1*01:05	Spain Navarre Basques		0.0170	116
+DPA1*01:05	Tonga pop 2	0.0	0	50
+DPA1*01:07	Niue pop 2	3.2	0.0160	38
+DPA1*01:10	Hong Kong Chinese HKBMDR HLA 11 loci	0.0	0.0000900	5,266
+DPA1*01:11	Hong Kong Chinese HKBMDR HLA 11 loci	0.2	0.0008	5,266
+DPA1*01:11	Japan pop 17		0.0003	3,078
+DPA1*01:11	Mexico Chiapas Lacandon Mayans		0.0023	218
+DPA1*01:12	Brazil Barra Mansa Rio State Caucasian		0.0023	405
+DPA1*01:12	Mexico Chiapas Lacandon Mayans		0.0023	218
+DPA1*01:12	South Africa Worcester	2.0	0.0080	159
+DPA1*02:01	China Zhejiang Han pop 2		0.1038	833
+DPA1*02:01	Hong Kong Chinese HKBMDR. DQ and DP	18.8	0.0982	1,064
+DPA1*02:01	Japan pop 17		0.1602	3,078
+DPA1*02:01	Japan pop 4	31.0	0.1690	525
+DPA1*02:01	Mexico Chiapas Lacandon Mayans		0.0252	218
+DPA1*02:01	Mexico Sonora Seri		0.1200	34
+DPA1*02:01	Mongolia Tarialan Khoton		0.0500	85
+DPA1*02:01	Mongolia Ulaanbaatar Khalkha		0.2680	41
+DPA1*02:01	Russia  Belgorod region	0.7	0.0065	153
+DPA1*02:01	Russia Siberia Chukotka Peninsula Chukchi		0.0100	59
+DPA1*02:01	Russia Siberia Chukotka Peninsula Eskimo		0.1000	80
+DPA1*02:01	Russia Siberia Gvaysugi Udege		0	25
+DPA1*02:01	Russia Siberia North East Kamchatka Koryak		0	92
+DPA1*02:01	Russia Siberia NW of Sakhalin Island Nivkh		0.0600	32
+DPA1*02:01	Russia Siberia Polygus Evenk		0	35
+DPA1*02:01	Russia Siberia Sulamai Ket		0.0700	22
+DPA1*02:01	Singapore SGVP Chinese CHS		0.0970	96
+DPA1*02:01	Singapore SGVP Malay MAS		0.1650	89
+DPA1*02:01	Singapore SGVP. Indian INS		0.2320	86
+DPA1*02:01	South Africa Worcester	48.0	0.2380	159
+DPA1*02:01	Spain Gipuzkoa Basque		0.1880	100
+DPA1*02:01	Spain Navarre Basques		0.1850	116
+DPA1*02:01	United Kingdom	31.8	0.1740	187
+DPA1*02:01	Venezuela Aroy Yucpa		0.7060	17
+DPA1*02:01	Venezuela Campo Rosario Bari		0.2540	26
+DPA1*02:01	Venezuela Marewa Yucpa		0.1150	29
+DPA1*02:01	Venezuela Orinoco Delta Warao		0.2790	34
+DPA1*02:01	Venezuela Peraya Yucpa		0.1150	26
+DPA1*02:01	Venezuela Saimadoyi Bari		0.1860	35
+DPA1*02:02	China Zhejiang Han pop 2		0.5330	833
+DPA1*02:02	Hong Kong Chinese HKBMDR. DQ and DP	78.7	0.5578	1,064
+DPA1*02:02	Japan pop 17		0.4352	3,078
+DPA1*02:02	Mexico Chiapas Lacandon Mayans		0.0665	218
+DPA1*02:02	New Zealand Maori pop 2	72.7	0.4770	55
+DPA1*02:02	Niue pop 2	96.8	0.7260	38
+DPA1*02:02	Norway		0.1400	181
+DPA1*02:02	Samoa pop 3	76.2	0.6190	65
+DPA1*02:02	Singapore SGVP Chinese CHS		0.5910	96
+DPA1*02:02	Singapore SGVP Malay MAS		0.3300	89
+DPA1*02:02	Singapore SGVP. Indian INS		0.1100	86
+DPA1*02:02	South Africa Worcester	28.0	0.1560	159
+DPA1*02:02	Spain Gipuzkoa Basque		0.0100	100
+DPA1*02:02	Spain Navarre Basques		0.0220	116
+DPA1*02:02	Tonga pop 2	86.7	0.6220	50
+DPA1*02:02	United Kingdom	8.4	0.0430	187
+DPA1*02:03	Kenya		0.0040	144
+DPA1*02:03	Mexico Chiapas Lacandon Mayans		0.0023	218
+DPA1*02:03	New Zealand Maori pop 2	0.0	0	55
+DPA1*02:03	Niue pop 2	0.0	0	38
+DPA1*02:03	Spain Navarre Basques		0.0040	116
+DPA1*02:03	Tonga pop 2	0.0	0	50
+DPA1*02:06	Brazil Rio de Janeiro Black		0.0083	68
+DPA1*02:06	Brazil Rio de Janeiro Caucasian		0.0043	521
+DPA1*02:06	Brazil Rio de Janeiro Parda		0.0065	170
+DPA1*02:06	Russia  Belgorod region	1.3	0.0065	153
+DPA1*02:06	USA Arizona Gila River Pima		0.0002	3,000
+DPA1*02:07	China Zhejiang Han pop 2		0.0180	833
+DPA1*02:07	Hong Kong Chinese HKBMDR. DQ and DP	3.0	0.0150	1,064
+DPA1*02:07	Russia  Belgorod region	2.6	0.0131	153
+DPA1*02:10	China Zhejiang Han pop 2		0.0012	833
+DPA1*02:10	Hong Kong Chinese HKBMDR HLA 11 loci	0.2	0.0008	5,266
+DPA1*02:10	Hong Kong Chinese HKBMDR. DQ and DP	0.1	0.0005	1,064
+DPA1*03:01	Cameroon Saa		0.2620	172
+DPA1*03:01	China Shanghai pop 2		0.0120	40
+DPA1*03:01	Ecuador African		0.1380	58
+DPA1*03:01	France Ceph		0	124
+DPA1*03:01	Gabon Lambarene		0.2080	120
+DPA1*03:01	Gambia		0.0820	146
+DPA1*03:01	Gambia pop 2		0.0850	100
+DPA1*03:01	India Bombay		0	59
+DPA1*03:01	Japan Fukuoka		0	86
+DPA1*03:01	Japan pop 4	0.0	0	525
+DPA1*03:01	Kenya		0.2170	144
+DPA1*03:01	Liberia Bong County		0.1550	110
+DPA1*03:01	New Zealand Maori pop 2	0.0	0	55
+DPA1*03:01	Nigeria Southwest Abanla Yoruba		0.1150	130
+DPA1*03:01	Niue pop 2	0.0	0	38
+DPA1*03:01	Papua New Guinea Highland pop2		0	28
+DPA1*03:01	Russia Tuva pop 2		0	169
+DPA1*03:01	Samoa pop 3	0.0	0	65
+DPA1*03:01	Slovenia	0.0	0	100
+DPA1*03:01	South Africa Worcester	20.0	0.0980	159
+DPA1*03:01	Spain Navarre Basques		0.0040	116
+DPA1*03:01	Sweden pop 2		0.0050	200
+DPA1*03:01	Tonga pop 2	0.0	0	50
+DPA1*03:01	Uganda Baganda		0.2660	47
+DPA1*03:01	United Kingdom	0.0	0	187
+DPA1*03:01	USA Arizona Gila River Pima		0.0003	3,000
+DPA1*03:02	Brazil Barra Mansa Rio State Caucasian		0.0023	405
+DPA1*03:02	Cameroon Saa		0.0170	172
+DPA1*03:02	Ecuador African		0	58
+DPA1*03:02	France Ceph		0	124
+DPA1*03:02	Gambia		0	146
+DPA1*03:02	India Bombay		0	59
+DPA1*03:02	Japan Fukuoka		0	86
+DPA1*03:02	Kenya		0.0080	144
+DPA1*03:02	Papua New Guinea Highland pop2		0	28
+DPA1*03:02	Russia Tuva pop 2		0	169
+DPA1*03:02	Uganda Baganda		0	47
+DPA1*04:01	Brazil Rio de Janeiro Black		0.0167	68
+DPA1*04:01	Brazil Rio de Janeiro Caucasian		0.0011	521
+DPA1*04:01	Brazil Rio de Janeiro Parda		0.0065	170
+DPA1*04:01	Cameroon Saa		0.0320	172
+DPA1*04:01	China Shanghai pop 2		0.0120	40
+DPA1*04:01	China Zhejiang Han pop 2		0.0240	833
+DPA1*04:01	Cook Islands		0.0200	50
+DPA1*04:01	Ecuador African		0	58
+DPA1*04:01	France Ceph		0	124
+DPA1*04:01	Gabon Lambarene		0.0380	120
+DPA1*04:01	Gambia		0	146
+DPA1*04:01	Gambia pop 2		0	100
+DPA1*04:01	Hong Kong Chinese HKBMDR. DQ and DP	7.1	0.0367	1,064
+DPA1*04:01	India Bombay		0.0080	59
+DPA1*04:01	Japan Fukuoka		0	86
+DPA1*04:01	Japan pop 17		0.0013	3,078
+DPA1*04:01	Japan pop 4	0.0	0	525
+DPA1*04:01	Kenya		0.0160	144
+DPA1*04:01	Mexico Sonora Seri		0.0200	34
+DPA1*04:01	New Zealand Maori pop 2	0.0	0	55
+DPA1*04:01	Niue pop 2	0.0	0	38
+DPA1*04:01	Papua New Guinea Highland pop2		0.0450	28
+DPA1*04:01	Russia Tuva pop 2		0.0060	169
+DPA1*04:01	Samoa pop 3	0.0	0	65
+DPA1*04:01	Samoa pop2		0	50
+DPA1*04:01	Singapore SGVP Chinese CHS		0.0270	96
+DPA1*04:01	Singapore SGVP Malay MAS		0.0800	89
+DPA1*04:01	Singapore SGVP. Indian INS		0	86
+DPA1*04:01	Slovenia	0.0	0	100
+DPA1*04:01	South Africa Worcester	7.0	0.0330	159
+DPA1*04:01	Spain Navarre Basques		0	116
+DPA1*04:01	Sweden pop 2		0	200
+DPA1*04:01	Tokelau		0	50
+DPA1*04:01	Tonga		0.0100	50
+DPA1*04:01	Tonga pop 2	2.2	0.0110	50
+DPA1*04:01	Uganda Baganda		0.0430	47
+DPA1*04:01	United Kingdom	0.6	0.0030	187

@@ -1,0 +1,125 @@
+---
+title: "Allele Frequencies Net Database"
+author: "Kamil Slowikowski"
+date: "`r format(Sys.Date())`"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+  html_document:
+    self_contained: true
+---
+
+```{r,include=FALSE}
+options(width=100)
+library(data.table)
+library(dplyr)
+library(glue)
+library(readr)
+library(magrittr)
+library(ggplot2)
+library(ggstance)
+```
+
+## Introduction
+
+Here, we share a script `allelefrequencies.py` to download allele frequencies
+for HLA, KIR, MIC, and cytokine genes from [Allele Frequency Net
+Database](http://allelefrequencies.net) (AFND).
+
+We also share [`r length(Sys.glob("allelefrequencies.net/*/*.tsv"))` TSV
+files](allelefrequencies.net/) ready for analysis.
+
+Each file looks like this:
+
+```{r}
+d <- fread("allelefrequencies.net/hla/A.tsv")
+head(d)
+```
+
+Definitions:
+
+```
+alleles_over_2n (Alleles / 2n)
+Allele Frequency: total number of copies of the allele in the population sample
+in three decimal format.
+
+indivs_over_n (Individuals / n)
+Percentage of individuals who have the allele or gene.
+```
+
+## Examples
+
+Here are a few examples of how we can use R to analyze these data.
+
+View the largest and smallest populations available in the data:
+
+```{r}
+d %>%
+  mutate(n = parse_number(n)) %>%
+  select(population, n) %>%
+  unique() %>%
+  arrange(-n)
+```
+
+Sum the allele frequencies for each population and see if they add up to 100%:
+
+```{r}
+d %>%
+  mutate(alleles_over_2n = parse_number(alleles_over_2n)) %>%
+  group_by(population) %>%
+  summarize(sum = sum(alleles_over_2n)) %>%
+  count(sum == 1)
+```
+
+```{r, include = FALSE}
+theme_set(
+  theme_bw(base_size = 14) +
+  theme(
+    plot.caption.position = "plot"
+  )  
+)
+```
+
+Plot the frequency of a specific allele in populations with more than 1000
+sampled individuals:
+
+```{r, dpi = 300, fig.width = 9, fig.height = 7}
+
+d <- fread("allelefrequencies.net/hla/DQB1.tsv")
+my_allele <- "DQB1*02:01"
+my_d <- d %>% filter(allele == my_allele) %>%
+  mutate(
+    n = parse_number(n),
+    alleles_over_2n = parse_number(alleles_over_2n)
+  ) %>%
+  filter(n > 1000) %>%
+  arrange(-alleles_over_2n)
+
+ggplot(my_d) +
+  aes(x = alleles_over_2n, y = reorder(population, alleles_over_2n)) +
+  scale_y_discrete(position = "right") +
+  geom_colh() +
+  labs(
+    x = "Allele Frequency (Alleles / 2N)",
+    y = NULL,
+    title =  glue("Frequency of {my_allele} across populations"),
+    caption = "Data from AFND http://allelefrequencies.net"
+  )
+```
+
+## Citation
+
+If you use this data, please cite the latest manuscript about **Allele Frequency
+Net Database**:
+
+- Gonzalez-Galarza FF, McCabe A, Santos EJMD, Jones J, Takeshita L,
+  Ortega-Rivera ND, et al. [Allele frequency net database (AFND) 2020 update:
+  gold-standard data classification, open access genotype data and new query
+  tools.](https://pubmed.ncbi.nlm.nih.gov/31722398) Nucleic Acids Res. 2020;48:
+  D783–D788. doi:10.1093/nar/gkz1029
+
+Also, I want to say thanks to David A. Wells for sharing [scrapeAF][1], which
+inspired me to work on this project.
+
+[1]: https://github.com/DAWells/scrapeAF

@@ -1,0 +1,541 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+TNFalpha/ - 238 AA	Brazil Sao Paulo Mixed Cytokine	0.0		99
+TNFalpha/ - 238 AA	Brazil Parana Mixed Cytokine	0.0		823
+TNFalpha/ - 238 AA	Canada Newfoundland Island Cytokine	1.0		103
+TNFalpha/ - 238 AA	Cyprus Cytokine	0.0		100
+TNFalpha/ - 238 AA	Czech Republic Prague Cytokine	0.0		103
+TNFalpha/ - 238 AA	Czech Republic Moravia Cytokine	0.0		67
+TNFalpha/ - 238 AA	Denmark Cytokine	0.0		55
+TNFalpha/ - 238 AA	England South Cytokine	0.0		260
+TNFalpha/ - 238 AA	Germany Cytokine	0.0		200
+TNFalpha/ - 238 AA	Greece Cytokine	1.0		120
+TNFalpha/ - 238 AA	Greece North Cytokine	0.0		100
+TNFalpha/ - 238 AA	Greece Thrace Region Cytokine	0.0		27
+TNFalpha/ - 238 AA	India North Cytokine	0.8		130
+TNFalpha/ - 238 AA	India Delhi Cytokine	0.0		34
+TNFalpha/ - 238 AA	India North Cytokine pop 2	1.1		569
+TNFalpha/ - 238 AA	Iran Cytokine	2.5		40
+TNFalpha/ - 238 AA	Iran Yazd Cytokine	0.0		121
+TNFalpha/ - 238 AA	Iran Tehran Cytokine	0.7		140
+TNFalpha/ - 238 AA	Iran South East Sistani Cytokine	0.0		98
+TNFalpha/ - 238 AA	Iran South East Baloch Cytokine	0.0		96
+TNFalpha/ - 238 AA	Iraq Arab Cytokine	10.3		224
+TNFalpha/ - 238 AA	Ireland South Cytokine	1.0		200
+TNFalpha/ - 238 AA	Italy Torino Cytokine	0.7		140
+TNFalpha/ - 238 AA	Japan Cytokine	0.0		575
+TNFalpha/ - 238 AA	South Korea Cytokine	1.0		100
+TNFalpha/ - 238 AA	South Korea Seoul Cytokine	3.0		57
+TNFalpha/ - 238 AA	Macedonia Cytokine	1.6		125
+TNFalpha/ - 238 AA	Malaysia Peninsular Malay Cytokine	0.0		97
+TNFalpha/ - 238 AA	Malaysia Peninsular Chinese Cytokine	0.0		77
+TNFalpha/ - 238 AA	Malaysia Peninsular Indian Cytokine	0.0		48
+TNFalpha/ - 238 AA	Malaysia Orang Kanaq Cytokine	0.0		11
+TNFalpha/ - 238 AA	Malaysia Che Wong Cytokine	0.0		26
+TNFalpha/ - 238 AA	Malaysia Semai Cytokine	0.0		42
+TNFalpha/ - 238 AA	Malaysia Batek Cytokine	0.0		25
+TNFalpha/ - 238 AA	Malaysia Kensiu Cytokine	0.0		36
+TNFalpha/ - 238 AA	Malaysia Lanoh Cytokine	0.0		24
+TNFalpha/ - 238 AA	Netherlands Cytokine	1.0		107
+TNFalpha/ - 238 AA	Norway Cytokine	0.0		131
+TNFalpha/ - 238 AA	Portugal Azores Terceira Island Cytokine	0.0		117
+TNFalpha/ - 238 AA	Portugal Center Cytokine	6.0		174
+TNFalpha/ - 238 AA	Romania Cytokine	0.0		147
+TNFalpha/ - 238 AA	Slovakia Cytokine	0.0		140
+TNFalpha/ - 238 AA	Spain Cytokine	2.1		97
+TNFalpha/ - 238 AA	Spain Granada Cytokine	0.0		102
+TNFalpha/ - 238 AA	Taiwan Ami Cytokine	0.0		50
+TNFalpha/ - 238 AA	Taiwan Atayal Cytokine	0.0		50
+TNFalpha/ - 238 AA	Taiwan Tsou Cytokine	0.0		50
+TNFalpha/ - 238 AA	Taiwan Minnan Cytokine	0.0		50
+TNFalpha/ - 238 AA	Taiwan Hakka Cytokine	0.0		45
+TNFalpha/ - 238 AA	Taiwan Yami Cytokine	0.0		40
+TNFalpha/ - 238 AA	Thailand Cytokine	0.0		154
+TNFalpha/ - 238 AA	Turkey Bursa Cytokine	1.8		60
+TNFalpha/ - 238 AA	Turkey Istanbul Cytokine	0.0		104
+TNFalpha/ - 238 AA	Uganda Baganda Cytokine	1.8		115
+TNFalpha/ - 238 AA	USA Bronx Hispanic Cytokine	1.9		173
+TNFalpha/ - 238 AA	Zimbabwe Harare Shona Cytokine	0.0		118
+TNFalpha/ - 238 AG	Brazil Sao Paulo Mixed Cytokine	7.1		99
+TNFalpha/ - 238 AG	Brazil Parana Mixed Cytokine	10.3		823
+TNFalpha/ - 238 AG	Canada Newfoundland Island Cytokine	9.0		103
+TNFalpha/ - 238 AG	Cyprus Cytokine	7.1		100
+TNFalpha/ - 238 AG	Czech Republic Prague Cytokine	9.8		103
+TNFalpha/ - 238 AG	Czech Republic Moravia Cytokine	9.1		67
+TNFalpha/ - 238 AG	Denmark Cytokine	5.0		55
+TNFalpha/ - 238 AG	England South Cytokine	21.8		260
+TNFalpha/ - 238 AG	Germany Cytokine	11.5		200
+TNFalpha/ - 238 AG	Greece Cytokine	2.0		120
+TNFalpha/ - 238 AG	Greece North Cytokine	0.0		100
+TNFalpha/ - 238 AG	Greece Thrace Region Cytokine	7.0		27
+TNFalpha/ - 238 AG	India North Cytokine	12.3		130
+TNFalpha/ - 238 AG	India Delhi Cytokine	8.8		34
+TNFalpha/ - 238 AG	India North Cytokine pop 2	62.5		569
+TNFalpha/ - 238 AG	Iran Cytokine	25.0		40
+TNFalpha/ - 238 AG	Iran South East Baloch Cytokine	8.3		96
+TNFalpha/ - 238 AG	Iran South East Sistani Cytokine	17.3		98
+TNFalpha/ - 238 AG	Iran Tehran Cytokine	41.6		140
+TNFalpha/ - 238 AG	Iran Yazd Cytokine	50.0		121
+TNFalpha/ - 238 AG	Iraq Arab Cytokine	24.5		224
+TNFalpha/ - 238 AG	Ireland South Cytokine	13.5		200
+TNFalpha/ - 238 AG	Italy Torino Cytokine	13.6		140
+TNFalpha/ - 238 AG	Japan Cytokine	4.0		575
+TNFalpha/ - 238 AG	South Korea Cytokine	5.0		100
+TNFalpha/ - 238 AG	South Korea Seoul Cytokine	13.0		57
+TNFalpha/ - 238 AG	Macedonia Cytokine	12.8		125
+TNFalpha/ - 238 AG	Malaysia Peninsular Malay Cytokine	1.0		97
+TNFalpha/ - 238 AG	Malaysia Peninsular Indian Cytokine	4.2		48
+TNFalpha/ - 238 AG	Malaysia Peninsular Chinese Cytokine	0.0		77
+TNFalpha/ - 238 AG	Malaysia Orang Kanaq Cytokine	18.2		11
+TNFalpha/ - 238 AG	Malaysia Semai Cytokine	0.0		42
+TNFalpha/ - 238 AG	Malaysia Che Wong Cytokine	7.7		26
+TNFalpha/ - 238 AG	Malaysia Batek Cytokine	0.0		25
+TNFalpha/ - 238 AG	Malaysia Lanoh Cytokine	0.0		24
+TNFalpha/ - 238 AG	Malaysia Kensiu Cytokine	8.3		36
+TNFalpha/ - 238 AG	Netherlands Cytokine	6.0		107
+TNFalpha/ - 238 AG	Norway Cytokine	12.0		131
+TNFalpha/ - 238 AG	Portugal Azores Terceira Island Cytokine	13.7		117
+TNFalpha/ - 238 AG	Portugal Center Cytokine	35.0		174
+TNFalpha/ - 238 AG	Romania Cytokine	4.0		147
+TNFalpha/ - 238 AG	Slovakia Cytokine	7.9		140
+TNFalpha/ - 238 AG	Spain Cytokine	15.5		97
+TNFalpha/ - 238 AG	Spain Granada Cytokine	17.5		102
+TNFalpha/ - 238 AG	Taiwan Minnan Cytokine	4.0		50
+TNFalpha/ - 238 AG	Taiwan Tsou Cytokine	4.0		50
+TNFalpha/ - 238 AG	Taiwan Atayal Cytokine	24.0		50
+TNFalpha/ - 238 AG	Taiwan Ami Cytokine	4.0		50
+TNFalpha/ - 238 AG	Taiwan Yami Cytokine	5.0		40
+TNFalpha/ - 238 AG	Taiwan Hakka Cytokine	11.0		45
+TNFalpha/ - 238 AG	Thailand Cytokine	7.1		154
+TNFalpha/ - 238 AG	Turkey Bursa Cytokine	21.4		60
+TNFalpha/ - 238 AG	Turkey Istanbul Cytokine	13.1		104
+TNFalpha/ - 238 AG	Uganda Baganda Cytokine	17.0		115
+TNFalpha/ - 238 AG	USA Bronx Hispanic Cytokine	20.3		173
+TNFalpha/ - 238 AG	Zimbabwe Harare Shona Cytokine	14.3		118
+TNFalpha/ - 238 GG	Brazil Sao Paulo Mixed Cytokine	92.9		99
+TNFalpha/ - 238 GG	Brazil Parana Mixed Cytokine	89.7		823
+TNFalpha/ - 238 GG	Canada Newfoundland Island Cytokine	93.0		103
+TNFalpha/ - 238 GG	Cyprus Cytokine	92.9		100
+TNFalpha/ - 238 GG	Czech Republic Prague Cytokine	90.2		103
+TNFalpha/ - 238 GG	Czech Republic Moravia Cytokine	90.9		67
+TNFalpha/ - 238 GG	Denmark Cytokine	95.0		55
+TNFalpha/ - 238 GG	England South Cytokine	78.2		260
+TNFalpha/ - 238 GG	Germany Cytokine	88.5		200
+TNFalpha/ - 238 GG	Greece Cytokine	97.0		120
+TNFalpha/ - 238 GG	Greece North Cytokine	100.0		100
+TNFalpha/ - 238 GG	Greece Thrace Region Cytokine	93.0		27
+TNFalpha/ - 238 GG	India North Cytokine	86.9		130
+TNFalpha/ - 238 GG	India Delhi Cytokine	91.2		34
+TNFalpha/ - 238 GG	India North Cytokine pop 2	36.4		569
+TNFalpha/ - 238 GG	Iran Cytokine	72.5		40
+TNFalpha/ - 238 GG	Iran Yazd Cytokine	50.0		121
+TNFalpha/ - 238 GG	Iran Tehran Cytokine	57.7		140
+TNFalpha/ - 238 GG	Iran South East Sistani Cytokine	82.7		98
+TNFalpha/ - 238 GG	Iran South East Baloch Cytokine	91.7		96
+TNFalpha/ - 238 GG	Iraq Arab Cytokine	65.2		224
+TNFalpha/ - 238 GG	Ireland South Cytokine	85.5		200
+TNFalpha/ - 238 GG	Italy Torino Cytokine	85.7		140
+TNFalpha/ - 238 GG	Japan Cytokine	96.0		575
+TNFalpha/ - 238 GG	South Korea Cytokine	94.0		100
+TNFalpha/ - 238 GG	South Korea Seoul Cytokine	84.0		57
+TNFalpha/ - 238 GG	Macedonia Cytokine	85.6		125
+TNFalpha/ - 238 GG	Malaysia Peninsular Malay Cytokine	99.0		97
+TNFalpha/ - 238 GG	Malaysia Peninsular Chinese Cytokine	100.0		77
+TNFalpha/ - 238 GG	Malaysia Peninsular Indian Cytokine	95.8		48
+TNFalpha/ - 238 GG	Malaysia Orang Kanaq Cytokine	81.8		11
+TNFalpha/ - 238 GG	Malaysia Che Wong Cytokine	92.3		26
+TNFalpha/ - 238 GG	Malaysia Semai Cytokine	100.0		42
+TNFalpha/ - 238 GG	Malaysia Batek Cytokine	100.0		25
+TNFalpha/ - 238 GG	Malaysia Kensiu Cytokine	91.7		36
+TNFalpha/ - 238 GG	Malaysia Lanoh Cytokine	100.0		24
+TNFalpha/ - 238 GG	Netherlands Cytokine	93.0		107
+TNFalpha/ - 238 GG	Norway Cytokine	88.0		131
+TNFalpha/ - 238 GG	Portugal Azores Terceira Island Cytokine	86.3		117
+TNFalpha/ - 238 GG	Portugal Center Cytokine	59.0		174
+TNFalpha/ - 238 GG	Romania Cytokine	96.0		147
+TNFalpha/ - 238 GG	Slovakia Cytokine	92.1		140
+TNFalpha/ - 238 GG	Spain Cytokine	82.5		97
+TNFalpha/ - 238 GG	Spain Granada Cytokine	82.5		102
+TNFalpha/ - 238 GG	Taiwan Ami Cytokine	96.0		50
+TNFalpha/ - 238 GG	Taiwan Atayal Cytokine	76.0		50
+TNFalpha/ - 238 GG	Taiwan Tsou Cytokine	96.0		50
+TNFalpha/ - 238 GG	Taiwan Minnan Cytokine	96.0		50
+TNFalpha/ - 238 GG	Taiwan Hakka Cytokine	89.0		45
+TNFalpha/ - 238 GG	Taiwan Yami Cytokine	95.0		40
+TNFalpha/ - 238 GG	Thailand Cytokine	92.9		154
+TNFalpha/ - 238 GG	Turkey Bursa Cytokine	76.8		60
+TNFalpha/ - 238 GG	Turkey Istanbul Cytokine	86.9		104
+TNFalpha/ - 238 GG	Uganda Baganda Cytokine	81.3		115
+TNFalpha/ - 238 GG	USA Bronx Hispanic Cytokine	77.8		173
+TNFalpha/ - 238 GG	Zimbabwe Harare Shona Cytokine	85.7		118
+TNFalpha/ - 308 AA	Argentina Buenos Aires Cytokine	0.0		54
+TNFalpha/ - 308 AA	Brazil Southeast Black Cytokine	1.0		110
+TNFalpha/ - 308 AA	Brazil Southeast Caucasian Cytokine	2.0		153
+TNFalpha/ - 308 AA	Brazil Southeast Mixed race  Cytokine	2.0		100
+TNFalpha/ - 308 AA	Brazil Sao Paulo Mixed Cytokine	2.0		99
+TNFalpha/ - 308 AA	Brazil Sao Paulo and Parana Mixed Cytokine	0.0		214
+TNFalpha/ - 308 AA	Brazil Parana Mixed Cytokine	0.9		823
+TNFalpha/ - 308 AA	Bulgaria Cytokine	4.2		88
+TNFalpha/ - 308 AA	Canada Manitoba Caucasoid Cytokine	3.0		116
+TNFalpha/ - 308 AA	Canada Aboriginal Oji-cree Cytokine	0.0		130
+TNFalpha/ - 308 AA	Canada Newfoundland Island Cytokine	3.0		103
+TNFalpha/ - 308 AA	Colombia Medellin Cytokine	2.0		102
+TNFalpha/ - 308 AA	Cyprus Cytokine	0.0		100
+TNFalpha/ - 308 AA	Czech Republic Prague Cytokine	0.6		103
+TNFalpha/ - 308 AA	Czech Republic Moravia Cytokine	0.0		67
+TNFalpha/ - 308 AA	Czech Republic Prague Cytokine pop2	0.0		125
+TNFalpha/ - 308 AA	Denmark Cytokine	0.0		55
+TNFalpha/ - 308 AA	England Cytokine	4.5		90
+TNFalpha/ - 308 AA	England Southeast Cytokine	3.9		76
+TNFalpha/ - 308 AA	England Newcastle Cytokine	2.4		200
+TNFalpha/ - 308 AA	England Northwest Cytokine	16.0		500
+TNFalpha/ - 308 AA	England South Cytokine	5.9		260
+TNFalpha/ - 308 AA	Germany Cytokine	0.5		200
+TNFalpha/ - 308 AA	Germany Cytokine pop 2	1.6		243
+TNFalpha/ - 308 AA	Germany Cytokine pop 3	2.7		111
+TNFalpha/ - 308 AA	Greece Cytokine	0.0		120
+TNFalpha/ - 308 AA	Greece North Cytokine	0.0		100
+TNFalpha/ - 308 AA	Greece Cytokine pop 2	0.0		78
+TNFalpha/ - 308 AA	Greece Thrace Region Cytokine	0.0		27
+TNFalpha/ - 308 AA	Hong Kong Chinese Cytokine	2.0		100
+TNFalpha/ - 308 AA	India North Cytokine	2.0		130
+TNFalpha/ - 308 AA	India Delhi Cytokine	0.0		34
+TNFalpha/ - 308 AA	India North Cytokine pop 2	0.5		569
+TNFalpha/ - 308 AA	Iran Cytokine	2.5		40
+TNFalpha/ - 308 AA	Iran South East Baloch Cytokine	0.0		96
+TNFalpha/ - 308 AA	Iran South East Sistani Cytokine	1.0		98
+TNFalpha/ - 308 AA	Iran Tehran Cytokine	0.0		140
+TNFalpha/ - 308 AA	Iran Yazd Cytokine	0.9		121
+TNFalpha/ - 308 AA	Iraq Arab Cytokine	6.3		224
+TNFalpha/ - 308 AA	Ireland Northern Cytokine	7.0		100
+TNFalpha/ - 308 AA	Ireland South Cytokine	3.5		200
+TNFalpha/ - 308 AA	Israel Jews Cytokine	0.0		48
+TNFalpha/ - 308 AA	Italy Torino Cytokine	2.1		140
+TNFalpha/ - 308 AA	Italy Central Cytokine	1.4		70
+TNFalpha/ - 308 AA	Italy North Cytokine	0.8		363
+TNFalpha/ - 308 AA	Italy North Pavia Cytokine	4.0		58
+TNFalpha/ - 308 AA	Italy Cytokine	3.0		474
+TNFalpha/ - 308 AA	Italy Sicily Cytokine	0.9		106
+TNFalpha/ - 308 AA	Italy Sicily West	1.8		220
+TNFalpha/ - 308 AA	Japan Cytokine	0.2		575
+TNFalpha/ - 308 AA	Jordan Cytokine	2.5		118
+TNFalpha/ - 308 AA	South Korea Cytokine	1.0		100
+TNFalpha/ - 308 AA	South Korea Seoul Cytokine	0.0		57
+TNFalpha/ - 308 AA	Macedonia Cytokine	1.6		125
+TNFalpha/ - 308 AA	Malaysia Peninsular Malay Cytokine	0.0		97
+TNFalpha/ - 308 AA	Malaysia Peninsular Indian Cytokine	0.0		48
+TNFalpha/ - 308 AA	Malaysia Peninsular Chinese Cytokine	0.0		77
+TNFalpha/ - 308 AA	Malaysia Orang Kanaq Cytokine	0.0		11
+TNFalpha/ - 308 AA	Malaysia Semai Cytokine	0.0		42
+TNFalpha/ - 308 AA	Malaysia Che Wong Cytokine	0.0		26
+TNFalpha/ - 308 AA	Malaysia Batek Cytokine	0.0		25
+TNFalpha/ - 308 AA	Malaysia Lanoh Cytokine	0.0		24
+TNFalpha/ - 308 AA	Malaysia Kensiu Cytokine	0.0		36
+TNFalpha/ - 308 AA	Mexico Guadalajara Mestizo Cytokine	0.0		106
+TNFalpha/ - 308 AA	Mexico Monterrey Mestizo Cytokine	0.9		109
+TNFalpha/ - 308 AA	Mexico Mestizo Cytokine	0.0		40
+TNFalpha/ - 308 AA	Netherlands Cytokine	1.0		107
+TNFalpha/ - 308 AA	Norway Cytokine	0.0		131
+TNFalpha/ - 308 AA	Oman Cytokine	0.0		80
+TNFalpha/ - 308 AA	Poland Cytokine	3.9		205
+TNFalpha/ - 308 AA	Poland Wroclaw Cytokine	2.3		130
+TNFalpha/ - 308 AA	Poland Wroclaw HSCT recipients Cytokine	1.6		134
+TNFalpha/ - 308 AA	Portugal Center Cytokine	14.0		174
+TNFalpha/ - 308 AA	Portugal Azores Terceira Island Cytokine	0.0		117
+TNFalpha/ - 308 AA	Romania Cytokine	3.5		147
+TNFalpha/ - 308 AA	Russia Moscow Cytokine	0.9		228
+TNFalpha/ - 308 AA	Singapore Chinese Cytokine	1.2		83
+TNFalpha/ - 308 AA	Slovakia Cytokine	2.1		140
+TNFalpha/ - 308 AA	South Africa Natal Region Zulu Cytokine	7.0		86
+TNFalpha/ - 308 AA	Spain Granada Cytokine	1.0		102
+TNFalpha/ - 308 AA	Spain Cytokine	1.0		97
+TNFalpha/ - 308 AA	Spain Lugo Cytokine	2.0		128
+TNFalpha/ - 308 AA	Sweden West Cytokine	6.0		103
+TNFalpha/ - 308 AA	Taiwan Minnan Cytokine	2.0		50
+TNFalpha/ - 308 AA	Taiwan Tsou Cytokine	0.0		50
+TNFalpha/ - 308 AA	Taiwan Atayal Cytokine	0.0		50
+TNFalpha/ - 308 AA	Taiwan Ami Cytokine	0.0		50
+TNFalpha/ - 308 AA	Taiwan Yami Cytokine	0.0		40
+TNFalpha/ - 308 AA	Taiwan Hakka Cytokine	0.0		45
+TNFalpha/ - 308 AA	Thailand Cytokine	0.6		154
+TNFalpha/ - 308 AA	Tunisia Cytokine	3.8		157
+TNFalpha/ - 308 AA	Turkey Bursa Cytokine	5.4		60
+TNFalpha/ - 308 AA	Turkey Istanbul Cytokine	1.9		104
+TNFalpha/ - 308 AA	Uganda Baganda Cytokine	1.8		115
+TNFalpha/ - 308 AA	USA Caucasian Bone Marrow Donors Cytokine	2.5		1,477
+TNFalpha/ - 308 AA	USA Hispanic Bone Marrow Donors Cytokine	2.1		74
+TNFalpha/ - 308 AA	USA Amerindian Bone Marrow Donors Cytokine	0.0		23
+TNFalpha/ - 308 AA	USA Florida Cuban Cytokine	1.0		295
+TNFalpha/ - 308 AA	USA Upstate NY Caucasian Heart Recs Cytokine	3.1		64
+TNFalpha/ - 308 AA	USA African American Cytokine	1.6		691
+TNFalpha/ - 308 AA	USA Bronx Hispanic Cytokine	0.0		173
+TNFalpha/ - 308 AA	USA Upstate NY Caucasian Renal Recs Cytokine	6.0		133
+TNFalpha/ - 308 AA	USA Upstate NY Af Am Renal Recs Cytokine	0.0		16
+TNFalpha/ - 308 AA	USA N Carolina Caucasian Cytokine	4.0		81
+TNFalpha/ - 308 AA	USA N Carolina African American Cytokine	2.0		42
+TNFalpha/ - 308 AA	USA Pennsylvania Heart Recipients Af Amer Cytokine	0.0		19
+TNFalpha/ - 308 AA	USA Pennsylvania Heart Recipients Cauc Cytokine	2.7		75
+TNFalpha/ - 308 AA	USA Hispanic Heart Recs Cytokine	3.8		82
+TNFalpha/ - 308 AA	USA African American Heart Recs Cytokine	2.9		39
+TNFalpha/ - 308 AA	USA Caucasian Heart Recs Cytokine	2.4		243
+TNFalpha/ - 308 AA	USA Southeast Caucasian Cytokine	3.6		145
+TNFalpha/ - 308 AA	USA Southeast African American Cytokine	1.1		250
+TNFalpha/ - 308 AA	Venezuela Mixed Cytokine	2.2		46
+TNFalpha/ - 308 AA	Zimbabwe Harare Shona Cytokine	0.0		118
+TNFalpha/ - 308 AG	Argentina Buenos Aires Cytokine	9.3		54
+TNFalpha/ - 308 AG	Brazil Southeast Black Cytokine	21.0		110
+TNFalpha/ - 308 AG	Brazil Southeast Mixed race  Cytokine	27.0		100
+TNFalpha/ - 308 AG	Brazil Southeast Caucasian Cytokine	18.0		153
+TNFalpha/ - 308 AG	Brazil Sao Paulo Mixed Cytokine	21.2		99
+TNFalpha/ - 308 AG	Brazil Sao Paulo and Parana Mixed Cytokine	26.2		214
+TNFalpha/ - 308 AG	Brazil Parana Mixed Cytokine	25.3		823
+TNFalpha/ - 308 AG	Bulgaria Cytokine	23.8		88
+TNFalpha/ - 308 AG	Canada Aboriginal Oji-cree Cytokine	7.0		130
+TNFalpha/ - 308 AG	Canada Manitoba Caucasoid Cytokine	29.0		116
+TNFalpha/ - 308 AG	Canada Newfoundland Island Cytokine	33.0		103
+TNFalpha/ - 308 AG	Colombia Medellin Cytokine	11.8		102
+TNFalpha/ - 308 AG	Cyprus Cytokine	7.1		100
+TNFalpha/ - 308 AG	Czech Republic Prague Cytokine	20.3		103
+TNFalpha/ - 308 AG	Czech Republic Moravia Cytokine	42.4		67
+TNFalpha/ - 308 AG	Czech Republic Prague Cytokine pop2	19.2		125
+TNFalpha/ - 308 AG	Denmark Cytokine	33.0		55
+TNFalpha/ - 308 AG	England Cytokine	31.1		90
+TNFalpha/ - 308 AG	England Southeast Cytokine	35.5		76
+TNFalpha/ - 308 AG	England Newcastle Cytokine	20.8		200
+TNFalpha/ - 308 AG	England Northwest Cytokine	23.0		500
+TNFalpha/ - 308 AG	England South Cytokine	25.9		260
+TNFalpha/ - 308 AG	Germany Cytokine	28.5		200
+TNFalpha/ - 308 AG	Germany Cytokine pop 2	27.7		243
+TNFalpha/ - 308 AG	Germany Cytokine pop 3	24.3		111
+TNFalpha/ - 308 AG	Greece Cytokine	14.0		120
+TNFalpha/ - 308 AG	Greece North Cytokine	23.0		100
+TNFalpha/ - 308 AG	Greece Cytokine pop 2	16.7		78
+TNFalpha/ - 308 AG	Greece Thrace Region Cytokine	32.0		27
+TNFalpha/ - 308 AG	Hong Kong Chinese Cytokine	19.0		100
+TNFalpha/ - 308 AG	India North Cytokine	13.0		130
+TNFalpha/ - 308 AG	India Delhi Cytokine	17.4		34
+TNFalpha/ - 308 AG	India North Cytokine pop 2	12.0		569
+TNFalpha/ - 308 AG	Iran Cytokine	32.5		40
+TNFalpha/ - 308 AG	Iran Yazd Cytokine	38.1		121
+TNFalpha/ - 308 AG	Iran Tehran Cytokine	28.5		140
+TNFalpha/ - 308 AG	Iran South East Sistani Cytokine	17.4		98
+TNFalpha/ - 308 AG	Iran South East Baloch Cytokine	18.8		96
+TNFalpha/ - 308 AG	Iraq Arab Cytokine	40.8		224
+TNFalpha/ - 308 AG	Ireland Northern Cytokine	32.0		100
+TNFalpha/ - 308 AG	Ireland South Cytokine	40.5		200
+TNFalpha/ - 308 AG	Israel Jews Cytokine	12.5		48
+TNFalpha/ - 308 AG	Italy Torino Cytokine	14.3		140
+TNFalpha/ - 308 AG	Italy Central Cytokine	18.6		70
+TNFalpha/ - 308 AG	Italy North Cytokine	22.2		363
+TNFalpha/ - 308 AG	Italy North Pavia Cytokine	25.0		58
+TNFalpha/ - 308 AG	Italy Cytokine	24.6		474
+TNFalpha/ - 308 AG	Italy Sicily Cytokine	21.7		106
+TNFalpha/ - 308 AG	Italy Sicily West	24.1		220
+TNFalpha/ - 308 AG	Japan Cytokine	3.1		575
+TNFalpha/ - 308 AG	Jordan Cytokine	15.3		118
+TNFalpha/ - 308 AG	South Korea Cytokine	9.0		100
+TNFalpha/ - 308 AG	South Korea Seoul Cytokine	12.0		57
+TNFalpha/ - 308 AG	Macedonia Cytokine	23.2		125
+TNFalpha/ - 308 AG	Malaysia Peninsular Malay Cytokine	4.1		97
+TNFalpha/ - 308 AG	Malaysia Peninsular Chinese Cytokine	2.6		77
+TNFalpha/ - 308 AG	Malaysia Peninsular Indian Cytokine	2.0		48
+TNFalpha/ - 308 AG	Malaysia Orang Kanaq Cytokine	18.2		11
+TNFalpha/ - 308 AG	Malaysia Che Wong Cytokine	23.1		26
+TNFalpha/ - 308 AG	Malaysia Semai Cytokine	0.0		42
+TNFalpha/ - 308 AG	Malaysia Batek Cytokine	0.0		25
+TNFalpha/ - 308 AG	Malaysia Kensiu Cytokine	5.6		36
+TNFalpha/ - 308 AG	Malaysia Lanoh Cytokine	4.0		24
+TNFalpha/ - 308 AG	Mexico Monterrey Mestizo Cytokine	16.5		109
+TNFalpha/ - 308 AG	Mexico Guadalajara Mestizo Cytokine	8.5		106
+TNFalpha/ - 308 AG	Mexico Mestizo Cytokine	5.0		40
+TNFalpha/ - 308 AG	Netherlands Cytokine	31.0		107
+TNFalpha/ - 308 AG	Norway Cytokine	28.0		131
+TNFalpha/ - 308 AG	Oman Cytokine	16.2		80
+TNFalpha/ - 308 AG	Poland Cytokine	22.0		205
+TNFalpha/ - 308 AG	Poland Wroclaw Cytokine	25.4		130
+TNFalpha/ - 308 AG	Poland Wroclaw HSCT recipients Cytokine	19.2		134
+TNFalpha/ - 308 AG	Portugal Center Cytokine	21.0		174
+TNFalpha/ - 308 AG	Portugal Azores Terceira Island Cytokine	29.9		117
+TNFalpha/ - 308 AG	Romania Cytokine	21.1		147
+TNFalpha/ - 308 AG	Russia Moscow Cytokine	19.3		228
+TNFalpha/ - 308 AG	Singapore Chinese Cytokine	21.7		83
+TNFalpha/ - 308 AG	Slovakia Cytokine	22.1		140
+TNFalpha/ - 308 AG	South Africa Natal Region Zulu Cytokine	30.2		86
+TNFalpha/ - 308 AG	Spain Granada Cytokine	15.0		102
+TNFalpha/ - 308 AG	Spain Cytokine	15.5		97
+TNFalpha/ - 308 AG	Spain Lugo Cytokine	26.0		128
+TNFalpha/ - 308 AG	Sweden West Cytokine	26.0		103
+TNFalpha/ - 308 AG	Taiwan Ami Cytokine	0.0		50
+TNFalpha/ - 308 AG	Taiwan Atayal Cytokine	0.0		50
+TNFalpha/ - 308 AG	Taiwan Tsou Cytokine	0.0		50
+TNFalpha/ - 308 AG	Taiwan Minnan Cytokine	12.0		50
+TNFalpha/ - 308 AG	Taiwan Hakka Cytokine	24.0		45
+TNFalpha/ - 308 AG	Taiwan Yami Cytokine	0.0		40
+TNFalpha/ - 308 AG	Thailand Cytokine	18.2		154
+TNFalpha/ - 308 AG	Tunisia Cytokine	18.5		157
+TNFalpha/ - 308 AG	Turkey Bursa Cytokine	26.8		60
+TNFalpha/ - 308 AG	Turkey Istanbul Cytokine	26.2		104
+TNFalpha/ - 308 AG	Uganda Baganda Cytokine	17.7		115
+TNFalpha/ - 308 AG	USA Caucasian Bone Marrow Donors Cytokine	27.7		1,477
+TNFalpha/ - 308 AG	USA Amerindian Bone Marrow Donors Cytokine	13.3		23
+TNFalpha/ - 308 AG	USA Hispanic Bone Marrow Donors Cytokine	8.3		74
+TNFalpha/ - 308 AG	USA Florida Cuban Cytokine	19.3		295
+TNFalpha/ - 308 AG	USA African American Cytokine	26.3		691
+TNFalpha/ - 308 AG	USA Upstate NY Caucasian Heart Recs Cytokine	20.3		64
+TNFalpha/ - 308 AG	USA Upstate NY Af Am Renal Recs Cytokine	18.8		16
+TNFalpha/ - 308 AG	USA Upstate NY Caucasian Renal Recs Cytokine	30.1		133
+TNFalpha/ - 308 AG	USA Bronx Hispanic Cytokine	8.3		173
+TNFalpha/ - 308 AG	USA N Carolina Caucasian Cytokine	15.0		81
+TNFalpha/ - 308 AG	USA N Carolina African American Cytokine	24.0		42
+TNFalpha/ - 308 AG	USA Pennsylvania Heart Recipients Af Amer Cytokine	31.6		19
+TNFalpha/ - 308 AG	USA Pennsylvania Heart Recipients Cauc Cytokine	25.3		75
+TNFalpha/ - 308 AG	USA African American Heart Recs Cytokine	31.4		39
+TNFalpha/ - 308 AG	USA Hispanic Heart Recs Cytokine	15.2		82
+TNFalpha/ - 308 AG	USA Caucasian Heart Recs Cytokine	25.2		243
+TNFalpha/ - 308 AG	USA Southeast Caucasian Cytokine	20.2		145
+TNFalpha/ - 308 AG	USA Southeast African American Cytokine	23.6		250
+TNFalpha/ - 308 AG	Venezuela Mixed Cytokine	10.9		46
+TNFalpha/ - 308 AG	Zimbabwe Harare Shona Cytokine	17.9		118
+TNFalpha/ - 308 GG	Argentina Buenos Aires Cytokine	90.7		54
+TNFalpha/ - 308 GG	Brazil Southeast Black Cytokine	78.0		110
+TNFalpha/ - 308 GG	Brazil Southeast Caucasian Cytokine	80.0		153
+TNFalpha/ - 308 GG	Brazil Southeast Mixed race  Cytokine	71.0		100
+TNFalpha/ - 308 GG	Brazil Sao Paulo Mixed Cytokine	76.8		99
+TNFalpha/ - 308 GG	Brazil Sao Paulo and Parana Mixed Cytokine	73.8		214
+TNFalpha/ - 308 GG	Brazil Parana Mixed Cytokine	73.8		823
+TNFalpha/ - 308 GG	Bulgaria Cytokine	72.0		88
+TNFalpha/ - 308 GG	Canada Manitoba Caucasoid Cytokine	68.0		116
+TNFalpha/ - 308 GG	Canada Aboriginal Oji-cree Cytokine	93.0		130
+TNFalpha/ - 308 GG	Canada Newfoundland Island Cytokine	67.0		103
+TNFalpha/ - 308 GG	Colombia Medellin Cytokine	86.3		102
+TNFalpha/ - 308 GG	Cyprus Cytokine	92.9		100
+TNFalpha/ - 308 GG	Czech Republic Prague Cytokine	79.0		103
+TNFalpha/ - 308 GG	Czech Republic Moravia Cytokine	57.6		67
+TNFalpha/ - 308 GG	Czech Republic Prague Cytokine pop2	80.8		125
+TNFalpha/ - 308 GG	Denmark Cytokine	67.0		55
+TNFalpha/ - 308 GG	England Cytokine	64.4		90
+TNFalpha/ - 308 GG	England Southeast Cytokine	60.5		76
+TNFalpha/ - 308 GG	England Newcastle Cytokine	76.8		200
+TNFalpha/ - 308 GG	England Northwest Cytokine	61.0		500
+TNFalpha/ - 308 GG	England South Cytokine	68.2		260
+TNFalpha/ - 308 GG	Germany Cytokine	71.0		200
+TNFalpha/ - 308 GG	Germany Cytokine pop 2	70.7		243
+TNFalpha/ - 308 GG	Germany Cytokine pop 3	73.0		111
+TNFalpha/ - 308 GG	Greece Cytokine	86.0		120
+TNFalpha/ - 308 GG	Greece North Cytokine	77.0		100
+TNFalpha/ - 308 GG	Greece Cytokine pop 2	83.3		78
+TNFalpha/ - 308 GG	Greece Thrace Region Cytokine	68.0		27
+TNFalpha/ - 308 GG	Hong Kong Chinese Cytokine	79.0		100
+TNFalpha/ - 308 GG	India North Cytokine	85.0		130
+TNFalpha/ - 308 GG	India Delhi Cytokine	82.6		34
+TNFalpha/ - 308 GG	India North Cytokine pop 2	87.5		569
+TNFalpha/ - 308 GG	Iran Cytokine	65.0		40
+TNFalpha/ - 308 GG	Iran South East Baloch Cytokine	81.2		96
+TNFalpha/ - 308 GG	Iran South East Sistani Cytokine	81.6		98
+TNFalpha/ - 308 GG	Iran Tehran Cytokine	71.5		140
+TNFalpha/ - 308 GG	Iran Yazd Cytokine	61.0		121
+TNFalpha/ - 308 GG	Iraq Arab Cytokine	52.9		224
+TNFalpha/ - 308 GG	Ireland Northern Cytokine	61.0		100
+TNFalpha/ - 308 GG	Ireland South Cytokine	56.0		200
+TNFalpha/ - 308 GG	Israel Jews Cytokine	87.5		48
+TNFalpha/ - 308 GG	Italy Torino Cytokine	83.6		140
+TNFalpha/ - 308 GG	Italy Central Cytokine	80.0		70
+TNFalpha/ - 308 GG	Italy North Cytokine	77.0		363
+TNFalpha/ - 308 GG	Italy North Pavia Cytokine	71.0		58
+TNFalpha/ - 308 GG	Italy Cytokine	72.4		474
+TNFalpha/ - 308 GG	Italy Sicily Cytokine	77.4		106
+TNFalpha/ - 308 GG	Italy Sicily West	74.1		220
+TNFalpha/ - 308 GG	Japan Cytokine	96.7		575
+TNFalpha/ - 308 GG	Jordan Cytokine	82.2		118
+TNFalpha/ - 308 GG	South Korea Cytokine	90.0		100
+TNFalpha/ - 308 GG	South Korea Seoul Cytokine	88.0		57
+TNFalpha/ - 308 GG	Macedonia Cytokine	75.2		125
+TNFalpha/ - 308 GG	Malaysia Peninsular Malay Cytokine	95.9		97
+TNFalpha/ - 308 GG	Malaysia Peninsular Indian Cytokine	97.9		48
+TNFalpha/ - 308 GG	Malaysia Peninsular Chinese Cytokine	97.4		77
+TNFalpha/ - 308 GG	Malaysia Orang Kanaq Cytokine	81.8		11
+TNFalpha/ - 308 GG	Malaysia Semai Cytokine	100.0		42
+TNFalpha/ - 308 GG	Malaysia Che Wong Cytokine	76.9		26
+TNFalpha/ - 308 GG	Malaysia Lanoh Cytokine	96.0		24
+TNFalpha/ - 308 GG	Malaysia Kensiu Cytokine	94.4		36
+TNFalpha/ - 308 GG	Malaysia Batek Cytokine	100.0		25
+TNFalpha/ - 308 GG	Mexico Guadalajara Mestizo Cytokine	91.5		106
+TNFalpha/ - 308 GG	Mexico Monterrey Mestizo Cytokine	82.6		109
+TNFalpha/ - 308 GG	Mexico Mestizo Cytokine	95.0		40
+TNFalpha/ - 308 GG	Netherlands Cytokine	68.0		107
+TNFalpha/ - 308 GG	Norway Cytokine	72.0		131
+TNFalpha/ - 308 GG	Oman Cytokine	83.8		80
+TNFalpha/ - 308 GG	Poland Cytokine	74.1		205
+TNFalpha/ - 308 GG	Poland Wroclaw Cytokine	72.3		130
+TNFalpha/ - 308 GG	Poland Wroclaw HSCT recipients Cytokine	79.2		134
+TNFalpha/ - 308 GG	Portugal Center Cytokine	65.0		174
+TNFalpha/ - 308 GG	Portugal Azores Terceira Island Cytokine	70.1		117
+TNFalpha/ - 308 GG	Romania Cytokine	75.4		147
+TNFalpha/ - 308 GG	Russia Moscow Cytokine	79.8		228
+TNFalpha/ - 308 GG	Singapore Chinese Cytokine	77.1		83
+TNFalpha/ - 308 GG	Slovakia Cytokine	75.7		140
+TNFalpha/ - 308 GG	South Africa Natal Region Zulu Cytokine	62.8		86
+TNFalpha/ - 308 GG	Spain Granada Cytokine	84.0		102
+TNFalpha/ - 308 GG	Spain Cytokine	83.5		97
+TNFalpha/ - 308 GG	Spain Lugo Cytokine	71.0		128
+TNFalpha/ - 308 GG	Sweden West Cytokine	68.0		103
+TNFalpha/ - 308 GG	Taiwan Minnan Cytokine	86.0		50
+TNFalpha/ - 308 GG	Taiwan Tsou Cytokine	100.0		50
+TNFalpha/ - 308 GG	Taiwan Atayal Cytokine	100.0		50
+TNFalpha/ - 308 GG	Taiwan Ami Cytokine	100.0		50
+TNFalpha/ - 308 GG	Taiwan Yami Cytokine	100.0		40
+TNFalpha/ - 308 GG	Taiwan Hakka Cytokine	76.0		45
+TNFalpha/ - 308 GG	Thailand Cytokine	81.2		154
+TNFalpha/ - 308 GG	Tunisia Cytokine	77.7		157
+TNFalpha/ - 308 GG	Turkey Bursa Cytokine	67.8		60
+TNFalpha/ - 308 GG	Turkey Istanbul Cytokine	72.0		104
+TNFalpha/ - 308 GG	Uganda Baganda Cytokine	80.5		115
+TNFalpha/ - 308 GG	USA Caucasian Bone Marrow Donors Cytokine	69.8		1,477
+TNFalpha/ - 308 GG	USA Hispanic Bone Marrow Donors Cytokine	89.6		74
+TNFalpha/ - 308 GG	USA Amerindian Bone Marrow Donors Cytokine	86.7		23
+TNFalpha/ - 308 GG	USA Florida Cuban Cytokine	79.7		295
+TNFalpha/ - 308 GG	USA Upstate NY Caucasian Heart Recs Cytokine	76.6		64
+TNFalpha/ - 308 GG	USA African American Cytokine	72.1		691
+TNFalpha/ - 308 GG	USA Bronx Hispanic Cytokine	91.7		173
+TNFalpha/ - 308 GG	USA Upstate NY Caucasian Renal Recs Cytokine	63.9		133
+TNFalpha/ - 308 GG	USA Upstate NY Af Am Renal Recs Cytokine	81.3		16
+TNFalpha/ - 308 GG	USA N Carolina Caucasian Cytokine	81.0		81
+TNFalpha/ - 308 GG	USA N Carolina African American Cytokine	74.0		42
+TNFalpha/ - 308 GG	USA Pennsylvania Heart Recipients Af Amer Cytokine	68.4		19
+TNFalpha/ - 308 GG	USA Pennsylvania Heart Recipients Cauc Cytokine	72.0		75
+TNFalpha/ - 308 GG	USA Hispanic Heart Recs Cytokine	81.0		82
+TNFalpha/ - 308 GG	USA African American Heart Recs Cytokine	65.7		39
+TNFalpha/ - 308 GG	USA Caucasian Heart Recs Cytokine	72.4		243
+TNFalpha/ - 308 GG	USA Southeast Caucasian Cytokine	76.3		145
+TNFalpha/ - 308 GG	USA Southeast African American Cytokine	75.4		250
+TNFalpha/ - 308 GG	Venezuela Mixed Cytokine	87.0		46
+TNFalpha/ - 308 GG	Zimbabwe Harare Shona Cytokine	82.1		118
+TNFalpha/ -857 CC	Canada Newfoundland Island Cytokine	88.0		103
+TNFalpha/ -857 CC	Japan Cytokine	67.7		575
+TNFalpha/ -857 CC	Norway Cytokine	82.0		131
+TNFalpha/ -857 CC	Romania Cytokine	67.0		147
+TNFalpha/ - 857 CT	Canada Newfoundland Island Cytokine	14.0		103
+TNFalpha/ - 857 CT	Japan Cytokine	29.2		575
+TNFalpha/ - 857 CT	Norway Cytokine	18.0		131
+TNFalpha/ - 857 CT	Romania Cytokine	28.8		147
+TNFalpha/ -857 TT	Canada Newfoundland Island Cytokine	1.0		103
+TNFalpha/ -857 TT	Japan Cytokine	3.1		575
+TNFalpha/ -857 TT	Norway Cytokine	0.0		131
+TNFalpha/ -857 TT	Romania Cytokine	4.2		147
+TNFalpha/ -863 CC	Canada Newfoundland Island Cytokine	70.0		103
+TNFalpha/ -863 CC	Japan Cytokine	73.7		575
+TNFalpha/ -863 CC	Thailand Cytokine	73.4		154
+TNFalpha/ -863 AC	Canada Newfoundland Island Cytokine	30.0		103
+TNFalpha/ -863 AC	Japan Cytokine	24.5		575
+TNFalpha/ -863 AC	Thailand Cytokine	22.7		154
+TNFalpha/ -863 AA	Canada Newfoundland Island Cytokine	3.0		103
+TNFalpha/ -863 AA	Japan Cytokine	1.7		575
+TNFalpha/ -863 AA	Thailand Cytokine	3.9		154
+TNFalpha/ -1031 TT	Canada Newfoundland Island Cytokine	63.0		103
+TNFalpha/ -1031 TT	Japan Cytokine	70.4		575
+TNFalpha/ -1031 TT	Norway Cytokine	56.0		131
+TNFalpha/ -1031 CT	Canada Newfoundland Island Cytokine	33.0		103
+TNFalpha/ -1031 CT	Japan Cytokine	27.1		575
+TNFalpha/ -1031 CT	Norway Cytokine	41.0		131
+TNFalpha/ -1031 CC	Canada Newfoundland Island Cytokine	7.0		103
+TNFalpha/ -1031 CC	Japan Cytokine	2.4		575
+TNFalpha/ -1031 CC	Norway Cytokine	3.0		131

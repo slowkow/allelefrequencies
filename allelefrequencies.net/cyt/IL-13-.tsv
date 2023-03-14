@@ -1,0 +1,13 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+IL-13/ -1112 CC	Czech Republic Moravia Cytokine pop2	51.0		90
+IL-13/ -1112 CT	Czech Republic Moravia Cytokine pop2	39.6		90
+IL-13/ -1112 TT	Czech Republic Moravia Cytokine pop2	9.4		90
+IL-13/ -1055 CC	England Northwest Cytokine	72.0		500
+IL-13/ -1055 CC	Italy Sicily West	66.9		220
+IL-13/ -1055 CT	England Northwest Cytokine	26.0		500
+IL-13/ -1055 CT	Italy Sicily West	28.1		220
+IL-13/ -1055 TT	England Northwest Cytokine	2.0		500
+IL-13/ -1055 TT	Italy Sicily West	5.0		220
+IL-13/ -1459 AA	England Northwest Cytokine	44.0		500
+IL-13/ -1459 AC	England Northwest Cytokine	41.0		500
+IL-13/ -1459 CC	England Northwest Cytokine	15.0		500

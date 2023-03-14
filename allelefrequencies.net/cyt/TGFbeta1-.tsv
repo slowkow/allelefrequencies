@@ -1,0 +1,451 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+TGFbeta1/ - 509 CC	England Northwest Cytokine	57.0		500
+TGFbeta1/ - 509 CC	England Cytokine	47.0		90
+TGFbeta1/ - 509 CC	Russia Moscow Cytokine	40.4		228
+TGFbeta1/ - 509 CC	Spain Granada Cytokine	8.3		102
+TGFbeta1/ - 509 CC	Uganda Baganda Cytokine	63.7		115
+TGFbeta1/ - 509 CC	Zimbabwe Harare Shona Cytokine	64.3		118
+TGFbeta1/ - 509 CT	England Northwest Cytokine	38.0		500
+TGFbeta1/ - 509 CT	England Cytokine	42.0		90
+TGFbeta1/ - 509 CT	Russia Moscow Cytokine	46.1		228
+TGFbeta1/ - 509 CT	Spain Granada Cytokine	47.1		102
+TGFbeta1/ - 509 CT	Uganda Baganda Cytokine	31.0		115
+TGFbeta1/ - 509 CT	Zimbabwe Harare Shona Cytokine	32.1		118
+TGFbeta1/ - 509 TT	England Northwest Cytokine	5.0		500
+TGFbeta1/ - 509 TT	England Cytokine	11.0		90
+TGFbeta1/ - 509 TT	Russia Moscow Cytokine	13.6		228
+TGFbeta1/ - 509 TT	Spain Granada Cytokine	44.6		102
+TGFbeta1/ - 509 TT	Uganda Baganda Cytokine	5.3		115
+TGFbeta1/ - 509 TT	Zimbabwe Harare Shona Cytokine	3.6		118
+TGF-beta1/ -800 AA	England Northwest Cytokine	3.0		500
+TGF-beta1/ -800 AA	England Cytokine	1.0		90
+TGF-beta1/ -800 AG	England Cytokine	14.0		90
+TGF-beta1/ -800 AG	England Northwest Cytokine	16.0		500
+TGF-beta1/ -800 GG	England Northwest Cytokine	81.0		500
+TGF-beta1/ -800 GG	England Cytokine	85.0		90
+TGFbeta1/codon 10 CC	Argentina Buenos Aires Cytokine	19.2		54
+TGFbeta1/codon 10 CC	Brazil Southeast Black Cytokine	19.0		110
+TGFbeta1/codon 10 CC	Brazil Southeast Caucasian Cytokine	20.0		153
+TGFbeta1/codon 10 CC	Brazil Southeast Mixed race  Cytokine	25.0		100
+TGFbeta1/codon 10 CC	Brazil Sao Paulo Mixed Cytokine	17.4		99
+TGFbeta1/codon 10 CC	Brazil Sao Paulo and Parana Mixed Cytokine	16.6		214
+TGFbeta1/codon 10 CC	Brazil Parana Mixed Cytokine	22.0		823
+TGFbeta1/codon 10 CC	Bulgaria Cytokine	30.4		88
+TGFbeta1/codon 10 CC	Canada Manitoba Caucasoid Cytokine	11.0		116
+TGFbeta1/codon 10 CC	Canada Aboriginal Oji-cree Cytokine	14.0		130
+TGFbeta1/codon 10 CC	Colombia Medellin Cytokine	14.7		102
+TGFbeta1/codon 10 CC	Cyprus Cytokine	21.0		100
+TGFbeta1/codon 10 CC	Czech Republic Moravia Cytokine	21.2		67
+TGFbeta1/codon 10 CC	Czech Republic Prague Cytokine	17.2		103
+TGFbeta1/codon 10 CC	England Northwest Cytokine	11.0		500
+TGFbeta1/codon 10 CC	England Cytokine	14.0		90
+TGFbeta1/codon 10 CC	Germany Cytokine	13.0		200
+TGFbeta1/codon 10 CC	Greece Cytokine	22.0		120
+TGFbeta1/codon 10 CC	Greece Thrace Region Cytokine	3.0		27
+TGFbeta1/codon 10 CC	India North Cytokine	25.0		130
+TGFbeta1/codon 10 CC	India Delhi Cytokine	15.9		34
+TGFbeta1/codon 10 CC	Iran Tehran Cytokine	14.5		140
+TGFbeta1/codon 10 CC	Iran South East Sistani Cytokine	24.5		98
+TGFbeta1/codon 10 CC	Iran South East Baloch Cytokine	25.0		96
+TGFbeta1/codon 10 CC	Iran Cytokine	37.5		40
+TGFbeta1/codon 10 CC	Iran Yazd Cytokine	35.6		121
+TGFbeta1/codon 10 CC	Iraq Arab Cytokine	27.5		224
+TGFbeta1/codon 10 CC	Ireland South Cytokine	11.0		200
+TGFbeta1/codon 10 CC	Israel Jews Cytokine	22.9		48
+TGFbeta1/codon 10 CC	Italy Torino Cytokine	22.9		140
+TGFbeta1/codon 10 CC	Italy Central Cytokine	21.4		70
+TGFbeta1/codon 10 CC	South Korea Cytokine	25.0		100
+TGFbeta1/codon 10 CC	South Korea Seoul Cytokine	21.0		57
+TGFbeta1/codon 10 CC	Macedonia Cytokine	24.6		125
+TGFbeta1/codon 10 CC	Malaysia Peninsular Malay Cytokine	18.6		97
+TGFbeta1/codon 10 CC	Malaysia Peninsular Chinese Cytokine	26.0		77
+TGFbeta1/codon 10 CC	Malaysia Peninsular Indian Cytokine	16.7		48
+TGFbeta1/codon 10 CC	Malaysia Semai Cytokine	50.0		42
+TGFbeta1/codon 10 CC	Malaysia Orang Kanaq Cytokine	18.2		11
+TGFbeta1/codon 10 CC	Malaysia Batek Cytokine	68.0		25
+TGFbeta1/codon 10 CC	Malaysia Kensiu Cytokine	16.6		36
+TGFbeta1/codon 10 CC	Malaysia Lanoh Cytokine	28.0		24
+TGFbeta1/codon 10 CC	Malaysia Che Wong Cytokine	50.0		26
+TGFbeta1/codon 10 CC	Mexico Guadalajara Mestizo Cytokine	21.7		106
+TGFbeta1/codon 10 CC	Mexico Monterrey Mestizo Cytokine	17.4		109
+TGFbeta1/codon 10 CC	Netherlands Cytokine	11.0		107
+TGFbeta1/codon 10 CC	Poland Wroclaw Cytokine	22.0		130
+TGFbeta1/codon 10 CC	Portugal Center Cytokine	25.0		174
+TGFbeta1/codon 10 CC	Portugal Azores Terceira Island Cytokine	17.9		117
+TGFbeta1/codon 10 CC	Slovakia Cytokine	19.4		140
+TGFbeta1/codon 10 CC	Taiwan Ami Cytokine	10.0		50
+TGFbeta1/codon 10 CC	Taiwan Atayal Cytokine	32.0		50
+TGFbeta1/codon 10 CC	Taiwan Tsou Cytokine	12.0		50
+TGFbeta1/codon 10 CC	Taiwan Minnan Cytokine	38.0		50
+TGFbeta1/codon 10 CC	Taiwan Hakka Cytokine	31.0		45
+TGFbeta1/codon 10 CC	Taiwan Yami Cytokine	27.5		40
+TGFbeta1/codon 10 CC	Turkey Bursa Cytokine	12.5		60
+TGFbeta1/codon 10 CC	Turkey Istanbul Cytokine	24.3		104
+TGFbeta1/codon 10 CC	USA Southeast African American Cytokine	18.3		250
+TGFbeta1/codon 10 CC	USA Southeast Caucasian Cytokine	8.9		145
+TGFbeta1/codon 10 CC	USA Upstate NY Caucasian Heart Recs Cytokine	7.8		64
+TGFbeta1/codon 10 CC	USA African American Cytokine	17.5		691
+TGFbeta1/codon 10 CC	USA Florida Cuban Cytokine	13.2		295
+TGFbeta1/codon 10 CC	USA N Carolina Caucasian Cytokine	10.0		81
+TGFbeta1/codon 10 CC	USA N Carolina African American Cytokine	12.0		42
+TGFbeta1/codon 10 CC	USA Pennsylvania Heart Recipients Cauc Cytokine	14.7		75
+TGFbeta1/codon 10 CC	USA Pennsylvania Heart Recipients Af Amer Cytokine	21.1		19
+TGFbeta1/codon 10 CC	Venezuela Mixed Cytokine	23.9		46
+TGFbeta1/codon 10 CT	Argentina Buenos Aires Cytokine	48.1		54
+TGFbeta1/codon 10 CT	Brazil Southeast Black Cytokine	51.0		110
+TGFbeta1/codon 10 CT	Brazil Southeast Mixed race  Cytokine	48.0		100
+TGFbeta1/codon 10 CT	Brazil Southeast Caucasian Cytokine	50.0		153
+TGFbeta1/codon 10 CT	Brazil Sao Paulo Mixed Cytokine	45.9		99
+TGFbeta1/codon 10 CT	Brazil Sao Paulo and Parana Mixed Cytokine	53.1		214
+TGFbeta1/codon 10 CT	Brazil Parana Mixed Cytokine	48.2		823
+TGFbeta1/codon 10 CT	Bulgaria Cytokine	44.8		88
+TGFbeta1/codon 10 CT	Canada Aboriginal Oji-cree Cytokine	61.0		130
+TGFbeta1/codon 10 CT	Canada Manitoba Caucasoid Cytokine	48.0		116
+TGFbeta1/codon 10 CT	Colombia Medellin Cytokine	58.8		102
+TGFbeta1/codon 10 CT	Cyprus Cytokine	49.0		100
+TGFbeta1/codon 10 CT	Czech Republic Moravia Cytokine	50.0		67
+TGFbeta1/codon 10 CT	Czech Republic Prague Cytokine	45.5		103
+TGFbeta1/codon 10 CT	England Northwest Cytokine	48.0		500
+TGFbeta1/codon 10 CT	England Cytokine	44.0		90
+TGFbeta1/codon 10 CT	Germany Cytokine	52.5		200
+TGFbeta1/codon 10 CT	Greece Cytokine	50.0		120
+TGFbeta1/codon 10 CT	Greece Thrace Region Cytokine	75.0		27
+TGFbeta1/codon 10 CT	India North Cytokine	50.0		130
+TGFbeta1/codon 10 CT	India Delhi Cytokine	59.6		34
+TGFbeta1/codon 10 CT	Iran South East Baloch Cytokine	54.2		96
+TGFbeta1/codon 10 CT	Iran South East Sistani Cytokine	57.1		98
+TGFbeta1/codon 10 CT	Iran Tehran Cytokine	65.9		140
+TGFbeta1/codon 10 CT	Iran Yazd Cytokine	56.8		121
+TGFbeta1/codon 10 CT	Iran Cytokine	50.0		40
+TGFbeta1/codon 10 CT	Iraq Arab Cytokine	64.4		224
+TGFbeta1/codon 10 CT	Ireland South Cytokine	51.0		200
+TGFbeta1/codon 10 CT	Israel Jews Cytokine	52.1		48
+TGFbeta1/codon 10 CT	Italy Torino Cytokine	45.0		140
+TGFbeta1/codon 10 CT	Italy Central Cytokine	50.0		70
+TGFbeta1/codon 10 CT	South Korea Cytokine	50.0		100
+TGFbeta1/codon 10 CT	South Korea Seoul Cytokine	59.0		57
+TGFbeta1/codon 10 CT	Macedonia Cytokine	52.8		125
+TGFbeta1/codon 10 CT	Malaysia Peninsular Malay Cytokine	61.9		97
+TGFbeta1/codon 10 CT	Malaysia Peninsular Indian Cytokine	60.4		48
+TGFbeta1/codon 10 CT	Malaysia Peninsular Chinese Cytokine	48.1		77
+TGFbeta1/codon 10 CT	Malaysia Orang Kanaq Cytokine	72.7		11
+TGFbeta1/codon 10 CT	Malaysia Semai Cytokine	40.5		42
+TGFbeta1/codon 10 CT	Malaysia Che Wong Cytokine	50.0		26
+TGFbeta1/codon 10 CT	Malaysia Lanoh Cytokine	68.0		24
+TGFbeta1/codon 10 CT	Malaysia Kensiu Cytokine	66.7		36
+TGFbeta1/codon 10 CT	Malaysia Batek Cytokine	28.0		25
+TGFbeta1/codon 10 CT	Mexico Monterrey Mestizo Cytokine	56.9		109
+TGFbeta1/codon 10 CT	Mexico Guadalajara Mestizo Cytokine	55.6		106
+TGFbeta1/codon 10 CT	Netherlands Cytokine	49.0		107
+TGFbeta1/codon 10 CT	Poland Wroclaw Cytokine	44.0		130
+TGFbeta1/codon 10 CT	Portugal Center Cytokine	47.0		174
+TGFbeta1/codon 10 CT	Portugal Azores Terceira Island Cytokine	48.7		117
+TGFbeta1/codon 10 CT	Slovakia Cytokine	51.1		140
+TGFbeta1/codon 10 CT	Taiwan Yami Cytokine	22.5		40
+TGFbeta1/codon 10 CT	Taiwan Hakka Cytokine	53.0		45
+TGFbeta1/codon 10 CT	Taiwan Minnan Cytokine	40.0		50
+TGFbeta1/codon 10 CT	Taiwan Tsou Cytokine	48.0		50
+TGFbeta1/codon 10 CT	Taiwan Atayal Cytokine	54.0		50
+TGFbeta1/codon 10 CT	Taiwan Ami Cytokine	52.0		50
+TGFbeta1/codon 10 CT	Turkey Bursa Cytokine	57.1		60
+TGFbeta1/codon 10 CT	Turkey Istanbul Cytokine	55.1		104
+TGFbeta1/codon 10 CT	USA Upstate NY Caucasian Heart Recs Cytokine	57.8		64
+TGFbeta1/codon 10 CT	USA Southeast Caucasian Cytokine	48.5		145
+TGFbeta1/codon 10 CT	USA Southeast African American Cytokine	49.2		250
+TGFbeta1/codon 10 CT	USA Florida Cuban Cytokine	53.2		295
+TGFbeta1/codon 10 CT	USA African American Cytokine	48.2		691
+TGFbeta1/codon 10 CT	USA N Carolina African American Cytokine	44.0		42
+TGFbeta1/codon 10 CT	USA N Carolina Caucasian Cytokine	62.0		81
+TGFbeta1/codon 10 CT	USA Pennsylvania Heart Recipients Cauc Cytokine	56.0		75
+TGFbeta1/codon 10 CT	USA Pennsylvania Heart Recipients Af Amer Cytokine	42.1		19
+TGFbeta1/codon 10 CT	Venezuela Mixed Cytokine	41.3		46
+TGFbeta1/codon 10 TT	Argentina Buenos Aires Cytokine	32.7		54
+TGFbeta1/codon 10 TT	Brazil Southeast Black Cytokine	30.0		110
+TGFbeta1/codon 10 TT	Brazil Southeast Caucasian Cytokine	30.0		153
+TGFbeta1/codon 10 TT	Brazil Southeast Mixed race  Cytokine	27.0		100
+TGFbeta1/codon 10 TT	Brazil Sao Paulo Mixed Cytokine	36.7		99
+TGFbeta1/codon 10 TT	Brazil Sao Paulo and Parana Mixed Cytokine	30.3		214
+TGFbeta1/codon 10 TT	Brazil Parana Mixed Cytokine	29.8		823
+TGFbeta1/codon 10 TT	Bulgaria Cytokine	24.8		88
+TGFbeta1/codon 10 TT	Canada Aboriginal Oji-cree Cytokine	25.0		130
+TGFbeta1/codon 10 TT	Canada Manitoba Caucasoid Cytokine	42.0		116
+TGFbeta1/codon 10 TT	Colombia Medellin Cytokine	26.5		102
+TGFbeta1/codon 10 TT	Cyprus Cytokine	30.0		100
+TGFbeta1/codon 10 TT	Czech Republic Moravia Cytokine	28.8		67
+TGFbeta1/codon 10 TT	Czech Republic Prague Cytokine	37.2		103
+TGFbeta1/codon 10 TT	England Northwest Cytokine	41.0		500
+TGFbeta1/codon 10 TT	England Cytokine	42.0		90
+TGFbeta1/codon 10 TT	Germany Cytokine	34.5		200
+TGFbeta1/codon 10 TT	Greece Cytokine	28.0		120
+TGFbeta1/codon 10 TT	Greece Thrace Region Cytokine	22.0		27
+TGFbeta1/codon 10 TT	India North Cytokine	25.0		130
+TGFbeta1/codon 10 TT	India Delhi Cytokine	24.5		34
+TGFbeta1/codon 10 TT	Iran South East Baloch Cytokine	20.8		96
+TGFbeta1/codon 10 TT	Iran Tehran Cytokine	19.6		140
+TGFbeta1/codon 10 TT	Iran South East Sistani Cytokine	18.4		98
+TGFbeta1/codon 10 TT	Iran Cytokine	12.5		40
+TGFbeta1/codon 10 TT	Iran Yazd Cytokine	7.6		121
+TGFbeta1/codon 10 TT	Iraq Arab Cytokine	8.1		224
+TGFbeta1/codon 10 TT	Ireland South Cytokine	38.0		200
+TGFbeta1/codon 10 TT	Israel Jews Cytokine	25.0		48
+TGFbeta1/codon 10 TT	Italy Torino Cytokine	32.1		140
+TGFbeta1/codon 10 TT	Italy Central Cytokine	28.6		70
+TGFbeta1/codon 10 TT	South Korea Cytokine	25.0		100
+TGFbeta1/codon 10 TT	South Korea Seoul Cytokine	20.0		57
+TGFbeta1/codon 10 TT	Macedonia Cytokine	22.6		125
+TGFbeta1/codon 10 TT	Malaysia Peninsular Malay Cytokine	19.6		97
+TGFbeta1/codon 10 TT	Malaysia Peninsular Chinese Cytokine	26.0		77
+TGFbeta1/codon 10 TT	Malaysia Peninsular Indian Cytokine	22.9		48
+TGFbeta1/codon 10 TT	Malaysia Semai Cytokine	9.5		42
+TGFbeta1/codon 10 TT	Malaysia Orang Kanaq Cytokine	9.1		11
+TGFbeta1/codon 10 TT	Malaysia Batek Cytokine	4.0		25
+TGFbeta1/codon 10 TT	Malaysia Kensiu Cytokine	16.7		36
+TGFbeta1/codon 10 TT	Malaysia Lanoh Cytokine	4.0		24
+TGFbeta1/codon 10 TT	Malaysia Che Wong Cytokine	0.0		26
+TGFbeta1/codon 10 TT	Mexico Guadalajara Mestizo Cytokine	21.7		106
+TGFbeta1/codon 10 TT	Mexico Monterrey Mestizo Cytokine	25.7		109
+TGFbeta1/codon 10 TT	Netherlands Cytokine	40.0		107
+TGFbeta1/codon 10 TT	Poland Wroclaw Cytokine	34.0		130
+TGFbeta1/codon 10 TT	Portugal Center Cytokine	28.0		174
+TGFbeta1/codon 10 TT	Portugal Azores Terceira Island Cytokine	33.3		117
+TGFbeta1/codon 10 TT	Slovakia Cytokine	29.5		140
+TGFbeta1/codon 10 TT	Taiwan Hakka Cytokine	16.0		45
+TGFbeta1/codon 10 TT	Taiwan Yami Cytokine	50.0		40
+TGFbeta1/codon 10 TT	Taiwan Ami Cytokine	38.0		50
+TGFbeta1/codon 10 TT	Taiwan Atayal Cytokine	14.0		50
+TGFbeta1/codon 10 TT	Taiwan Tsou Cytokine	40.0		50
+TGFbeta1/codon 10 TT	Taiwan Minnan Cytokine	22.0		50
+TGFbeta1/codon 10 TT	Turkey Bursa Cytokine	30.4		60
+TGFbeta1/codon 10 TT	Turkey Istanbul Cytokine	20.6		104
+TGFbeta1/codon 10 TT	USA Upstate NY Caucasian Heart Recs Cytokine	34.4		64
+TGFbeta1/codon 10 TT	USA Southeast African American Cytokine	32.5		250
+TGFbeta1/codon 10 TT	USA Southeast Caucasian Cytokine	42.7		145
+TGFbeta1/codon 10 TT	USA African American Cytokine	34.1		691
+TGFbeta1/codon 10 TT	USA Florida Cuban Cytokine	33.6		295
+TGFbeta1/codon 10 TT	USA N Carolina Caucasian Cytokine	28.0		81
+TGFbeta1/codon 10 TT	USA N Carolina African American Cytokine	44.0		42
+TGFbeta1/codon 10 TT	USA Pennsylvania Heart Recipients Cauc Cytokine	29.3		75
+TGFbeta1/codon 10 TT	USA Pennsylvania Heart Recipients Af Amer Cytokine	36.8		19
+TGFbeta1/codon 10 TT	Venezuela Mixed Cytokine	34.8		46
+TGFbeta1/codon 25 CC	Argentina Buenos Aires Cytokine	0.0		54
+TGFbeta1/codon 25 CC	Brazil Southeast Black Cytokine	0.0		110
+TGFbeta1/codon 25 CC	Brazil Southeast Mixed race  Cytokine	1.0		100
+TGFbeta1/codon 25 CC	Brazil Southeast Caucasian Cytokine	1.0		153
+TGFbeta1/codon 25 CC	Brazil Sao Paulo Mixed Cytokine	2.0		99
+TGFbeta1/codon 25 CC	Brazil Sao Paulo and Parana Mixed Cytokine	0.5		214
+TGFbeta1/codon 25 CC	Brazil Parana Mixed Cytokine	1.4		823
+TGFbeta1/codon 25 CC	Bulgaria Cytokine	3.4		88
+TGFbeta1/codon 25 CC	Canada Aboriginal Oji-cree Cytokine	0.0		130
+TGFbeta1/codon 25 CC	Canada Manitoba Caucasoid Cytokine	1.0		116
+TGFbeta1/codon 25 CC	Colombia Medellin Cytokine	0.0		102
+TGFbeta1/codon 25 CC	Cyprus Cytokine	1.0		100
+TGFbeta1/codon 25 CC	Czech Republic Moravia Cytokine	0.0		67
+TGFbeta1/codon 25 CC	Czech Republic Prague Cytokine	0.7		103
+TGFbeta1/codon 25 CC	England Northwest Cytokine	1.0		500
+TGFbeta1/codon 25 CC	England South Cytokine	0.6		260
+TGFbeta1/codon 25 CC	England Cytokine	2.0		90
+TGFbeta1/codon 25 CC	Germany Cytokine	0.0		200
+TGFbeta1/codon 25 CC	Greece Cytokine	0.0		120
+TGFbeta1/codon 25 CC	Greece Thrace Region Cytokine	0.0		27
+TGFbeta1/codon 25 CC	Hong Kong Chinese Cytokine	0.0		100
+TGFbeta1/codon 25 CC	India Delhi Cytokine	0.0		34
+TGFbeta1/codon 25 CC	India North Cytokine	0.8		130
+TGFbeta1/codon 25 CC	Iran Yazd Cytokine	1.7		121
+TGFbeta1/codon 25 CC	Iran Cytokine	5.0		40
+TGFbeta1/codon 25 CC	Iran South East Baloch Cytokine	2.1		96
+TGFbeta1/codon 25 CC	Iran South East Sistani Cytokine	0.0		98
+TGFbeta1/codon 25 CC	Iran Tehran Cytokine	1.5		140
+TGFbeta1/codon 25 CC	Iraq Arab Cytokine	8.5		224
+TGFbeta1/codon 25 CC	Ireland South Cytokine	0.5		200
+TGFbeta1/codon 25 CC	Israel Jews Cytokine	0.0		48
+TGFbeta1/codon 25 CC	Italy Torino Cytokine	2.9		140
+TGFbeta1/codon 25 CC	Italy Central Cytokine	1.4		70
+TGFbeta1/codon 25 CC	South Korea Cytokine	0.0		100
+TGFbeta1/codon 25 CC	South Korea Seoul Cytokine	0.0		57
+TGFbeta1/codon 25 CC	Macedonia Cytokine	0.0		125
+TGFbeta1/codon 25 CC	Malaysia Peninsular Malay Cytokine	0.0		97
+TGFbeta1/codon 25 CC	Malaysia Peninsular Indian Cytokine	0.0		48
+TGFbeta1/codon 25 CC	Malaysia Peninsular Chinese Cytokine	0.0		77
+TGFbeta1/codon 25 CC	Malaysia Orang Kanaq Cytokine	0.0		11
+TGFbeta1/codon 25 CC	Malaysia Semai Cytokine	0.0		42
+TGFbeta1/codon 25 CC	Malaysia Che Wong Cytokine	0.0		26
+TGFbeta1/codon 25 CC	Malaysia Lanoh Cytokine	0.0		24
+TGFbeta1/codon 25 CC	Malaysia Kensiu Cytokine	0.0		36
+TGFbeta1/codon 25 CC	Malaysia Batek Cytokine	0.0		25
+TGFbeta1/codon 25 CC	Mexico Monterrey Mestizo Cytokine	0.0		109
+TGFbeta1/codon 25 CC	Mexico Guadalajara Mestizo Cytokine	0.9		106
+TGFbeta1/codon 25 CC	Netherlands Cytokine	0.0		107
+TGFbeta1/codon 25 CC	Poland Wroclaw Cytokine	0.0		130
+TGFbeta1/codon 25 CC	Portugal Center Cytokine	1.0		174
+TGFbeta1/codon 25 CC	Portugal Azores Terceira Island Cytokine	0.9		117
+TGFbeta1/codon 25 CC	Slovakia Cytokine	0.0		140
+TGFbeta1/codon 25 CC	Sweden West Cytokine	0.0		103
+TGFbeta1/codon 25 CC	Taiwan Yami Cytokine	0.0		40
+TGFbeta1/codon 25 CC	Taiwan Hakka Cytokine	0.0		45
+TGFbeta1/codon 25 CC	Taiwan Minnan Cytokine	0.0		50
+TGFbeta1/codon 25 CC	Taiwan Tsou Cytokine	0.0		50
+TGFbeta1/codon 25 CC	Taiwan Atayal Cytokine	0.0		50
+TGFbeta1/codon 25 CC	Taiwan Ami Cytokine	0.0		50
+TGFbeta1/codon 25 CC	Turkey Bursa Cytokine	3.6		60
+TGFbeta1/codon 25 CC	Turkey Istanbul Cytokine	0.9		104
+TGFbeta1/codon 25 CC	USA Upstate NY Caucasian Heart Recs Cytokine	0.0		64
+TGFbeta1/codon 25 CC	USA Pennsylvania Heart Recipients Af Amer Cytokine	5.3		19
+TGFbeta1/codon 25 CC	USA Pennsylvania Heart Recipients Cauc Cytokine	0.0		75
+TGFbeta1/codon 25 CC	USA Florida Cuban Cytokine	0.3		295
+TGFbeta1/codon 25 CC	USA African American Cytokine	3.3		691
+TGFbeta1/codon 25 CC	USA N Carolina African American Cytokine	0.0		42
+TGFbeta1/codon 25 CC	USA N Carolina Caucasian Cytokine	0.0		81
+TGFbeta1/codon 25 CC	USA Caucasian Heart Recs Cytokine	0.4		243
+TGFbeta1/codon 25 CC	USA Hispanic Heart Recs Cytokine	0.0		82
+TGFbeta1/codon 25 CC	USA Southeast Caucasian Cytokine	0.7		145
+TGFbeta1/codon 25 CC	USA Southeast African American Cytokine	0.7		250
+TGFbeta1/codon 25 CC	USA African American Heart Recs Cytokine	2.6		39
+TGFbeta1/codon 25 CC	Venezuela Mixed Cytokine	0.0		46
+TGFbeta1/codon 25 CG	Argentina Buenos Aires Cytokine	11.5		54
+TGFbeta1/codon 25 CG	Brazil Southeast Black Cytokine	13.0		110
+TGFbeta1/codon 25 CG	Brazil Southeast Caucasian Cytokine	11.0		153
+TGFbeta1/codon 25 CG	Brazil Southeast Mixed race  Cytokine	10.0		100
+TGFbeta1/codon 25 CG	Brazil Sao Paulo Mixed Cytokine	10.2		99
+TGFbeta1/codon 25 CG	Brazil Sao Paulo and Parana Mixed Cytokine	12.3		214
+TGFbeta1/codon 25 CG	Brazil Parana Mixed Cytokine	13.6		823
+TGFbeta1/codon 25 CG	Bulgaria Cytokine	6.4		88
+TGFbeta1/codon 25 CG	Canada Aboriginal Oji-cree Cytokine	6.0		130
+TGFbeta1/codon 25 CG	Canada Manitoba Caucasoid Cytokine	14.0		116
+TGFbeta1/codon 25 CG	Colombia Medellin Cytokine	9.8		102
+TGFbeta1/codon 25 CG	Cyprus Cytokine	11.0		100
+TGFbeta1/codon 25 CG	Czech Republic Moravia Cytokine	18.2		67
+TGFbeta1/codon 25 CG	Czech Republic Prague Cytokine	13.8		103
+TGFbeta1/codon 25 CG	England Northwest Cytokine	18.0		500
+TGFbeta1/codon 25 CG	England South Cytokine	16.3		260
+TGFbeta1/codon 25 CG	England Cytokine	15.0		90
+TGFbeta1/codon 25 CG	Germany Cytokine	15.0		200
+TGFbeta1/codon 25 CG	Greece Cytokine	12.0		120
+TGFbeta1/codon 25 CG	Greece Thrace Region Cytokine	10.0		27
+TGFbeta1/codon 25 CG	Hong Kong Chinese Cytokine	0.0		100
+TGFbeta1/codon 25 CG	India Delhi Cytokine	11.7		34
+TGFbeta1/codon 25 CG	India North Cytokine	13.8		130
+TGFbeta1/codon 25 CG	Iran Cytokine	5.0		40
+TGFbeta1/codon 25 CG	Iran Yazd Cytokine	33.9		121
+TGFbeta1/codon 25 CG	Iran South East Baloch Cytokine	10.4		96
+TGFbeta1/codon 25 CG	Iran Tehran Cytokine	12.3		140
+TGFbeta1/codon 25 CG	Iran South East Sistani Cytokine	13.3		98
+TGFbeta1/codon 25 CG	Iraq Arab Cytokine	56.2		224
+TGFbeta1/codon 25 CG	Ireland South Cytokine	11.0		200
+TGFbeta1/codon 25 CG	Israel Jews Cytokine	10.4		48
+TGFbeta1/codon 25 CG	Italy Torino Cytokine	10.0		140
+TGFbeta1/codon 25 CG	Italy Central Cytokine	10.0		70
+TGFbeta1/codon 25 CG	South Korea Cytokine	0.0		100
+TGFbeta1/codon 25 CG	South Korea Seoul Cytokine	0.0		57
+TGFbeta1/codon 25 CG	Macedonia Cytokine	6.6		125
+TGFbeta1/codon 25 CG	Malaysia Peninsular Malay Cytokine	1.0		97
+TGFbeta1/codon 25 CG	Malaysia Peninsular Chinese Cytokine	2.6		77
+TGFbeta1/codon 25 CG	Malaysia Peninsular Indian Cytokine	0.0		48
+TGFbeta1/codon 25 CG	Malaysia Semai Cytokine	0.0		42
+TGFbeta1/codon 25 CG	Malaysia Orang Kanaq Cytokine	9.1		11
+TGFbeta1/codon 25 CG	Malaysia Batek Cytokine	0.0		25
+TGFbeta1/codon 25 CG	Malaysia Kensiu Cytokine	0.0		36
+TGFbeta1/codon 25 CG	Malaysia Lanoh Cytokine	0.0		24
+TGFbeta1/codon 25 CG	Malaysia Che Wong Cytokine	0.0		26
+TGFbeta1/codon 25 CG	Mexico Guadalajara Mestizo Cytokine	6.6		106
+TGFbeta1/codon 25 CG	Mexico Monterrey Mestizo Cytokine	9.2		109
+TGFbeta1/codon 25 CG	Netherlands Cytokine	12.0		107
+TGFbeta1/codon 25 CG	Poland Wroclaw Cytokine	16.0		130
+TGFbeta1/codon 25 CG	Portugal Center Cytokine	15.0		174
+TGFbeta1/codon 25 CG	Portugal Azores Terceira Island Cytokine	17.1		117
+TGFbeta1/codon 25 CG	Slovakia Cytokine	15.8		140
+TGFbeta1/codon 25 CG	Sweden West Cytokine	12.0		103
+TGFbeta1/codon 25 CG	Taiwan Hakka Cytokine	0.0		45
+TGFbeta1/codon 25 CG	Taiwan Yami Cytokine	0.0		40
+TGFbeta1/codon 25 CG	Taiwan Ami Cytokine	0.0		50
+TGFbeta1/codon 25 CG	Taiwan Atayal Cytokine	0.0		50
+TGFbeta1/codon 25 CG	Taiwan Tsou Cytokine	0.0		50
+TGFbeta1/codon 25 CG	Taiwan Minnan Cytokine	0.0		50
+TGFbeta1/codon 25 CG	Turkey Bursa Cytokine	3.6		60
+TGFbeta1/codon 25 CG	Turkey Istanbul Cytokine	15.0		104
+TGFbeta1/codon 25 CG	USA Upstate NY Caucasian Heart Recs Cytokine	14.1		64
+TGFbeta1/codon 25 CG	USA Pennsylvania Heart Recipients Af Amer Cytokine	10.5		19
+TGFbeta1/codon 25 CG	USA Pennsylvania Heart Recipients Cauc Cytokine	20.0		75
+TGFbeta1/codon 25 CG	USA African American Cytokine	14.4		691
+TGFbeta1/codon 25 CG	USA Florida Cuban Cytokine	11.9		295
+TGFbeta1/codon 25 CG	USA N Carolina Caucasian Cytokine	19.0		81
+TGFbeta1/codon 25 CG	USA N Carolina African American Cytokine	7.0		42
+TGFbeta1/codon 25 CG	USA Hispanic Heart Recs Cytokine	7.6		82
+TGFbeta1/codon 25 CG	USA Caucasian Heart Recs Cytokine	13.1		243
+TGFbeta1/codon 25 CG	USA Southeast African American Cytokine	13.9		250
+TGFbeta1/codon 25 CG	USA Southeast Caucasian Cytokine	8.4		145
+TGFbeta1/codon 25 CG	USA African American Heart Recs Cytokine	10.5		39
+TGFbeta1/codon 25 CG	Venezuela Mixed Cytokine	10.9		46
+TGFbeta1/codon 25 GG	Argentina Buenos Aires Cytokine	88.5		54
+TGFbeta1/codon 25 GG	Brazil Southeast Black Cytokine	87.0		110
+TGFbeta1/codon 25 GG	Brazil Southeast Mixed race  Cytokine	89.0		100
+TGFbeta1/codon 25 GG	Brazil Southeast Caucasian Cytokine	88.0		153
+TGFbeta1/codon 25 GG	Brazil Sao Paulo Mixed Cytokine	87.8		99
+TGFbeta1/codon 25 GG	Brazil Sao Paulo and Parana Mixed Cytokine	87.2		214
+TGFbeta1/codon 25 GG	Brazil Parana Mixed Cytokine	85.0		823
+TGFbeta1/codon 25 GG	Bulgaria Cytokine	90.2		88
+TGFbeta1/codon 25 GG	Canada Aboriginal Oji-cree Cytokine	94.0		130
+TGFbeta1/codon 25 GG	Canada Manitoba Caucasoid Cytokine	85.0		116
+TGFbeta1/codon 25 GG	Colombia Medellin Cytokine	90.2		102
+TGFbeta1/codon 25 GG	Cyprus Cytokine	88.0		100
+TGFbeta1/codon 25 GG	Czech Republic Moravia Cytokine	81.8		67
+TGFbeta1/codon 25 GG	Czech Republic Prague Cytokine	85.5		103
+TGFbeta1/codon 25 GG	England Northwest Cytokine	81.0		500
+TGFbeta1/codon 25 GG	England South Cytokine	83.1		260
+TGFbeta1/codon 25 GG	England Cytokine	83.0		90
+TGFbeta1/codon 25 GG	Germany Cytokine	85.0		200
+TGFbeta1/codon 25 GG	Greece Cytokine	88.0		120
+TGFbeta1/codon 25 GG	Greece Thrace Region Cytokine	90.0		27
+TGFbeta1/codon 25 GG	Hong Kong Chinese Cytokine	100.0		100
+TGFbeta1/codon 25 GG	India Delhi Cytokine	88.3		34
+TGFbeta1/codon 25 GG	India North Cytokine	85.4		130
+TGFbeta1/codon 25 GG	Iran Yazd Cytokine	64.4		121
+TGFbeta1/codon 25 GG	Iran Cytokine	90.0		40
+TGFbeta1/codon 25 GG	Iran South East Baloch Cytokine	87.5		96
+TGFbeta1/codon 25 GG	Iran South East Sistani Cytokine	86.7		98
+TGFbeta1/codon 25 GG	Iran Tehran Cytokine	86.2		140
+TGFbeta1/codon 25 GG	Iraq Arab Cytokine	35.3		224
+TGFbeta1/codon 25 GG	Ireland South Cytokine	88.5		200
+TGFbeta1/codon 25 GG	Israel Jews Cytokine	89.6		48
+TGFbeta1/codon 25 GG	Italy Torino Cytokine	87.1		140
+TGFbeta1/codon 25 GG	Italy Central Cytokine	88.6		70
+TGFbeta1/codon 25 GG	South Korea Cytokine	100.0		100
+TGFbeta1/codon 25 GG	South Korea Seoul Cytokine	100.0		57
+TGFbeta1/codon 25 GG	Macedonia Cytokine	93.4		125
+TGFbeta1/codon 25 GG	Malaysia Orang Kanaq Cytokine	90.9		11
+TGFbeta1/codon 25 GG	Malaysia Semai Cytokine	100.0		42
+TGFbeta1/codon 25 GG	Malaysia Che Wong Cytokine	100.0		26
+TGFbeta1/codon 25 GG	Malaysia Kensiu Cytokine	100.0		36
+TGFbeta1/codon 25 GG	Malaysia Lanoh Cytokine	100.0		24
+TGFbeta1/codon 25 GG	Malaysia Batek Cytokine	100.0		25
+TGFbeta1/codon 25 GG	Malaysia Peninsular Chinese Cytokine	97.4		77
+TGFbeta1/codon 25 GG	Malaysia Peninsular Indian Cytokine	100.0		48
+TGFbeta1/codon 25 GG	Malaysia Peninsular Malay Cytokine	99.0		97
+TGFbeta1/codon 25 GG	Mexico Monterrey Mestizo Cytokine	90.8		109
+TGFbeta1/codon 25 GG	Mexico Guadalajara Mestizo Cytokine	92.5		106
+TGFbeta1/codon 25 GG	Netherlands Cytokine	88.0		107
+TGFbeta1/codon 25 GG	Poland Wroclaw Cytokine	84.0		130
+TGFbeta1/codon 25 GG	Portugal Center Cytokine	84.0		174
+TGFbeta1/codon 25 GG	Portugal Azores Terceira Island Cytokine	82.1		117
+TGFbeta1/codon 25 GG	Slovakia Cytokine	84.2		140
+TGFbeta1/codon 25 GG	Sweden West Cytokine	88.0		103
+TGFbeta1/codon 25 GG	Taiwan Yami Cytokine	100.0		40
+TGFbeta1/codon 25 GG	Taiwan Hakka Cytokine	100.0		45
+TGFbeta1/codon 25 GG	Taiwan Minnan Cytokine	100.0		50
+TGFbeta1/codon 25 GG	Taiwan Tsou Cytokine	100.0		50
+TGFbeta1/codon 25 GG	Taiwan Atayal Cytokine	100.0		50
+TGFbeta1/codon 25 GG	Taiwan Ami Cytokine	100.0		50
+TGFbeta1/codon 25 GG	Turkey Bursa Cytokine	92.8		60
+TGFbeta1/codon 25 GG	Turkey Istanbul Cytokine	84.1		104
+TGFbeta1/codon 25 GG	USA Upstate NY Caucasian Heart Recs Cytokine	85.9		64
+TGFbeta1/codon 25 GG	USA Pennsylvania Heart Recipients Af Amer Cytokine	84.2		19
+TGFbeta1/codon 25 GG	USA Pennsylvania Heart Recipients Cauc Cytokine	80.0		75
+TGFbeta1/codon 25 GG	USA Florida Cuban Cytokine	87.8		295
+TGFbeta1/codon 25 GG	USA African American Cytokine	82.1		691
+TGFbeta1/codon 25 GG	USA N Carolina African American Cytokine	93.0		42
+TGFbeta1/codon 25 GG	USA N Carolina Caucasian Cytokine	81.0		81
+TGFbeta1/codon 25 GG	USA Caucasian Heart Recs Cytokine	86.5		243
+TGFbeta1/codon 25 GG	USA Hispanic Heart Recs Cytokine	92.4		82
+TGFbeta1/codon 25 GG	USA Southeast Caucasian Cytokine	91.0		145
+TGFbeta1/codon 25 GG	USA Southeast African American Cytokine	85.4		250
+TGFbeta1/codon 25 GG	USA African American Heart Recs Cytokine	86.8		39
+TGFbeta1/codon 25 GG	Venezuela Mixed Cytokine	89.1		46

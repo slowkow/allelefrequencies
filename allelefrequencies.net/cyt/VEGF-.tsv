@@ -1,0 +1,40 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+VEGF/ -7 CC	England Northwest Cytokine	70.3		500
+VEGF/ -7 CT	England Northwest Cytokine	21.6		500
+VEGF/ -7 TT	England Northwest Cytokine	8.1		500
+VEGF/ -1001 CC	England Northwest Cytokine	0.0		500
+VEGF/ -1001 CG	England Northwest Cytokine	8.1		500
+VEGF/ -1001 GG	England Northwest Cytokine	91.9		500
+VEGF/ -1154 AA	England Northwest Cytokine	9.0		500
+VEGF/ -1154 AA	England Norfolk Cytokine	10.5		2,100
+VEGF/ -1154 AA	England South Cytokine	12.9		260
+VEGF/ -1154 AG	England South Cytokine	41.5		260
+VEGF/ -1154 AG	England Norfolk Cytokine	42.5		2,100
+VEGF/ -1154 AG	England Northwest Cytokine	41.4		500
+VEGF/ -1154 GG	England Northwest Cytokine	49.6		500
+VEGF/ -1154 GG	England Norfolk Cytokine	47.0		2,100
+VEGF/ -1154 GG	England South Cytokine	45.6		260
+VEGF/ -1455 CC	England Northwest Cytokine	32.4		500
+VEGF/ -1455 CT	England Northwest Cytokine	36.5		500
+VEGF/ -1455 TT	England Northwest Cytokine	31.1		500
+VEGF/ -2578 AA	England Northwest Cytokine	21.6		500
+VEGF/ -2578 AA	England South Cytokine	26.0		260
+VEGF/ -2578 AA	England Norfolk Cytokine	25.3		2,100
+VEGF/ -2578 AA	Russia Moscow Cytokine	23.2		228
+VEGF/ -2578 AA	USA Caucasian Heart Recs Cytokine	25.8		243
+VEGF/ -2578 AA	USA Hispanic Heart Recs Cytokine	12.5		82
+VEGF/ -2578 AA	USA African American Heart Recs Cytokine	2.9		39
+VEGF/ -2578 AC	England Norfolk Cytokine	49.3		2,100
+VEGF/ -2578 AC	England South Cytokine	43.2		260
+VEGF/ -2578 AC	England Northwest Cytokine	45.9		500
+VEGF/ -2578 AC	Russia Moscow Cytokine	46.9		228
+VEGF/ -2578 AC	USA Caucasian Heart Recs Cytokine	44.1		243
+VEGF/ -2578 AC	USA African American Heart Recs Cytokine	35.3		39
+VEGF/ -2578 AC	USA Hispanic Heart Recs Cytokine	50.0		82
+VEGF/ -2578 CC	England Norfolk Cytokine	25.4		2,100
+VEGF/ -2578 CC	England Northwest Cytokine	32.4		500
+VEGF/ -2578 CC	England South Cytokine	30.8		260
+VEGF/ -2578 CC	Russia Moscow Cytokine	29.8		228
+VEGF/ -2578 CC	USA Caucasian Heart Recs Cytokine	30.1		243
+VEGF/ -2578 CC	USA Hispanic Heart Recs Cytokine	37.5		82
+VEGF/ -2578 CC	USA African American Heart Recs Cytokine	61.8		39

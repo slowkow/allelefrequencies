@@ -1,0 +1,308 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+3DL3	Argentina Buenos Aires KIR	100.0		365
+3DL3	Argentina Chaco Region Wichi KIR	100.0		82
+3DL3	Argentina Chiriguano KIR	100.0		54
+3DL3	Argentina KIR	100.0		102
+3DL3	Argentina Salta Wichi KIR	100.0		19
+3DL3	Belgium KIR pop 2	100.0		100
+3DL3	Borneo Kalimantan KIR	100.0		48
+3DL3	Brazil Amazon KIR	100.0		40
+3DL3	Brazil Bahia IlhÃ©us KIR	100.0	1.000	102
+3DL3	Brazil Belem Mixed KIR	99.0		347
+3DL3	Brazil Belo Horizonte Caucasian KIR	100.0		90
+3DL3	Brazil Curitiba Japanese KIR	100.0		51
+3DL3	Brazil Curitiba KIR	100.0	1.000	164
+3DL3	Brazil Guarani KaiowÃ¡ KIR	100.0		96
+3DL3	Brazil Guarani MByÃ¡ KIR	100.0		81
+3DL3	Brazil Guarani Ãandeva KIR	100.0		50
+3DL3	Brazil Kaingang KIR	100.0		100
+3DL3	Brazil Mato Grosso do Sul Campo Grande KIR	100.0		206
+3DL3	Brazil Parana Japanese KIR	100.0		214
+3DL3	Brazil ParanÃ¡ Maringa KIR	100.0		130
+3DL3	Brazil Parana Mixed KIR	100.0		289
+3DL3	Brazil Parana Mixed KIR pop 2	100.0		172
+3DL3	Brazil Porto Alegre Caucasian KIR	100.0		250
+3DL3	Brazil Porto Alegre Caucasian KIR pop 2	100.0		216
+3DL3	Brazil Porto Alegre Caucasian KIR pop 3	100.0		278
+3DL3	Brazil Rio de Janeiro Caucasian pop 2 KIR	100.0		98
+3DL3	Brazil Rio de Janeiro Mixed KIR	99.4		166
+3DL3	Brazil Rondonia Porto Velho KIR	100.0		377
+3DL3	Brazil Sao Paulo KIR	100.0		289
+3DL3	Canada Iranian KIR	100.0		68
+3DL3	Chile Talca KIR	100.0		90
+3DL3	China Eastern Mainland Han KIR	100.0		106
+3DL3	China Guangdong Han KIR	100.0		107
+3DL3	China Hubei  Province Tujia KIR	100.0		124
+3DL3	China Hunan Han KIR	100.0		448
+3DL3	China Inner Mongolia Han KIR	100.0		104
+3DL3	China Inner Mongolia Mongol KIR	100.0		160
+3DL3	China Inner Mongolia Province KIR pop 2	100.0	1.000	87
+3DL3	China Jiangsu Province Han KIR	100.0		150
+3DL3	China Jiangsu Province Han KIR pop2	100.0		60
+3DL3	China Mongolia Province KIR	100.0		90
+3DL3	China Shaanxi Province Han KIR	100.0		104
+3DL3	China Shenzhen Han KIR pop 2	100.0		503
+3DL3	China Tibet Lhasa KIR	100.0		102
+3DL3	China Xinjiang Region Urumqi Uygur KIR	100.0		120
+3DL3	China Yunnan Han KIR	100.0		404
+3DL3	China Yunnan Province Dali Bai KIR	100.0		100
+3DL3	China Yunnan Province Drung KIR	100.0		152
+3DL3	China Yunnan Province Fengyandong Han KIR	100.0		93
+3DL3	China Yunnan Province Fugong Nu KIR	100.0		112
+3DL3	China Yunnan Province Menghai Bulang KIR	100.0		109
+3DL3	China Yunnan Province Sunan Yugu KIR	100.0		104
+3DL3	China Yunnan Province Tiandeng Zhuang KIR	100.0		98
+3DL3	China Zhejiang Han KIR	100.0		273
+3DL3	China Zhejiang Province Han KIR	100.0		104
+3DL3	Comoros Mixed KIR	100.0		54
+3DL3	Cook Islands KIR	100.0		48
+3DL3	Costa Rica Guanacaste KIR	100.0		117
+3DL3	Croatia KIR	100.0		125
+3DL3	Croatia KIR pop 2	100.0		111
+3DL3	Croatia KIR pop 3	100.0		121
+3DL3	Cuba Caucasian KIR	100.0		70
+3DL3	Czech Republic KIR	100.0		125
+3DL3	East Timor KIR	100.0		50
+3DL3	England KIR pop 3	100.0		334
+3DL3	England KIR pop 4	100.0		99
+3DL3	England KIR pop 5	100.0		584
+3DL3	England Oxfordshire KIR	100.0		216
+3DL3	Equatorial Guinea Bioko Island Bubi KIR	100.0		95
+3DL3	Finland Helsinki KIR	100.0		101
+3DL3	France Reims KIR	100.0		102
+3DL3	France Southeast KIR	100.0		130
+3DL3	France Southeast KIR pop 2	100.0		38
+3DL3	France West KIR	100.0		108
+3DL3	Gabon KIR	100.0		54
+3DL3	Georgia KIR	99.5		188
+3DL3	Ghana KIR	100.0		41
+3DL3	Greece KIR	100.0		233
+3DL3	Guadeloupe Mixed KIR	100.0		90
+3DL3	Hong Kong Chinese KIR	100.0		100
+3DL3	India Madurai Piramalai Kallar Dravidian KIR	100.0		100
+3DL3	India Maharashtra Pune Western KIR	100.0		104
+3DL3	India Mumbai Maharashtrian KIR	100.0		139
+3DL3	India Mumbai Parsi KIR	100.0		145
+3DL3	India North Hindu KIR	100.0		72
+3DL3	India North KIR	100.0		512
+3DL3	India North pop 2 KIR	100.0		100
+3DL3	India Northeast  Assam Kharachi	100.0		108
+3DL3	India Northeast Assam Adivasi	100.0		101
+3DL3	India Northeast Assam Ahom	100.0		104
+3DL3	India Tamil Nadu Kanikar KIR	100.0		35
+3DL3	India Tamil Nadu Mollukurumba KIR	100.0		41
+3DL3	India Tamil Nadu Paravar KIR	100.0		77
+3DL3	India West Bengal Rabha KIR	100.0		50
+3DL3	India West Bengal Rajbanshi KIR	100.0		75
+3DL3	India Western KIR	100.0		161
+3DL3	Indonesia Java KIR	100.0		45
+3DL3	Indonesia Moluccan Islands KIR	100.0		63
+3DL3	Indonesia Sulawesi Minahasans KIR	100.0		60
+3DL3	Indonesia West Sumatra Minangs KIR	100.0		45
+3DL3	Iran East Azerbaijan Azerbaijani KIR	100.0		100
+3DL3	Iran East Azerbaijan Azeri KIR	100.0		84
+3DL3	Iran Fars Persian KIR	100.0		248
+3DL3	Iran Hormozgan and Balochistan Jonobi KIR	100.0		100
+3DL3	Iran Khuzestan Arab KIR	100.0		76
+3DL3	Iran Khuzestan Bakhtiari KIR	100.0		96
+3DL3	Iran KIR	100.0		200
+3DL3	Iran Lur KIR	100.0		100
+3DL3	Iran Northern KIR	100.0		100
+3DL3	Iran Tehran KIR	100.0		100
+3DL3	Ireland KIR pop 2	100.0		240
+3DL3	Ireland Northern KIR	100.0		200
+3DL3	Ireland Northern KIR pop2	100.0		154
+3DL3	Italy KIR	100.0		217
+3DL3	Italy Lombardy KIR	100.0		50
+3DL3	Italy Sardinia Cagliari KIR	100.0		181
+3DL3	Italy West Sicily KIR	98.3		60
+3DL3	Japan KIR	100.0		50
+3DL3	Japan KIR pop 2	100.0		41
+3DL3	Japan KIR pop 3	100.0		132
+3DL3	Japan Kyoto KIR	100.0		240
+3DL3	Japan Tokyo KIR	100.0		239
+3DL3	Korea pop 2 KIR	100.0		159
+3DL3	Latvia KIR	100.0		100
+3DL3	Lebanon KIR	100.0		120
+3DL3	Macedonia KIR	100.0		214
+3DL3	Macedonia Romani KIR	100.0		103
+3DL3	Malaysia Peninsular KIR	100.0		120
+3DL3	Martinique Mixed KIR	100.0		60
+3DL3	Mexico Huichol KIR	100.0		73
+3DL3	Mexico Mestizo Guerrero KIR	100.0		120
+3DL3	Mexico Mestizo Highlands KIR	100.0		257
+3DL3	Mexico Mestizo Jalisco KIR	100.0		100
+3DL3	Mexico Mestizo Jalisco pop 2 KIR	100.0		124
+3DL3	Mexico Mestizo KIR	100.0		54
+3DL3	Mexico Mestizo KIR pop 2	100.0		300
+3DL3	Mexico Mexico City Mestizo KIR	100.0		86
+3DL3	Mexico Purepecha KIR	100.0		53
+3DL3	Mexico Tarahumara KIR	100.0		65
+3DL3	Mexico Veracruz Mestizo KIR	100.0		51
+3DL3	Mexico West Mestizo KIR	100.0		124
+3DL3	Morocco Chaouya KIR	97.0		67
+3DL3	Norway KIR	100.0		368
+3DL3	Oman KIR	100.0		99
+3DL3	Panama KIR	100.0		116
+3DL3	Papua New Guinea Irian Jaya  KIR	100.0		50
+3DL3	Poland KIR	100.0		690
+3DL3	Portugal Azores Terceira Island KIR	100.0		127
+3DL3	Portugal KIR	100.0		65
+3DL3	Reunion Mixed KIR	100.0		101
+3DL3	Romania KIR	100.0		123
+3DL3	Russia Chechens KIR	100.0		48
+3DL3	Russia Moscow  KIR	100.0		84
+3DL3	Russia Northwest pop 3 KIR	100.0		100
+3DL3	Samoa KIR	100.0		50
+3DL3	Saudi Arabia KIR	100.0		162
+3DL3	Saudi Arabia KIR pop 2	100.0		148
+3DL3	Saudi Arabia KIR pop 3	100.0		65
+3DL3	Saudi Arabia Riyadh KIR	100.0		152
+3DL3	Scotland Orkney KIR	100.0		90
+3DL3	Senegal KIR	100.0		118
+3DL3	Serbia Vojvodina KIR	100.0	1.000	134
+3DL3	Singapore Chinese KIR	100.0		47
+3DL3	Singapore Chinese KIR pop 2	100.0		210
+3DL3	Singapore Indians KIR	100.0		80
+3DL3	Singapore Malays KIR	100.0		80
+3DL3	Slovenia KIR	100.0		130
+3DL3	Solomon Islands KIR	100.0		40
+3DL3	South Africa Black African KIR	100.0		167
+3DL3	South Africa Carletonville Gauteng KIR	100.0		81
+3DL3	South Africa Caucasian KIR	100.0		97
+3DL3	South Africa Indian KIR	100.0		50
+3DL3	South Africa Mixed Ancestry KIR	100.0		50
+3DL3	South Africa San KIR	100.0		91
+3DL3	South Africa Xhosa KIR	100.0		50
+3DL3	South Korea KIR	100.0		154
+3DL3	Spain AvilÃ©s KIR	100.0		339
+3DL3	Spain Basque KIR	100.0		71
+3DL3	Spain Cantabria KIR	100.0		230
+3DL3	Spain Granada KIR	100.0		100
+3DL3	Spain Madrid KIR	100.0		131
+3DL3	Spain Murcia KIR	100.0		200
+3DL3	Spain Sevilla KIR	100.0		278
+3DL3	Sweden KIR	99.0		102
+3DL3	Sweden Vasterbotten KIR	100.0		150
+3DL3	Taiwan Han KIR pop 4	100.0		97
+3DL3	Thailand Bangkok KIR pop 2	100.0		100
+3DL3	Thailand Bangkok KIR pop 3	100.0		150
+3DL3	Thailand North East KIR	100.0		235
+3DL3	Tokelau KIR	98.0		47
+3DL3	Tonga KIR	100.0		49
+3DL3	Tunisia KIR	100.0		114
+3DL3	Turkey KIR pop 2	100.0		154
+3DL3	Turkey KIR pop 3	100.0		187
+3DL3	Turkey South KIR	99.5		200
+3DL3	Uruguay Mixed KIR	100.0		41
+3DL3	USA California African American KIR	100.0		58
+3DL3	USA California Asian American KIR	100.0		150
+3DL3	USA California Caucasians KIR	100.0		195
+3DL3	USA California Hispanic KIR	100.0		128
+3DL3	USA Caucasian KIR	100.0		255
+3DL3	USA Eastern KIR	100.0		213
+3DL3	USA Springfield Puerto Rican KIR	100.0		74
+3DL3	Uzbekistan KIR	100.0		67
+3DL3	Venezuela Bari KIR	100.0		80
+3DL3	Venezuela Mestizo KIR	99.5		205
+3DL3	Venezuela Warao KIR	100.0		89
+3DL3	Venezuela Yucpa KIR	100.0		61
+3DL3	Vietnam Hanoi  KIR pop 2	100.0		140
+3DL3	Zimbabwe Harare KIR	100.0		97
+3DL3*001	England KIR pop 2		0.176	94
+3DL3*00101	Ghana Ga-Adangbe KIR		0.003	131
+3DL3*00101	USA Caucasian NMDP KIR		0.140	75
+3DL3*00102	England KIR pop 2		0.080	94
+3DL3*00102	USA Caucasian NMDP KIR		0.033	75
+3DL3*00103	USA Caucasian NMDP KIR		0.007	75
+3DL3*00201	Ghana Ga-Adangbe KIR		0.019	131
+3DL3*00201	USA Caucasian NMDP KIR		0.013	75
+3DL3*00202	England KIR pop 2		0.037	94
+3DL3*00202	Ghana Ga-Adangbe KIR		0.005	131
+3DL3*00202	USA Caucasian NMDP KIR		0.040	75
+3DL3*00205	Ghana Ga-Adangbe KIR		0.014	131
+3DL3*00206	Ghana Ga-Adangbe KIR		0.003	131
+3DL3*00206	USA Caucasian NMDP KIR		0.020	75
+3DL3*00207	Ghana Ga-Adangbe KIR		0.008	131
+3DL3*00207	USA Caucasian NMDP KIR		0.027	75
+3DL3*00208	Ghana Ga-Adangbe KIR		0.014	131
+3DL3*003	England KIR pop 2		0.170	94
+3DL3*003	Ghana Ga-Adangbe KIR		0.087	131
+3DL3*003	USA Caucasian NMDP KIR		0.220	75
+3DL3*004	England KIR pop 2		0.032	94
+3DL3*00402	Ghana Ga-Adangbe KIR		0.077	131
+3DL3*00402	USA Caucasian NMDP KIR		0.000	75
+3DL3*005	Ghana Ga-Adangbe KIR		0.145	131
+3DL3*005	USA Caucasian NMDP KIR		0.007	75
+3DL3*006	England KIR pop 2		0.043	94
+3DL3*00601	USA Caucasian NMDP KIR		0.020	75
+3DL3*00602	USA Caucasian NMDP KIR		0.007	75
+3DL3*007	England KIR pop 2		0.032	94
+3DL3*007	USA Caucasian NMDP KIR		0.047	75
+3DL3*008	England KIR pop 2		0.027	94
+3DL3*008	Ghana Ga-Adangbe KIR		0.003	131
+3DL3*00801	USA Caucasian NMDP KIR		0.013	75
+3DL3*009	England KIR pop 2		0.197	94
+3DL3*00901	Ghana Ga-Adangbe KIR		0.101	131
+3DL3*00901	USA Caucasian NMDP KIR		0.120	75
+3DL3*00902	Ghana Ga-Adangbe KIR		0.005	131
+3DL3*00902	USA Caucasian NMDP KIR		0.027	75
+3DL3*00903	Ghana Ga-Adangbe KIR		0.008	131
+3DL3*010	Ghana Ga-Adangbe KIR		0.044	131
+3DL3*010	USA Caucasian NMDP KIR		0.013	75
+3DL3*011	England KIR pop 2		0.000	94
+3DL3*011	Ghana Ga-Adangbe KIR		0.041	131
+3DL3*01102	USA Caucasian NMDP KIR		0.007	75
+3DL3*012	England KIR pop 2		0.005	94
+3DL3*012	Ghana Ga-Adangbe KIR		0.030	131
+3DL3*01301	England KIR pop 2		0.032	94
+3DL3*01302	Ghana Ga-Adangbe KIR		0.003	131
+3DL3*01302	USA Caucasian NMDP KIR		0.027	75
+3DL3*01303	England KIR pop 2		0.021	94
+3DL3*01303	USA Caucasian NMDP KIR		0.007	75
+3DL3*01305	USA Caucasian NMDP KIR		0.020	75
+3DL3*01306	USA Caucasian NMDP KIR		0.007	75
+3DL3*01307	USA Caucasian NMDP KIR		0.007	75
+3DL3*01401	England KIR pop 2		0.048	94
+3DL3*01401	Ghana Ga-Adangbe KIR		0.049	131
+3DL3*01402	Ghana Ga-Adangbe KIR		0.025	131
+3DL3*01402	USA Caucasian NMDP KIR		0.027	75
+3DL3*01403	England KIR pop 2		0.032	94
+3DL3*01403	Ghana Ga-Adangbe KIR		0.005	131
+3DL3*01404	Ghana Ga-Adangbe KIR		0.005	131
+3DL3*01404	USA Caucasian NMDP KIR		0.007	75
+3DL3*01405	USA Caucasian NMDP KIR		0.013	75
+3DL3*01406	Ghana Ga-Adangbe KIR		0.033	131
+3DL3*015	England KIR pop 2		0.016	94
+3DL3*015	USA Caucasian NMDP KIR		0.027	75
+3DL3*01502	Ghana Ga-Adangbe KIR		0.016	131
+3DL3*016	England KIR pop 2		0.005	94
+3DL3*016	USA Caucasian NMDP KIR		0.007	75
+3DL3*01602	Ghana Ga-Adangbe KIR		0.011	131
+3DL3*017	England KIR pop 2		0.037	94
+3DL3*017	Ghana Ga-Adangbe KIR		0.003	131
+3DL3*017	USA Caucasian NMDP KIR		0.040	75
+3DL3*018	England KIR pop 2		0.005	94
+3DL3*019	England KIR pop 2		0.000	94
+3DL3*020	England KIR pop 2		0.000	94
+3DL3*021	England KIR pop 2		0.005	94
+3DL3*022	England KIR pop 2		0.000	94
+3DL3*022	Ghana Ga-Adangbe KIR		0.036	131
+3DL3*025	Ghana Ga-Adangbe KIR		0.008	131
+3DL3*025	USA Caucasian NMDP KIR		0.013	75
+3DL3*026	USA Caucasian NMDP KIR		0.007	75
+3DL3*027	USA Caucasian NMDP KIR		0.007	75
+3DL3*02701	Ghana Ga-Adangbe KIR		0.003	131
+3DL3*02702	Ghana Ga-Adangbe KIR		0.022	131
+3DL3*02703	Ghana Ga-Adangbe KIR		0.003	131
+3DL3*028	Ghana Ga-Adangbe KIR		0.019	131
+3DL3*028	USA Caucasian NMDP KIR		0.000	75
+3DL3*029	USA Caucasian NMDP KIR		0.007	75
+3DL3*030	USA Caucasian NMDP KIR		0.013	75
+3DL3*031	USA Caucasian NMDP KIR		0.007	75
+3DL3*032	Ghana Ga-Adangbe KIR		0.044	131
+3DL3*033	Ghana Ga-Adangbe KIR		0.003	131
+3DL3*034	Ghana Ga-Adangbe KIR		0.025	131
+3DL3*035	Ghana Ga-Adangbe KIR		0.077	131
+3DL3*049	Ghana Ga-Adangbe KIR		0.003	131
+3DL3*056	Ghana Ga-Adangbe KIR		0.003	131

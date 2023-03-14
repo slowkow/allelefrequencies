@@ -1,0 +1,343 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+2DL3	Argentina Buenos Aires KIR	86.5		365
+2DL3	Argentina Chaco Region Wichi KIR	84.0		82
+2DL3	Argentina Chiriguano KIR	87.0		54
+2DL3	Argentina KIR	88.2		102
+2DL3	Argentina Salta Wichi KIR	84.2		19
+2DL3	Australia Queensland Brisbane KIR	57.5		106
+2DL3	Australia South Aborigine KIR	68.0		67
+2DL3	Australia West Caucasian KIR	90.0		50
+2DL3	Belgium KIR	90.5		148
+2DL3	Belgium KIR pop 2	90.0		100
+2DL3	Borneo Kalimantan KIR	100.0		48
+2DL3	Brazil Amazon KIR	80.0		40
+2DL3	Brazil Bahia IlhÃ©us KIR	81.4	0.568	102
+2DL3	Brazil Belem Mixed KIR	90.2		347
+2DL3	Brazil Belo Horizonte Caucasian KIR	94.4		90
+2DL3	Brazil Curitiba Japanese KIR	98.0		51
+2DL3	Brazil Curitiba KIR	84.6	0.610	164
+2DL3	Brazil Guarani KaiowÃ¡ KIR	98.0		96
+2DL3	Brazil Guarani MByÃ¡ KIR	84.0		81
+2DL3	Brazil Guarani Ãandeva KIR	98.0		50
+2DL3	Brazil Kaingang KIR	84.0		100
+2DL3	Brazil Mato Grosso do Sul Campo Grande KIR	83.5		206
+2DL3	Brazil Parana Japanese KIR	99.1		214
+2DL3	Brazil ParanÃ¡ Maringa KIR	89.2		130
+2DL3	Brazil Parana Mixed KIR	89.3		289
+2DL3	Brazil Parana Mixed KIR pop 2	87.2		172
+2DL3	Brazil Porto Alegre Caucasian KIR	86.4		250
+2DL3	Brazil Porto Alegre Caucasian KIR pop 2	86.6		216
+2DL3	Brazil Porto Alegre Caucasian KIR pop 3	86.3		278
+2DL3	Brazil Rio de Janeiro Caucasian pop 2 KIR	90.7		98
+2DL3	Brazil Rio de Janeiro Mixed KIR	87.3		166
+2DL3	Brazil Rondonia Karitiana KIR	85.5		55
+2DL3	Brazil Rondonia Porto Velho KIR	89.4		377
+2DL3	Brazil Rondonia Surui KIR	97.8		46
+2DL3	Brazil Sao Paulo KIR	89.0		289
+2DL3	Brazil Southeast Caucasian KIR	85.4		55
+2DL3	Brazil Western Amazon Ticuna KIR	93.8		65
+2DL3	Bulgaria KIR	91.0		54
+2DL3	Cambodia KIR	85.7		22
+2DL3	Canada Iranian KIR	86.8		68
+2DL3	Central African Republic Bagandu Biaka KIR	80.3		69
+2DL3	Chile Talca KIR	95.6		90
+2DL3	China Eastern Mainland Han KIR	99.0		106
+2DL3	China Guangdong Han KIR	98.1		107
+2DL3	China Hubei  Province Tujia KIR	93.0		124
+2DL3	China Hunan Han KIR	98.7		448
+2DL3	China Inner Mongolia Han KIR	100.0		104
+2DL3	China Inner Mongolia Mongol KIR	98.8		160
+2DL3	China Inner Mongolia Province KIR pop 2	89.0	0.660	87
+2DL3	China Jiangsu Province Han KIR	100.0		150
+2DL3	China Jiangsu Province Han KIR pop2	96.7		60
+2DL3	China Mongolia Province KIR	93.3		90
+2DL3	China Nanjing KIR	97.1		238
+2DL3	China Shaanxi Province Han KIR	98.1		104
+2DL3	China Shenzhen Han KIR pop 2	98.4		503
+2DL3	China Tibet Lhasa KIR	98.0		102
+2DL3	China Xinjiang Region Urumqi Uygur KIR	95.8		120
+2DL3	China Yunnan Han KIR	99.8		404
+2DL3	China Yunnan Province Dali Bai KIR	100.0		100
+2DL3	China Yunnan Province Drung KIR	100.0		152
+2DL3	China Yunnan Province Fengyandong Han KIR	97.8		93
+2DL3	China Yunnan Province Fugong Nu KIR	100.0		112
+2DL3	China Yunnan Province Menghai Bulang KIR	97.0		109
+2DL3	China Yunnan Province Sunan Yugu KIR	93.0		104
+2DL3	China Yunnan Province Tiandeng Zhuang KIR	98.0		98
+2DL3	China Zhejiang Han KIR	99.3		273
+2DL3	China Zhejiang Province Han KIR	99.0		104
+2DL3	Comoros Mixed KIR	93.0		54
+2DL3	Congo Kinshasa Ituri Forest Mbuti KIR	61.8		38
+2DL3	Cook Islands KIR	92.0		48
+2DL3	Costa Rica Guanacaste KIR	86.0		117
+2DL3	Croatia KIR	95.0		125
+2DL3	Croatia KIR pop 2	93.0		111
+2DL3	Croatia KIR pop 3	95.0		121
+2DL3	Cuba Caucasian KIR	90.0		70
+2DL3	Czech Republic KIR	86.0		125
+2DL3	Denmark Copenhagen KIR	96.0		50
+2DL3	East Timor KIR	94.0		50
+2DL3	England KIR	92.0		136
+2DL3	England KIR pop 3	90.0		334
+2DL3	England KIR pop 4	88.9		99
+2DL3	England KIR pop 5	89.7		584
+2DL3	England Oxfordshire KIR	93.5		216
+2DL3	England West Midlands Afro Caribbean KIR	91.0		54
+2DL3	England West Midlands Indian Asian KIR	86.0		35
+2DL3	England West Midlands KIR	93.0		126
+2DL3	Equatorial Guinea Bioko Island Bubi KIR	80.2		95
+2DL3	Finland Helsinki KIR	96.0		101
+2DL3	Finland KIR	97.0		35
+2DL3	France Reims KIR	89.2		102
+2DL3	France Southeast KIR	88.0		130
+2DL3	France Southeast KIR pop 2	97.0		38
+2DL3	France West KIR	91.0		108
+2DL3	Gabon KIR	79.6		54
+2DL3	Georgia KIR	86.2		188
+2DL3	Germany Hesse KIR	90.9		99
+2DL3	Germany KIR	91.0		100
+2DL3	Ghana KIR	85.4		41
+2DL3	Greece KIR	88.0		233
+2DL3	Guadeloupe Mixed KIR	84.0		90
+2DL3	Hong Kong Chinese KIR	98.0		100
+2DL3	India Madurai Piramalai Kallar Dravidian KIR	75.0		100
+2DL3	India Maharashtra Pune Western KIR	80.8		104
+2DL3	India Mumbai Maharashtrian KIR	85.8		139
+2DL3	India Mumbai Parsi KIR	81.9		145
+2DL3	India North Hindu KIR	65.3		72
+2DL3	India North KIR	71.5		512
+2DL3	India North pop 2 KIR	84.0		100
+2DL3	India Northeast  Assam Kharachi	95.4		108
+2DL3	India Northeast Assam Adivasi	61.4		101
+2DL3	India Northeast Assam Ahom	95.2		104
+2DL3	India Northeast Assam KIR	96.6		177
+2DL3	India Tamil Nadu Kanikar KIR	77.0		35
+2DL3	India Tamil Nadu Mollukurumba KIR	85.0		41
+2DL3	India Tamil Nadu Paravar KIR	79.0		77
+2DL3	India West Bengal Rabha KIR	92.0		50
+2DL3	India West Bengal Rajbanshi KIR	85.3		75
+2DL3	India Western KIR	79.5		161
+2DL3	Indonesia Java KIR	100.0		45
+2DL3	Indonesia Moluccan Islands KIR	89.0		63
+2DL3	Indonesia Sulawesi Minahasans KIR	93.0		60
+2DL3	Indonesia West Sumatra Minangs KIR	89.0		45
+2DL3	Iran East Azerbaijan Azerbaijani KIR	84.0		100
+2DL3	Iran East Azerbaijan Azeri KIR	89.2		84
+2DL3	Iran Fars Persian KIR	91.0		248
+2DL3	Iran Hormozgan and Balochistan Jonobi KIR	85.0		100
+2DL3	Iran Khuzestan Arab KIR	89.5		76
+2DL3	Iran Khuzestan Bakhtiari KIR	88.5		96
+2DL3	Iran KIR	86.5		200
+2DL3	Iran Lur KIR	88.0		100
+2DL3	Iran Northern KIR	85.0		100
+2DL3	Iran Shiraz KIR	87.2		273
+2DL3	Iran Tehran KIR	87.0		100
+2DL3	Ireland KIR	91.5		94
+2DL3	Ireland KIR pop 2	89.2		240
+2DL3	Ireland Northern KIR	93.0	0.710	200
+2DL3	Ireland Northern KIR pop2	90.3		154
+2DL3	Israel Ethiopian Jews KIR	77.4		31
+2DL3	Israel North Druze KIR	78.4		116
+2DL3	Italy KIR	88.0		217
+2DL3	Italy Lombardy KIR	94.0		50
+2DL3	Italy Sardinia Cagliari KIR	84.5		181
+2DL3	Italy West Sicily KIR	76.7		60
+2DL3	Ivory Coast Abidjan KIR	80.0		25
+2DL3	Japan KIR	98.0		50
+2DL3	Japan KIR pop 2	100.0		41
+2DL3	Japan KIR pop 3	100.0		132
+2DL3	Japan KIR pop 4	100.0		49
+2DL3	Japan Kyoto KIR	98.8		240
+2DL3	Japan Tokyo KIR	100.0		239
+2DL3	Jordan Palestine KIR	85.0		105
+2DL3	Kenya KIR	89.3		1,000
+2DL3	Korea pop 2 KIR	100.0		159
+2DL3	Latvia KIR	91.0		100
+2DL3	Lebanon KIR	88.3		120
+2DL3	Macedonia KIR	89.7		214
+2DL3	Macedonia Romani KIR	87.4		103
+2DL3	Malaysia Peninsular KIR	90.0		120
+2DL3	Martinique Mixed KIR	75.0		60
+2DL3	Mexico Huichol KIR	100.0		73
+2DL3	Mexico Mestizo Guerrero KIR	96.0		120
+2DL3	Mexico Mestizo Highlands KIR	94.2		257
+2DL3	Mexico Mestizo Jalisco KIR	93.0		100
+2DL3	Mexico Mestizo Jalisco pop 2 KIR	95.0		124
+2DL3	Mexico Mestizo KIR	94.4		54
+2DL3	Mexico Mestizo KIR pop 2	93.7		300
+2DL3	Mexico Mexico City Mestizo KIR	100.0		86
+2DL3	Mexico Purepecha KIR	100.0		53
+2DL3	Mexico Sierra Madre Pima KIR	87.6		99
+2DL3	Mexico Tarahumara KIR	100.0		65
+2DL3	Mexico Veracruz Mestizo KIR	88.2		51
+2DL3	Mexico West Mestizo KIR	88.7		124
+2DL3	Mexico Yucatan Maya KIR	94.0		50
+2DL3	Morocco Chaouya KIR	73.1		67
+2DL3	Nigeria Benin Yoruba KIR	92.0		75
+2DL3	Nigeria Enugu Ibo KIR	76.1		48
+2DL3	Nigeria Zaria Hausa KIR	96.7		37
+2DL3	Norway KIR	92.0		368
+2DL3	Oman KIR	87.9		99
+2DL3	Pakistan Karachi KIR	91.0		78
+2DL3	Panama KIR	86.2		116
+2DL3	Papua New Guinea Irian Jaya  KIR	72.0		50
+2DL3	Papua New Guinea Nasioi KIR	59.1		22
+2DL3	Poland KIR	90.3		690
+2DL3	Poland KIR pop2	88.3		60
+2DL3	Portugal Azores Terceira Island KIR	81.1		127
+2DL3	Portugal KIR	89.2		65
+2DL3	Reunion Mixed KIR	91.0		101
+2DL3	Romania KIR	56.5		123
+2DL3	Russia Adygei KIR	92.5		54
+2DL3	Russia Chechens KIR	89.6		48
+2DL3	Russia Moscow  KIR	90.5		84
+2DL3	Russia Northwest pop 3 KIR	85.0		100
+2DL3	Russia Siberia Yakut KIR	92.2		51
+2DL3	Russia Vologda KIR	86.4		47
+2DL3	Samoa KIR	98.0		50
+2DL3	Saudi Arabia KIR	91.4		162
+2DL3	Saudi Arabia KIR pop 2	83.1		148
+2DL3	Saudi Arabia KIR pop 3	82.0		65
+2DL3	Saudi Arabia Riyadh KIR	81.6		152
+2DL3	Scotland Orkney KIR	87.8		90
+2DL3	Senegal KIR	90.0		118
+2DL3	Serbia Vojvodina KIR	87.3	0.643	134
+2DL3	Singapore Chinese KIR	100.0		47
+2DL3	Singapore Chinese KIR pop 2	89.5		210
+2DL3	Singapore Indians KIR	85.0		80
+2DL3	Singapore Malays KIR	91.3		80
+2DL3	Slovenia KIR	91.5		130
+2DL3	Solomon Islands KIR	77.5		40
+2DL3	South Africa Black African KIR	82.0		167
+2DL3	South Africa Carletonville Gauteng KIR	74.1		81
+2DL3	South Africa Caucasian KIR	88.7		97
+2DL3	South Africa Indian KIR	64.0		50
+2DL3	South Africa Mixed Ancestry KIR	86.0		50
+2DL3	South Africa San KIR	60.4		91
+2DL3	South Africa Xhosa KIR	64.0		50
+2DL3	South Korea KIR	99.4		154
+2DL3	Spain AvilÃ©s KIR	82.9		339
+2DL3	Spain Basque KIR	96.0		71
+2DL3	Spain Cantabria KIR	88.8		230
+2DL3	Spain Granada KIR	85.0		100
+2DL3	Spain Madrid KIR	86.3		131
+2DL3	Spain Murcia KIR	91.0		200
+2DL3	Spain Sevilla KIR	85.6		278
+2DL3	Sweden KIR	96.1		102
+2DL3	Sweden Vasterbotten KIR	89.3		150
+2DL3	Taiwan Ami KIR	84.6		40
+2DL3	Taiwan Hakka KIR	97.4		40
+2DL3	Taiwan Han KIR pop 2	100.0		59
+2DL3	Taiwan Han KIR pop 3	93.6		48
+2DL3	Taiwan Han KIR pop 4	100.0		97
+2DL3	Taiwan KIR	82.3		96
+2DL3	Taiwan Taroko Atayal KIR	100.0		42
+2DL3	Thailand Bangkok KIR	97.0		119
+2DL3	Thailand Bangkok KIR pop 2	95.0		100
+2DL3	Thailand Bangkok KIR pop 3	93.3		150
+2DL3	Thailand North East KIR	90.2		235
+2DL3	Tokelau KIR	96.0		47
+2DL3	Tonga KIR	94.0		49
+2DL3	Trinidad Africans KIR	85.0		62
+2DL3	Trinidad South Asians KIR	83.0		108
+2DL3	Tunisia KIR	91.2		114
+2DL3	Turkey KIR pop 2	85.7		154
+2DL3	Turkey KIR pop 3	87.7		187
+2DL3	Turkey South KIR	80.0		200
+2DL3	Uganda Kampala KIR	85.0		492
+2DL3	Uruguay Mixed KIR	92.7		41
+2DL3	USA California African American KIR	81.0		58
+2DL3	USA California Asian American KIR	90.7		150
+2DL3	USA California Caucasians KIR	88.7		195
+2DL3	USA California Hispanic KIR	93.8		128
+2DL3	USA Caucasian KIR	86.7		255
+2DL3	USA Eastern KIR	89.0		213
+2DL3	USA Springfield Puerto Rican KIR	85.1		74
+2DL3	Uzbekistan KIR	95.5		67
+2DL3	Venezuela Bari KIR	88.8		80
+2DL3	Venezuela Mestizo KIR	93.2		205
+2DL3	Venezuela Warao KIR	95.5		89
+2DL3	Venezuela Yucpa KIR	70.5		61
+2DL3	Vietnam Hanoi  KIR pop 2	94.3		140
+2DL3	Vietnam Hanoi KIR	98.0		59
+2DL3	Yemen Jews KIR	95.2		43
+2DL3	Zimbabwe Harare KIR	91.0		97
+2DL3*001	Brazil Belo Horizonte Caucasian KIR	71.6		90
+2DL3*001	Cuba Caucasian KIR	70.0		70
+2DL3*001	Finland Helsinki KIR	68.8		101
+2DL3*001	Ghana Ga-Adangbe KIR		0.402	131
+2DL3*001	Hong Kong Chinese KIR	94.0		100
+2DL3*001	India North Hindu KIR	58.8		72
+2DL3*001	Ireland Northern KIR	60.0	0.370	200
+2DL3*001	Ireland Northern KIR pop2	63.6		154
+2DL3*001	Japan KIR pop 3		0.871	132
+2DL3*001	Mexico Huichol KIR		0.973	73
+2DL3*001	Mexico Mexico City Mestizo KIR		0.804	86
+2DL3*001	Mexico Purepecha KIR		0.927	53
+2DL3*001	Mexico Tarahumara KIR		0.985	65
+2DL3*001	Oman KIR	67.0		99
+2DL3*001	South Africa Xhosa KIR	42.0		50
+2DL3*002	Brazil Belo Horizonte Caucasian KIR	35.6		90
+2DL3*002	Cuba Caucasian KIR	40.0		70
+2DL3*002	Finland Helsinki KIR	51.0		101
+2DL3*002	Ghana Ga-Adangbe KIR		0.008	131
+2DL3*002	Hong Kong Chinese KIR	17.0		100
+2DL3*002	India North Hindu KIR	16.3		72
+2DL3*002	Ireland Northern KIR	54.0	0.290	200
+2DL3*002	Ireland Northern KIR pop2	46.8		154
+2DL3*002	Japan KIR pop 3		0.039	132
+2DL3*002	Mexico Huichol KIR		0.027	73
+2DL3*002	Mexico Mexico City Mestizo KIR		0.195	86
+2DL3*002	Mexico Purepecha KIR		0.054	53
+2DL3*002	Mexico Tarahumara KIR		0.000	65
+2DL3*002	Oman KIR	24.2		99
+2DL3*002	South Africa Xhosa KIR	6.0		50
+2DL3*003	Brazil Belo Horizonte Caucasian KIR	1.1		90
+2DL3*003	Cuba Caucasian KIR	0.0		70
+2DL3*003	Finland Helsinki KIR	0.0		101
+2DL3*003	Hong Kong Chinese KIR	0.0		100
+2DL3*003	India North Hindu KIR	0.0		72
+2DL3*003	Ireland Northern KIR	0.0	0.000	200
+2DL3*003	Ireland Northern KIR pop2	4.5		154
+2DL3*003	Mexico Huichol KIR		0.000	73
+2DL3*003	Mexico Mexico City Mestizo KIR		0.000	86
+2DL3*003	Mexico Tarahumara KIR		0.000	65
+2DL3*003	Oman KIR	0.0		99
+2DL3*003	South Africa Xhosa KIR	0.0		50
+2DL3*004	Brazil Belo Horizonte Caucasian KIR	0.0		90
+2DL3*004	Cuba Caucasian KIR	0.0		70
+2DL3*004	Finland Helsinki KIR	0.0		101
+2DL3*004	Hong Kong Chinese KIR	0.0		100
+2DL3*004	India North Hindu KIR	0.0		72
+2DL3*004	Ireland Northern KIR	0.0	0.000	200
+2DL3*004	Ireland Northern KIR pop2	0.0		154
+2DL3*004	Mexico Huichol KIR		0.000	73
+2DL3*004	Mexico Mexico City Mestizo KIR		0.010	86
+2DL3*004	Mexico Purepecha KIR		0.018	53
+2DL3*004	Mexico Tarahumara KIR		0.015	65
+2DL3*004	Oman KIR	0.0		99
+2DL3*004	South Africa Xhosa KIR	0.0		50
+2DL3*005	Brazil Belo Horizonte Caucasian KIR	7.8		90
+2DL3*005	Cuba Caucasian KIR	4.3		70
+2DL3*005	Finland Helsinki KIR	7.3		101
+2DL3*005	Ghana Ga-Adangbe KIR		0.090	131
+2DL3*005	Hong Kong Chinese KIR	0.0		100
+2DL3*005	India North Hindu KIR	0.0		72
+2DL3*005	Ireland Northern KIR	9.0	0.050	200
+2DL3*005	Ireland Northern KIR pop2	6.5		154
+2DL3*005	Mexico Huichol KIR		0.000	73
+2DL3*005	Oman KIR	13.1		99
+2DL3*005	South Africa Xhosa KIR	12.0		50
+2DL3*006	Brazil Belo Horizonte Caucasian KIR	1.1		90
+2DL3*006	Cuba Caucasian KIR	1.4		70
+2DL3*006	Finland Helsinki KIR	0.0		101
+2DL3*006	Ghana Ga-Adangbe KIR		0.057	131
+2DL3*006	Hong Kong Chinese KIR	0.0		100
+2DL3*006	Ireland Northern KIR	0.0	0.000	200
+2DL3*006	Ireland Northern KIR pop2	0.0		154
+2DL3*006	Mexico Tarahumara KIR		0.000	65
+2DL3*006	Oman KIR	0.0		99
+2DL3*006	South Africa Xhosa KIR	4.0		50
+2DL3*007	Japan KIR pop 3		0.022	132
+2DL3*01202	Ghana Ga-Adangbe KIR		0.003	131
+2DL3*018	Ghana Ga-Adangbe KIR		0.014	131

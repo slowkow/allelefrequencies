@@ -1,0 +1,28 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+IL-18 -607 AA	China Cytokine	19.2		143
+IL-18 -607 AA	USA Southeast African American Cytokine	13.7		250
+IL-18 -607 AA	USA Southeast Caucasian Cytokine	13.8		145
+IL-18 -607 AC	China Cytokine	59.4		143
+IL-18 -607 AC	USA Southeast African American Cytokine	39.7		250
+IL-18 -607 AC	USA Southeast Caucasian Cytokine	44.2		145
+IL-18 -607 CC	China Cytokine	18.9		143
+IL-18 -607 CC	USA Southeast African American Cytokine	46.5		250
+IL-18 -607 CC	USA Southeast Caucasian Cytokine	42.0		145
+IL-18 -137 CC	China Cytokine	6.3		143
+IL-18 -137 CC	Italy Sicily West	6.9		220
+IL-18 -137 CC	USA Southeast African American Cytokine	4.4		250
+IL-18 -137 CC	USA Southeast Caucasian Cytokine	3.6		145
+IL-18 -137 CG	China Cytokine	25.9		143
+IL-18 -137 CG	Italy Sicily West	41.2		220
+IL-18 -137 CG	USA Southeast African American Cytokine	29.6		250
+IL-18 -137 CG	USA Southeast Caucasian Cytokine	36.3		145
+IL-18 -137 GG	China Cytokine	67.8		143
+IL-18 -137 GG	Italy Sicily West	51.9		220
+IL-18 -137 GG	USA Southeast African American Cytokine	66.1		250
+IL-18 -137 GG	USA Southeast Caucasian Cytokine	60.1		145
+IL-18 -656 GG	China Cytokine	35.0		143
+IL-18 -656 GT	China Cytokine	54.5		143
+IL-18 -656 TT	China Cytokine	10.5		143
+IL-18 1248 AA	China Cytokine	50.3		143
+IL-18 1248 AG	China Cytokine	46.9		143
+IL-18 1248 GG	China Cytokine	2.8		143

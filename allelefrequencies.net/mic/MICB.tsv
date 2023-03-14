@@ -1,0 +1,60 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+MICB*001	China Zhangjiajie Tujias MIC		0.000	187
+MICB*002	Thailand North East MIC pop 2	59.0	0.360	100
+MICB*002:01	China Guangxi Zhuang MIC		0.136	209
+MICB*002:01	China Zhangjiajie Tujias MIC		0.000	187
+MICB*002:01:01	China Zhangjiajie Tujias MIC		0.249	187
+MICB*002:01:01	China Zhejiang Han MIC		0.123	400
+MICB*003	China Guangxi Zhuang MIC		0.041	209
+MICB*003	China Zhangjiajie Tujias MIC		0.013	187
+MICB*003	China Zhejiang Han MIC		0.018	400
+MICB*003	Thailand North East MIC pop 2	1.0	0.005	100
+MICB*004	Thailand North East MIC pop 2	23.0	0.123	100
+MICB*004:01	China Zhangjiajie Tujias MIC		0.000	187
+MICB*004:01:01	China Zhejiang Han MIC		0.084	400
+MICB*005:01	China Zhangjiajie Tujias MIC		0.000	187
+MICB*005:01	Thailand North East MIC pop 2	0.0	0.000	100
+MICB*005:02	China Guangxi Zhuang MIC		0.278	209
+MICB*005:02	China Zhangjiajie Tujias MIC		0.396	187
+MICB*005:02	Thailand North East MIC pop 2	62.0	0.384	100
+MICB*005:02:01	China Zhejiang Han MIC		0.574	400
+MICB*005:03	China Guangxi Zhuang MIC		0.060	209
+MICB*005:03	China Zhangjiajie Tujias MIC		0.027	187
+MICB*005:03	China Zhejiang Han MIC		0.056	400
+MICB*005:03	Thailand North East MIC pop 2	6.0	0.030	100
+MICB*005:04	China Guangxi Zhuang MIC		0.002	209
+MICB*005:04	China Zhangjiajie Tujias MIC		0.045	187
+MICB*005:06	China Zhejiang Han MIC		0.001	400
+MICB*005:07	China Zhejiang Han MIC		0.003	400
+MICB*005:08	China Zhejiang Han MIC		0.001	400
+MICB*006	China Zhangjiajie Tujias MIC		0.003	187
+MICB*007	China Zhangjiajie Tujias MIC		0.005	187
+MICB*008	China Guangxi Zhuang MIC		0.163	209
+MICB*008	China Zhangjiajie Tujias MIC		0.091	187
+MICB*008	China Zhejiang Han MIC		0.079	400
+MICB*008	Thailand North East MIC pop 2	17.0	0.089	100
+MICB*009N	China Guangxi Zhuang MIC		0.038	209
+MICB*009N	China Zhangjiajie Tujias MIC		0.019	187
+MICB*009N	China Zhejiang Han MIC		0.009	400
+MICB*010	China Zhejiang Han MIC		0.001	400
+MICB*011	China Zhangjiajie Tujias MIC		0.000	187
+MICB*012	China Guangxi Zhuang MIC		0.005	209
+MICB*012	China Zhangjiajie Tujias MIC		0.003	187
+MICB*013	China Guangxi Zhuang MIC		0.002	209
+MICB*013	China Zhangjiajie Tujias MIC		0.000	187
+MICB*013	China Zhejiang Han MIC		0.001	400
+MICB*013	Thailand North East MIC pop 2	4.0	0.020	100
+MICB*014	China Guangxi Zhuang MIC		0.194	209
+MICB*014	China Zhangjiajie Tujias MIC		0.102	187
+MICB*014	China Zhejiang Han MIC		0.039	400
+MICB*014	Thailand North East MIC pop 2	7.0	0.036	100
+MICB*016	China Zhangjiajie Tujias MIC		0.005	187
+MICB*018	China Zhejiang Han MIC		0.001	400
+MICB*019	China Zhejiang Han MIC		0.003	400
+MICB*023	China Zhejiang Han MIC		0.001	400
+MICB*024	China Zhangjiajie Tujias MIC		0.043	187
+MICB*026	China Guangxi Zhuang MIC		0.081	209
+MICB*026	China Zhejiang Han MIC		0.001	400
+MICB*027	China Zhejiang Han MIC		0.001	400
+MICB*028	China Zhejiang Han MIC		0.004	400
+MICB*029	China Zhejiang Han MIC		0.001	400

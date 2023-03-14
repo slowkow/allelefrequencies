@@ -1,0 +1,814 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+A4	China Baotou Han MIC		0.115	104
+A4	China Guangzhou Han MIC		0.132	106
+A4	China Hui MIC		0.091	44
+A4	China Hunan Province Han MIC		0.147	85
+A4	China North Han MIC		0.094	32
+A4	China Sichuan Province Han MIC		0.150	200
+A4	China Uygur MIC		0.071	49
+A4	Germany MIC		0.117	154
+A4	Greece Athens MIC		0.148	27
+A4	Iran Tehran MIC		0.083	18
+A4	Italy MIC		0.141	101
+A4	Italy MIC pop 2	15.0	0.078	98
+A4	Italy Perugia MIC		0.120	158
+A4	Italy Rome MIC		0.096	26
+A4	Japan Tokyo MIC		0.161	352
+A4	Kazakhstan MIC		0.131	38
+A4	Latvia MIC	17.0	0.089	108
+A4	Saudi Arabia Riyadh MIC		0.056	18
+A4	South Korea Seoul MIC		0.169	139
+A4	Spain Majorca Chueta MIC	35.8	0.199	95
+A4	Spain Majorca MIC	30.0	0.163	165
+A4	Spain Malaga MIC		0.100	241
+A4	Spain MIC	26.0	0.140	116
+A4	Spain MIC pop 2	23.0	0.123	342
+A4	Sweden MIC	25.0	0.134	503
+A5	China Baotou Han MIC		0.293	104
+A5	China Guangzhou Han MIC		0.288	106
+A5	China Hui MIC		0.307	44
+A5	China Hunan Province Han MIC		0.376	85
+A5	China North Han MIC		0.281	32
+A5	China Sichuan Province Han MIC		0.390	200
+A5	China Uygur MIC		0.163	49
+A5	Germany MIC		0.136	154
+A5	Greece Athens MIC		0.111	27
+A5	Iran Tehran MIC		0.167	18
+A5	Italy MIC		0.136	101
+A5	Italy MIC pop 2	22.0	0.117	98
+A5	Italy Perugia MIC		0.100	158
+A5	Italy Rome MIC		0.212	26
+A5	Japan Tokyo MIC		0.292	352
+A5	Kazakhstan MIC		0.237	38
+A5	Latvia MIC	20.0	0.106	108
+A5	Saudi Arabia Riyadh MIC		0.083	18
+A5	South Korea Seoul MIC		0.248	139
+A5	Spain Majorca Chueta MIC	22.1	0.117	95
+A5	Spain Majorca MIC	13.3	0.069	165
+A5	Spain Malaga MIC		0.200	241
+A5	Spain MIC	28.0	0.151	116
+A5	Spain MIC pop 2	21.0	0.111	342
+A5	Sweden MIC	24.5	0.131	503
+A5.1	China Baotou Han MIC		0.236	104
+A5.1	China Guangzhou Han MIC		0.264	106
+A5.1	China Hui MIC		0.239	44
+A5.1	China Hunan Province Han MIC		0.265	85
+A5.1	China North Han MIC		0.266	32
+A5.1	China Sichuan Province Han MIC		0.230	200
+A5.1	China Uygur MIC		0.225	49
+A5.1	Germany MIC		0.370	154
+A5.1	Greece Athens MIC		0.223	27
+A5.1	Iran Tehran MIC		0.167	18
+A5.1	Italy MIC		0.316	101
+A5.1	Italy MIC pop 2	35.0	0.194	98
+A5.1	Italy Perugia MIC		0.200	158
+A5.1	Italy Rome MIC		0.115	26
+A5.1	Japan Tokyo MIC		0.123	352
+A5.1	Kazakhstan MIC		0.224	38
+A5.1	Latvia MIC	69.0	0.443	108
+A5.1	Saudi Arabia Riyadh MIC		0.222	18
+A5.1	South Korea Seoul MIC		0.151	139
+A5.1	Spain Majorca Chueta MIC	29.5	0.160	95
+A5.1	Spain Majorca MIC	44.0	0.252	165
+A5.1	Spain Malaga MIC		0.280	241
+A5.1	Spain MIC	44.0	0.252	116
+A5.1	Spain MIC pop 2	43.0	0.245	342
+A5.1	Sweden MIC	62.6	0.388	503
+A6	China Baotou Han MIC		0.178	104
+A6	China Guangzhou Han MIC		0.146	106
+A6	China Hui MIC		0.170	44
+A6	China Hunan Province Han MIC		0.076	85
+A6	China North Han MIC		0.156	32
+A6	China Sichuan Province Han MIC		0.097	200
+A6	China Uygur MIC		0.337	49
+A6	Germany MIC		0.224	154
+A6	Greece Athens MIC		0.407	27
+A6	Iran Tehran MIC		0.472	18
+A6	Italy MIC		0.272	101
+A6	Italy MIC pop 2	54.0	0.322	98
+A6	Italy Perugia MIC		0.370	158
+A6	Italy Rome MIC		0.404	26
+A6	Japan Tokyo MIC		0.258	352
+A6	Kazakhstan MIC		0.224	38
+A6	Latvia MIC	22.0	0.117	108
+A6	Saudi Arabia Riyadh MIC		0.500	18
+A6	South Korea Seoul MIC		0.227	139
+A6	Spain Majorca Chueta MIC	49.5	0.289	95
+A6	Spain Majorca MIC	56.7	0.342	165
+A6	Spain Malaga MIC		0.250	241
+A6	Spain MIC	43.0	0.245	116
+A6	Spain MIC pop 2	55.0	0.329	342
+A6	Sweden MIC	23.3	0.124	503
+A9	China Baotou Han MIC		0.139	104
+A9	China Guangzhou Han MIC		0.170	106
+A9	China Hui MIC		0.193	44
+A9	China Hunan Province Han MIC		0.118	85
+A9	China North Han MIC		0.203	32
+A9	China Sichuan Province Han MIC		0.133	200
+A9	China Uygur MIC		0.204	49
+A9	Germany MIC		0.153	154
+A9	Greece Athens MIC		0.111	27
+A9	Iran Tehran MIC		0.111	18
+A9	Italy MIC		0.136	101
+A9	Italy MIC pop 2	37.0	0.206	98
+A9	Italy Perugia MIC		0.210	158
+A9	Italy Rome MIC		0.173	26
+A9	Japan Tokyo MIC		0.166	352
+A9	Kazakhstan MIC		0.184	38
+A9	Latvia MIC	41.0	0.232	108
+A9	Saudi Arabia Riyadh MIC		0.139	18
+A9	South Korea Seoul MIC		0.176	139
+A9	Spain Majorca Chueta MIC	34.7	0.192	95
+A9	Spain Majorca MIC	31.3	0.171	165
+A9	Spain Malaga MIC		0.160	241
+A9	Spain MIC	30.0	0.163	116
+A9	Spain MIC pop 2	29.0	0.157	342
+A9	Sweden MIC	25.8	0.139	503
+A9.1	South Korea Seoul MIC		0.004	139
+A10	China Hunan Province Han MIC		0.006	85
+MICA*001	Argentina Formosa Toba MIC		0.005	94
+MICA*001	Argentina Formosa Wichi MIC		0.000	42
+MICA*001	Brazil Limao Verde and Corrego Reserve Terena MIC		0.000	60
+MICA*001	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*001	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*001	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*001	Brazil Parana Japanese MIC		0.003	190
+MICA*001	Brazil Parana Kaingang MIC		0.002	245
+MICA*001	Brazil Parana Mixed MIC		0.025	201
+MICA*001	Brazil Sao Paulo Mixed MIC	3.5	0.018	200
+MICA*001	China Shanghai Han MIC		0.000	183
+MICA*001	China Xinjiang Province Uygur MIC		0.000	66
+MICA*001	China Yunnan Province Dai MIC		0.000	41
+MICA*001	China Zhangjiajie Tujias MIC		0.005	187
+MICA*001	England MIC	0.0	0.000	118
+MICA*001	England Northwest MIC	4.4	0.022	250
+MICA*001	Morocco Nador Metalsa MIC		0.030	82
+MICA*001	Slovenia MIC	4.3	0.022	70
+MICA*001	Spain Majorca Chueta MIC		0.005	95
+MICA*001	Spain Majorca MIC		0.051	165
+MICA*001	Spain Murcia MIC		0.078	154
+MICA*001	Thailand North East MIC		0.000	255
+MICA*001	USA African American MIC		0.012	201
+MICA*001	USA Caucasian MIC		0.015	103
+MICA*001	USA Caucasian MIC pop2		0.030	242
+MICA*001	Wales MIC	1.8	0.009	166
+MICA*002	Brazil Parana Japanese MIC		0.150	190
+MICA*002	Brazil Parana Mixed MIC		0.182	201
+MICA*002	Brazil Sao Paulo Mixed MIC	28.5	0.154	200
+MICA*002	China Shanghai Han MIC		0.140	183
+MICA*002	China Xinjiang Province Uygur MIC		0.190	66
+MICA*002	China Yunnan Province Dai MIC		0.150	41
+MICA*002	China Zhangjiajie Tujias MIC		0.000	187
+MICA*002	England MIC	35.0	0.180	118
+MICA*002	England Northwest MIC	16.8	0.088	250
+MICA*002	Japan MIC		0.146	130
+MICA*002	Japan MIC pop 2		0.099	152
+MICA*002	Japan MIC pop 3		0.125	114
+MICA*002	Slovenia MIC	34.3	0.189	70
+MICA*002	Spain Majorca Chueta MIC		0.158	95
+MICA*002	Spain Majorca MIC		0.142	165
+MICA*002	Spain Murcia MIC		0.161	154
+MICA*002	Thailand North East MIC		0.176	255
+MICA*002	Turkey MIC	29.2	0.154	65
+MICA*002	USA Caucasian MIC pop2		0.130	242
+MICA*002:01	Argentina Formosa Toba MIC		0.346	94
+MICA*002:01	Argentina Formosa Wichi MIC		0.476	42
+MICA*002:01	Brazil Limao Verde and Corrego Reserve Terena MIC		0.445	60
+MICA*002:01	Brazil Mato Grosso do Sul Kaiowa MIC		0.641	174
+MICA*002:01	Brazil Mato Grosso do Sul Nandeva MIC		0.375	89
+MICA*002:01	Brazil Parana Guarani M'byÃ¡ MIC		0.215	100
+MICA*002:01	Brazil Parana Kaingang MIC		0.396	245
+MICA*002:01	China Baotou Han MIC		0.120	104
+MICA*002:01	China Guangxi Zhuang MIC		0.151	209
+MICA*002:01	China Zhangjiajie Tujias MIC		0.217	187
+MICA*002:01	China Zhejiang Province Han MIC		0.155	100
+MICA*002:01	England Bedfordshire MIC		0.076	354
+MICA*002:01	Morocco Nador Metalsa MIC		0.073	82
+MICA*002:01	Nigeria South Efik MIC		0.172	32
+MICA*002:01	Nigeria South Igbo MIC		0.424	46
+MICA*002:01	Nigeria South Yoruba MIC		0.331	74
+MICA*002:01	South Korea MIC		0.178	199
+MICA*002:01	South Korea Seoul MIC		0.176	139
+MICA*002:01	USA African American MIC		0.279	201
+MICA*002:01	USA African American MIC pop 2		0.256	39
+MICA*002:01	USA Boston African American MIC		0.300	60
+MICA*002:01	USA Caucasian MIC		0.153	103
+MICA*002:01	Wales MIC	18.6	0.096	166
+MICA*002:02	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*002:02	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*002:02	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*002:02	Brazil Parana Kaingang MIC		0.000	245
+MICA*002:02	Wales MIC	0.6	0.003	166
+MICA*004	Argentina Formosa Toba MIC		0.011	94
+MICA*004	Argentina Formosa Wichi MIC		0.000	42
+MICA*004	Brazil Limao Verde and Corrego Reserve Terena MIC		0.000	60
+MICA*004	Brazil Mato Grosso do Sul Kaiowa MIC		0.003	174
+MICA*004	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*004	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*004	Brazil Parana Japanese MIC		0.053	190
+MICA*004	Brazil Parana Kaingang MIC		0.020	245
+MICA*004	Brazil Parana Mixed MIC		0.119	201
+MICA*004	Brazil Sao Paulo Mixed MIC	27.0	0.146	200
+MICA*004	China Baotou Han MIC		0.048	104
+MICA*004	China Shanghai Han MIC		0.020	183
+MICA*004	China Xinjiang Province Uygur MIC		0.030	66
+MICA*004	China Yunnan Province Dai MIC		0.000	41
+MICA*004	China Zhangjiajie Tujias MIC		0.000	187
+MICA*004	China Zhejiang Province Han MIC		0.005	100
+MICA*004	England Bedfordshire MIC		0.086	354
+MICA*004	England MIC	17.0	0.100	118
+MICA*004	England Northwest MIC	16.0	0.083	250
+MICA*004	Japan MIC		0.092	130
+MICA*004	Japan MIC pop 2		0.082	152
+MICA*004	Japan MIC pop 3		0.111	114
+MICA*004	Morocco Nador Metalsa MIC		0.232	82
+MICA*004	Nigeria South Efik MIC		0.219	32
+MICA*004	Nigeria South Igbo MIC		0.130	46
+MICA*004	Nigeria South Yoruba MIC		0.270	74
+MICA*004	Slovenia MIC	12.9	0.067	70
+MICA*004	South Korea MIC		0.123	199
+MICA*004	South Korea Seoul MIC		0.083	139
+MICA*004	Spain Majorca Chueta MIC		0.200	95
+MICA*004	Spain Majorca MIC		0.176	165
+MICA*004	Spain Murcia MIC		0.149	154
+MICA*004	Thailand North East MIC		0.035	255
+MICA*004	Turkey MIC	12.3	0.062	65
+MICA*004	USA African American MIC		0.187	201
+MICA*004	USA African American MIC pop 2		0.295	39
+MICA*004	USA Boston African American MIC		0.233	60
+MICA*004	USA Caucasian MIC		0.055	103
+MICA*004	USA Caucasian MIC pop2		0.060	242
+MICA*004	Wales MIC	9.0	0.045	166
+MICA*005	China Shanghai Han MIC		0.010	183
+MICA*005	China Xinjiang Province Uygur MIC		0.000	66
+MICA*005	China Yunnan Province Dai MIC		0.010	41
+MICA*005	China Zhangjiajie Tujias MIC		0.000	187
+MICA*005	England Northwest MIC	0.0	0.000	250
+MICA*005	Spain Murcia MIC		0.006	154
+MICA*005	Wales MIC	0.0	0.000	166
+MICA*006	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*006	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*006	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*006	Brazil Parana Japanese MIC		0.003	190
+MICA*006	Brazil Parana Kaingang MIC		0.000	245
+MICA*006	Brazil Parana Mixed MIC		0.012	201
+MICA*006	Brazil Sao Paulo Mixed MIC	1.5	0.008	200
+MICA*006	China Zhangjiajie Tujias MIC		0.000	187
+MICA*006	England MIC	5.0	0.025	118
+MICA*006	England Northwest MIC	0.4	0.002	250
+MICA*006	Slovenia MIC	0.0	0.000	70
+MICA*006	South Korea Seoul MIC		0.014	139
+MICA*006	Spain Majorca Chueta MIC		0.000	95
+MICA*006	Spain Majorca MIC		0.012	165
+MICA*006	Turkey MIC	4.6	0.023	65
+MICA*006	USA Caucasian MIC pop2		0.000	242
+MICA*006	Wales MIC	0.6	0.003	166
+MICA*007	Brazil Parana Mixed MIC		0.017	201
+MICA*007	Brazil Sao Paulo Mixed MIC	2.5	0.013	200
+MICA*007	China Shanghai Han MIC		0.070	183
+MICA*007	China Xinjiang Province Uygur MIC		0.020	66
+MICA*007	China Yunnan Province Dai MIC		0.070	41
+MICA*007	China Zhangjiajie Tujias MIC		0.000	187
+MICA*007	England MIC	10.0	0.051	118
+MICA*007	England Northwest MIC	7.6	0.039	250
+MICA*007	Japan MIC		0.012	130
+MICA*007	Japan MIC pop 2		0.013	152
+MICA*007	Japan MIC pop 3		0.009	114
+MICA*007	Slovenia MIC	11.4	0.059	70
+MICA*007	Spain Majorca Chueta MIC		0.068	95
+MICA*007	Spain Majorca MIC		0.045	165
+MICA*007	Spain Murcia MIC		0.012	154
+MICA*007	Thailand North East MIC		0.000	255
+MICA*007	Turkey MIC	9.2	0.046	65
+MICA*007	USA Caucasian MIC pop2		0.020	242
+MICA*007:01	Argentina Formosa Toba MIC		0.000	94
+MICA*007:01	Argentina Formosa Wichi MIC		0.012	42
+MICA*007:01	Brazil Limao Verde and Corrego Reserve Terena MIC		0.000	60
+MICA*007:01	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*007:01	Brazil Mato Grosso do Sul Nandeva MIC		0.011	89
+MICA*007:01	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*007:01	Brazil Parana Kaingang MIC		0.000	245
+MICA*007:01	China Baotou Han MIC		0.014	104
+MICA*007:01	China Zhangjiajie Tujias MIC		0.000	187
+MICA*007:01	China Zhejiang Province Han MIC		0.010	100
+MICA*007:01	England Bedfordshire MIC		0.049	354
+MICA*007:01	Morocco Nador Metalsa MIC		0.024	82
+MICA*007:01	South Korea MIC		0.033	199
+MICA*007:01	South Korea Seoul MIC		0.040	139
+MICA*007:01	USA African American MIC		0.007	201
+MICA*007:01	USA Caucasian MIC		0.040	103
+MICA*007:01	Wales MIC	7.2	0.042	166
+MICA*007:02	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*007:02	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*007:02	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*007:02	Brazil Parana Kaingang MIC		0.000	245
+MICA*007:02	China Zhangjiajie Tujias MIC		0.000	187
+MICA*007:02	South Korea Seoul MIC		0.004	139
+MICA*007:02	Wales MIC	0.0	0.000	166
+MICA*008	Brazil Parana Japanese MIC		0.189	190
+MICA*008	Brazil Parana Mixed MIC		0.281	201
+MICA*008	Brazil Sao Paulo Mixed MIC	47.0	0.272	200
+MICA*008	China Shanghai Han MIC		0.340	183
+MICA*008	China Xinjiang Province Uygur MIC		0.350	66
+MICA*008	China Yunnan Province Dai MIC		0.280	41
+MICA*008	China Zhangjiajie Tujias MIC		0.000	187
+MICA*008	England MIC	74.0	0.480	118
+MICA*008	England Northwest MIC	72.0	0.471	250
+MICA*008	Japan MIC		0.304	130
+MICA*008	Japan MIC pop 2		0.145	152
+MICA*008	Japan MIC pop 3		0.252	114
+MICA*008	Slovenia MIC	62.9	0.391	70
+MICA*008	Spain Majorca Chueta MIC		0.174	95
+MICA*008	Spain Majorca MIC		0.285	165
+MICA*008	Spain Murcia MIC		0.253	154
+MICA*008	Thailand North East MIC		0.214	255
+MICA*008	Turkey MIC	41.5	0.231	65
+MICA*008	USA Caucasian MIC pop2		0.550	242
+MICA*008:01	Argentina Formosa Toba MIC		0.010	94
+MICA*008:01	Argentina Formosa Wichi MIC		0.000	42
+MICA*008:01	Brazil Limao Verde and Corrego Reserve Terena MIC		0.008	60
+MICA*008:01	Brazil Mato Grosso do Sul Kaiowa MIC		0.006	174
+MICA*008:01	Brazil Mato Grosso do Sul Nandeva MIC		0.034	89
+MICA*008:01	Brazil Parana Guarani M'byÃ¡ MIC		0.015	100
+MICA*008:01	Brazil Parana Kaingang MIC		0.020	245
+MICA*008:01	China Baotou Han MIC		0.231	104
+MICA*008:01	China Guangxi Zhuang MIC		0.101	209
+MICA*008:01	China Zhangjiajie Tujias MIC		0.000	187
+MICA*008:01	China Zhejiang Province Han MIC		0.270	100
+MICA*008:01	England Bedfordshire MIC		0.497	354
+MICA*008:01	Morocco Nador Metalsa MIC		0.268	82
+MICA*008:01	Nigeria South Efik MIC		0.328	32
+MICA*008:01	Nigeria South Igbo MIC		0.250	46
+MICA*008:01	Nigeria South Yoruba MIC		0.142	74
+MICA*008:01	South Korea MIC		0.108	199
+MICA*008:01	South Korea Seoul MIC		0.147	139
+MICA*008:01	USA African American MIC		0.269	201
+MICA*008:01	USA African American MIC pop 2		0.231	39
+MICA*008:01	USA Boston African American MIC		0.183	60
+MICA*008:01	USA Caucasian MIC		0.377	103
+MICA*008:01	Wales MIC	78.3	0.530	166
+MICA*008:02	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*008:02	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*008:02	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*008:02	Brazil Parana Kaingang MIC		0.000	245
+MICA*008:02	China Baotou Han MIC		0.005	104
+MICA*008:02	China Zhangjiajie Tujias MIC		0.000	187
+MICA*008:02	China Zhejiang Province Han MIC		0.015	100
+MICA*008:02	Nigeria South Efik MIC		0.031	32
+MICA*008:02	Nigeria South Igbo MIC		0.011	46
+MICA*008:02	Nigeria South Yoruba MIC		0.068	74
+MICA*008:02	South Korea Seoul MIC		0.004	139
+MICA*008:02	USA African American MIC		0.055	201
+MICA*008:02	USA African American MIC pop 2		0.051	39
+MICA*008:02	USA Boston African American MIC		0.075	60
+MICA*008:02	USA Caucasian MIC		0.000	103
+MICA*008:02	Wales MIC	0.0	0.000	166
+MICA*008:04	China Guangxi Zhuang MIC		0.101	209
+MICA*008:04	China Zhangjiajie Tujias MIC		0.294	187
+MICA*009	Brazil Parana Japanese MIC		0.168	190
+MICA*009	Brazil Parana Mixed MIC		0.104	201
+MICA*009	Brazil Sao Paulo Mixed MIC	23.5	0.125	200
+MICA*009	China Shanghai Han MIC		0.110	183
+MICA*009	China Xinjiang Province Uygur MIC		0.220	66
+MICA*009	China Yunnan Province Dai MIC		0.060	41
+MICA*009	China Zhangjiajie Tujias MIC		0.000	187
+MICA*009	England MIC	9.0	0.055	118
+MICA*009	England Northwest MIC	11.6	0.060	250
+MICA*009	Japan MIC		0.165	130
+MICA*009	Japan MIC pop 2		0.197	152
+MICA*009	Japan MIC pop 3		0.184	114
+MICA*009	Slovenia MIC	21.4	0.113	70
+MICA*009	Spain Majorca Chueta MIC		0.084	95
+MICA*009	Spain Majorca MIC		0.094	165
+MICA*009	Spain Murcia MIC		0.071	154
+MICA*009	Thailand North East MIC		0.024	255
+MICA*009	Turkey MIC	29.2	0.169	65
+MICA*009	USA Caucasian MIC pop2		0.030	242
+MICA*009:01	Argentina Formosa Toba MIC		0.016	94
+MICA*009:01	Argentina Formosa Wichi MIC		0.012	42
+MICA*009:01	Brazil Limao Verde and Corrego Reserve Terena MIC		0.023	60
+MICA*009:01	Brazil Mato Grosso do Sul Kaiowa MIC		0.089	174
+MICA*009:01	Brazil Mato Grosso do Sul Nandeva MIC		0.017	89
+MICA*009:01	Brazil Parana Guarani M'byÃ¡ MIC		0.020	100
+MICA*009:01	Brazil Parana Kaingang MIC		0.002	245
+MICA*009:01	China Baotou Han MIC		0.120	104
+MICA*009:01	China Guangxi Zhuang MIC		0.024	209
+MICA*009:01	China Zhangjiajie Tujias MIC		0.000	187
+MICA*009:01	China Zhejiang Province Han MIC		0.080	100
+MICA*009:01	England Bedfordshire MIC		0.066	354
+MICA*009:01	Morocco Nador Metalsa MIC		0.085	82
+MICA*009:01	South Korea MIC		0.106	199
+MICA*009:01	South Korea Seoul MIC		0.036	139
+MICA*009:01	USA African American MIC		0.042	201
+MICA*009:01	USA Caucasian MIC		0.076	103
+MICA*009:01	Wales MIC	15.0	0.078	166
+MICA*009:02	Argentina Formosa Toba MIC		0.016	94
+MICA*009:02	Argentina Formosa Wichi MIC		0.000	42
+MICA*009:02	Brazil Limao Verde and Corrego Reserve Terena MIC		0.000	60
+MICA*009:02	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*009:02	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*009:02	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*009:02	Brazil Parana Kaingang MIC		0.000	245
+MICA*009:02	China Baotou Han MIC		0.005	104
+MICA*009:02	China Zhangjiajie Tujias MIC		0.000	187
+MICA*009:02	China Zhejiang Province Han MIC		0.005	100
+MICA*009:02	England Bedfordshire MIC		0.011	354
+MICA*009:02	Morocco Nador Metalsa MIC		0.140	82
+MICA*009:02	Nigeria South Efik MIC		0.078	32
+MICA*009:02	Nigeria South Igbo MIC		0.000	46
+MICA*009:02	Nigeria South Yoruba MIC		0.007	74
+MICA*009:02	South Korea Seoul MIC		0.004	139
+MICA*009:02	USA African American MIC		0.015	201
+MICA*009:02	USA African American MIC pop 2		0.000	39
+MICA*009:02	USA Boston African American MIC		0.033	60
+MICA*009:02	USA Caucasian MIC		0.010	103
+MICA*010	Argentina Formosa Toba MIC		0.277	94
+MICA*010	Argentina Formosa Wichi MIC		0.190	42
+MICA*010	Brazil Limao Verde and Corrego Reserve Terena MIC		0.172	60
+MICA*010	Brazil Mato Grosso do Sul Kaiowa MIC		0.141	174
+MICA*010	Brazil Mato Grosso do Sul Nandeva MIC		0.341	89
+MICA*010	Brazil Parana Guarani M'byÃ¡ MIC		0.330	100
+MICA*010	Brazil Parana Japanese MIC		0.110	190
+MICA*010	Brazil Parana Kaingang MIC		0.265	245
+MICA*010	Brazil Parana Mixed MIC		0.045	201
+MICA*010	Brazil Sao Paulo Mixed MIC	11.0	0.057	200
+MICA*010	China Baotou Han MIC		0.188	104
+MICA*010	China Guangxi Zhuang MIC		0.220	209
+MICA*010	China Shanghai Han MIC		0.230	183
+MICA*010	China Xinjiang Province Uygur MIC		0.090	66
+MICA*010	China Yunnan Province Dai MIC		0.390	41
+MICA*010	China Zhangjiajie Tujias MIC		0.091	187
+MICA*010	China Zhejiang Province Han MIC		0.185	100
+MICA*010	England Bedfordshire MIC		0.058	354
+MICA*010	England MIC	9.0	0.051	118
+MICA*010	England Northwest MIC	7.2	0.037	250
+MICA*010	Japan MIC		0.108	130
+MICA*010	Japan MIC pop 2		0.161	152
+MICA*010	Japan MIC pop 3		0.125	114
+MICA*010	Slovenia MIC	2.9	0.015	70
+MICA*010	South Korea MIC		0.183	199
+MICA*010	South Korea Seoul MIC		0.194	139
+MICA*010	Spain Majorca Chueta MIC		0.005	95
+MICA*010	Spain Majorca MIC		0.018	165
+MICA*010	Spain Murcia MIC		0.045	154
+MICA*010	Thailand North East MIC		0.182	255
+MICA*010	Turkey MIC	4.6	0.023	65
+MICA*010	USA African American MIC		0.007	201
+MICA*010	USA Caucasian MIC		0.070	103
+MICA*010	USA Caucasian MIC pop2		0.050	242
+MICA*010	Wales MIC	7.8	0.042	166
+MICA*011	Argentina Formosa Toba MIC		0.005	94
+MICA*011	Argentina Formosa Wichi MIC		0.000	42
+MICA*011	Brazil Limao Verde and Corrego Reserve Terena MIC		0.000	60
+MICA*011	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*011	Brazil Mato Grosso do Sul Nandeva MIC		0.006	89
+MICA*011	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*011	Brazil Parana Japanese MIC		0.005	190
+MICA*011	Brazil Parana Kaingang MIC		0.008	245
+MICA*011	Brazil Parana Mixed MIC		0.037	201
+MICA*011	Brazil Sao Paulo Mixed MIC	6.5	0.033	200
+MICA*011	China Baotou Han MIC		0.005	104
+MICA*011	China Shanghai Han MIC		0.000	183
+MICA*011	China Xinjiang Province Uygur MIC		0.030	66
+MICA*011	China Yunnan Province Dai MIC		0.000	41
+MICA*011	China Zhangjiajie Tujias MIC		0.000	187
+MICA*011	England Bedfordshire MIC		0.021	354
+MICA*011	England Northwest MIC	6.4	0.033	250
+MICA*011	Morocco Nador Metalsa MIC		0.030	82
+MICA*011	Slovenia MIC	2.9	0.015	70
+MICA*011	South Korea Seoul MIC		0.011	139
+MICA*011	Spain Majorca Chueta MIC		0.016	95
+MICA*011	Spain Majorca MIC		0.045	165
+MICA*011	Thailand North East MIC		0.000	255
+MICA*011	Turkey MIC	7.7	0.038	65
+MICA*011	USA African American MIC		0.012	201
+MICA*011	USA Caucasian MIC		0.025	103
+MICA*011	USA Caucasian MIC pop2		0.020	242
+MICA*011	Wales MIC	3.0	0.015	166
+MICA*012	Brazil Parana Japanese MIC		0.129	190
+MICA*012	Brazil Parana Mixed MIC		0.015	201
+MICA*012	Brazil Sao Paulo Mixed MIC	2.5	0.013	200
+MICA*012	China Shanghai Han MIC		0.070	183
+MICA*012	China Xinjiang Province Uygur MIC		0.050	66
+MICA*012	China Yunnan Province Dai MIC		0.040	41
+MICA*012	China Zhangjiajie Tujias MIC		0.000	187
+MICA*012	England MIC	7.0	0.034	118
+MICA*012	England Northwest MIC	2.8	0.014	250
+MICA*012	Japan MIC		0.127	130
+MICA*012	Japan MIC pop 2		0.145	152
+MICA*012	Japan MIC pop 3		0.109	114
+MICA*012	Slovenia MIC	0.0	0.000	70
+MICA*012	South Korea MIC		0.111	199
+MICA*012	Spain Majorca Chueta MIC		0.084	95
+MICA*012	Spain Majorca MIC		0.018	165
+MICA*012	Thailand North East MIC		0.031	255
+MICA*012	Turkey MIC	6.2	0.031	65
+MICA*012	USA Caucasian MIC pop2		0.020	242
+MICA*012:01	Argentina Formosa Toba MIC		0.000	94
+MICA*012:01	Argentina Formosa Wichi MIC		0.000	42
+MICA*012:01	Brazil Limao Verde and Corrego Reserve Terena MIC		0.000	60
+MICA*012:01	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*012:01	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*012:01	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*012:01	Brazil Parana Kaingang MIC		0.002	245
+MICA*012:01	China Baotou Han MIC		0.010	104
+MICA*012:01	China Guangxi Zhuang MIC		0.079	209
+MICA*012:01	China Zhangjiajie Tujias MIC		0.107	187
+MICA*012:01	China Zhejiang Province Han MIC		0.050	100
+MICA*012:01	England Bedfordshire MIC		0.011	354
+MICA*012:01	South Korea Seoul MIC		0.094	139
+MICA*012:01	USA African American MIC		0.015	201
+MICA*012:01	USA Caucasian MIC		0.025	103
+MICA*012:01	Wales MIC	3.6	0.018	166
+MICA*013	China Shanghai Han MIC		0.010	183
+MICA*013	China Xinjiang Province Uygur MIC		0.000	66
+MICA*013	China Yunnan Province Dai MIC		0.000	41
+MICA*013	England MIC	0.0	0.000	118
+MICA*013	England Northwest MIC	0.0	0.000	250
+MICA*013	Wales MIC	0.0	0.000	166
+MICA*014	England Northwest MIC	0.0	0.000	250
+MICA*014	Wales MIC	0.0	0.000	166
+MICA*015	Brazil Mato Grosso do Sul Kaiowa MIC		0.006	174
+MICA*015	Brazil Mato Grosso do Sul Nandeva MIC		0.006	89
+MICA*015	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*015	Brazil Parana Kaingang MIC		0.016	245
+MICA*015	Brazil Parana Mixed MIC		0.010	201
+MICA*015	Brazil Sao Paulo Mixed MIC	4.0	0.020	200
+MICA*015	China Zhangjiajie Tujias MIC		0.000	187
+MICA*015	England Northwest MIC	0.0	0.000	250
+MICA*015	Morocco Nador Metalsa MIC		0.018	82
+MICA*015	Spain Majorca Chueta MIC		0.000	95
+MICA*015	Spain Majorca MIC		0.006	165
+MICA*015	Spain Murcia MIC		0.025	154
+MICA*015	USA African American MIC		0.027	201
+MICA*015	USA Caucasian MIC		0.000	103
+MICA*015	USA Caucasian MIC pop2		0.000	242
+MICA*015	Wales MIC	0.0	0.000	166
+MICA*016	Argentina Formosa Toba MIC		0.000	94
+MICA*016	Argentina Formosa Wichi MIC		0.000	42
+MICA*016	Brazil Limao Verde and Corrego Reserve Terena MIC		0.000	60
+MICA*016	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*016	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*016	Brazil Parana Guarani M'byÃ¡ MIC		0.005	100
+MICA*016	Brazil Parana Japanese MIC		0.013	190
+MICA*016	Brazil Parana Kaingang MIC		0.016	245
+MICA*016	Brazil Parana Mixed MIC		0.027	201
+MICA*016	Brazil Sao Paulo Mixed MIC	4.5	0.023	200
+MICA*016	China Baotou Han MIC		0.010	104
+MICA*016	China Shanghai Han MIC		0.010	183
+MICA*016	China Xinjiang Province Uygur MIC		0.020	66
+MICA*016	China Yunnan Province Dai MIC		0.000	41
+MICA*016	China Zhangjiajie Tujias MIC		0.000	187
+MICA*016	England Bedfordshire MIC		0.011	354
+MICA*016	England MIC	2.0	0.008	118
+MICA*016	England Northwest MIC	11.2	0.058	250
+MICA*016	Japan MIC pop 2		0.030	152
+MICA*016	Morocco Nador Metalsa MIC		0.018	82
+MICA*016	Slovenia MIC	8.6	0.044	70
+MICA*016	Spain Majorca Chueta MIC		0.089	95
+MICA*016	Spain Majorca MIC		0.024	165
+MICA*016	Spain Murcia MIC		0.071	154
+MICA*016	Thailand North East MIC		0.002	255
+MICA*016	Turkey MIC	16.9	0.092	65
+MICA*016	USA African American MIC		0.000	201
+MICA*016	USA Caucasian MIC		0.010	103
+MICA*016	USA Caucasian MIC pop2		0.020	242
+MICA*016	Wales MIC	1.2	0.006	166
+MICA*017	Argentina Formosa Toba MIC		0.000	94
+MICA*017	Argentina Formosa Wichi MIC		0.000	42
+MICA*017	Brazil Limao Verde and Corrego Reserve Terena MIC		0.000	60
+MICA*017	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*017	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*017	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*017	Brazil Parana Japanese MIC		0.005	190
+MICA*017	Brazil Parana Kaingang MIC		0.000	245
+MICA*017	Brazil Parana Mixed MIC		0.017	201
+MICA*017	Brazil Sao Paulo Mixed MIC	1.5	0.008	200
+MICA*017	China Baotou Han MIC		0.019	104
+MICA*017	China Guangxi Zhuang MIC		0.002	209
+MICA*017	China Zhangjiajie Tujias MIC		0.000	187
+MICA*017	England Bedfordshire MIC		0.035	354
+MICA*017	England Northwest MIC	8.0	0.041	250
+MICA*017	Morocco Nador Metalsa MIC		0.018	82
+MICA*017	Slovenia MIC	7.1	0.036	70
+MICA*017	South Korea Seoul MIC		0.004	139
+MICA*017	Spain Majorca Chueta MIC		0.053	95
+MICA*017	Spain Majorca MIC		0.012	165
+MICA*017	Spain Murcia MIC		0.012	154
+MICA*017	Thailand North East MIC		0.022	255
+MICA*017	Turkey MIC	1.5	0.008	65
+MICA*017	USA African American MIC		0.005	201
+MICA*017	USA Caucasian MIC		0.025	103
+MICA*017	Wales MIC	9.0	0.048	166
+MICA*018	Argentina Formosa Toba MIC		0.000	94
+MICA*018	Argentina Formosa Wichi MIC		0.000	42
+MICA*018	Brazil Limao Verde and Corrego Reserve Terena MIC		0.000	60
+MICA*018	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*018	Brazil Mato Grosso do Sul Nandeva MIC		0.057	89
+MICA*018	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*018	Brazil Parana Japanese MIC		0.008	190
+MICA*018	Brazil Parana Kaingang MIC		0.000	245
+MICA*018	Brazil Parana Mixed MIC		0.050	201
+MICA*018	Brazil Sao Paulo Mixed MIC	5.0	0.025	200
+MICA*018	China Baotou Han MIC		0.005	104
+MICA*018	China Zhangjiajie Tujias MIC		0.000	187
+MICA*018	England Bedfordshire MIC		0.032	354
+MICA*018	England Northwest MIC	4.4	0.022	250
+MICA*018	Morocco Nador Metalsa MIC		0.024	82
+MICA*018	Slovenia MIC	12.9	0.067	70
+MICA*018	Spain Majorca Chueta MIC		0.042	95
+MICA*018	Spain Majorca MIC		0.051	165
+MICA*018	Spain Murcia MIC		0.025	154
+MICA*018	Thailand North East MIC		0.061	255
+MICA*018	Turkey MIC	12.3	0.077	65
+MICA*018	USA African American MIC		0.025	201
+MICA*018	USA Caucasian MIC		0.035	103
+MICA*018	Wales MIC	6.6	0.033	166
+MICA*019	Argentina Formosa Toba MIC		0.000	94
+MICA*019	Argentina Formosa Wichi MIC		0.000	42
+MICA*019	Brazil Limao Verde and Corrego Reserve Terena MIC		0.000	60
+MICA*019	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*019	Brazil Mato Grosso do Sul Nandeva MIC		0.006	89
+MICA*019	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*019	Brazil Parana Japanese MIC		0.029	190
+MICA*019	Brazil Parana Kaingang MIC		0.000	245
+MICA*019	Brazil Parana Mixed MIC		0.010	201
+MICA*019	Brazil Sao Paulo Mixed MIC	4.5	0.023	200
+MICA*019	China Baotou Han MIC		0.039	104
+MICA*019	China Guangxi Zhuang MIC		0.103	209
+MICA*019	China Zhangjiajie Tujias MIC		0.206	187
+MICA*019	China Zhejiang Province Han MIC		0.095	100
+MICA*019	England Bedfordshire MIC		0.028	354
+MICA*019	Japan MIC		0.035	130
+MICA*019	Morocco Nador Metalsa MIC		0.012	82
+MICA*019	South Korea Seoul MIC		0.004	139
+MICA*019	Spain Majorca Chueta MIC		0.021	95
+MICA*019	Spain Majorca MIC		0.018	165
+MICA*019	Thailand North East MIC		0.153	255
+MICA*019	USA African American MIC		0.010	201
+MICA*019	USA Caucasian MIC		0.025	103
+MICA*019	Wales MIC	3.0	0.021	166
+MICA*020	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*020	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*020	Brazil Parana Guarani M'byÃ¡ MIC		0.005	100
+MICA*020	Brazil Parana Kaingang MIC		0.165	245
+MICA*020	China Zhangjiajie Tujias MIC		0.000	187
+MICA*020	Thailand North East MIC		0.004	255
+MICA*020	Turkey MIC	7.7	0.038	65
+MICA*022	England Northwest MIC	0.0	0.000	250
+MICA*022	Wales MIC	0.0	0.000	166
+MICA*023	China Zhangjiajie Tujias MIC		0.000	187
+MICA*023	England Northwest MIC	0.0	0.000	250
+MICA*023	Spain Murcia MIC		0.012	154
+MICA*023	Wales MIC	0.0	0.000	166
+MICA*024	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*024	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*024	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*024	Brazil Parana Kaingang MIC		0.000	245
+MICA*024	England Northwest MIC	0.0	0.000	250
+MICA*024	Wales MIC	0.0	0.000	166
+MICA*025	England Northwest MIC	0.0	0.000	250
+MICA*025	Wales MIC	0.0	0.000	166
+MICA*026	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*026	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*026	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*026	Brazil Parana Kaingang MIC		0.000	245
+MICA*026	China Zhangjiajie Tujias MIC		0.000	187
+MICA*026	Thailand North East MIC		0.014	255
+MICA*027	Argentina Formosa Toba MIC		0.309	94
+MICA*027	Argentina Formosa Wichi MIC		0.310	42
+MICA*027	Brazil Limao Verde and Corrego Reserve Terena MIC		0.352	60
+MICA*027	Brazil Mato Grosso do Sul Kaiowa MIC		0.112	174
+MICA*027	Brazil Mato Grosso do Sul Nandeva MIC		0.136	89
+MICA*027	Brazil Parana Guarani M'byÃ¡ MIC		0.395	100
+MICA*027	Brazil Parana Japanese MIC		0.121	190
+MICA*027	Brazil Parana Kaingang MIC		0.008	245
+MICA*027	Brazil Parana Mixed MIC		0.047	201
+MICA*027	China Baotou Han MIC		0.053	104
+MICA*027	China Guangxi Zhuang MIC		0.019	209
+MICA*027	China Zhangjiajie Tujias MIC		0.000	187
+MICA*027	China Zhejiang Province Han MIC		0.070	100
+MICA*027	England Northwest MIC	1.6	0.008	250
+MICA*027	Morocco Nador Metalsa MIC		0.006	82
+MICA*027	Slovenia MIC	1.4	0.007	70
+MICA*027	South Korea MIC		0.136	199
+MICA*027	South Korea Seoul MIC		0.050	139
+MICA*027	Spain Murcia MIC		0.025	154
+MICA*027	USA African American MIC		0.005	201
+MICA*027	USA Caucasian MIC		0.049	103
+MICA*027	Wales MIC	1.2	0.006	166
+MICA*028	Wales MIC	0.0	0.000	166
+MICA*029	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*029	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*029	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*029	Brazil Parana Kaingang MIC		0.000	245
+MICA*029	Brazil Sao Paulo Mixed MIC	0.5	0.003	200
+MICA*029	Turkey MIC	1.5	0.008	65
+MICA*029	Wales MIC	0.6	0.003	166
+MICA*030	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*030	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*030	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*030	Brazil Parana Kaingang MIC		0.000	245
+MICA*030	China Zhangjiajie Tujias MIC		0.000	187
+MICA*030	Spain Murcia MIC		0.012	154
+MICA*030	USA African American MIC		0.005	201
+MICA*030	USA Caucasian MIC		0.000	103
+MICA*030	Wales MIC	0.0	0.000	166
+MICA*031	Wales MIC	0.0	0.000	166
+MICA*032	Wales MIC	0.0	0.000	166
+MICA*033	China Baotou Han MIC		0.005	104
+MICA*033	China Guangxi Zhuang MIC		0.007	209
+MICA*033	China Zhangjiajie Tujias MIC		0.000	187
+MICA*033	Spain Murcia MIC		0.012	154
+MICA*033	Wales MIC	0.0	0.000	166
+MICA*034	Wales MIC	0.0	0.000	166
+MICA*035	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*035	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*035	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*035	Brazil Parana Kaingang MIC		0.000	245
+MICA*035	Morocco Nador Metalsa MIC		0.006	82
+MICA*035	Wales MIC	0.0	0.000	166
+MICA*036	Wales MIC	0.0	0.000	166
+MICA*037	Wales MIC	0.0	0.000	166
+MICA*038	Wales MIC	0.0	0.000	166
+MICA*039	Wales MIC	0.0	0.000	166
+MICA*040	Wales MIC	0.0	0.000	166
+MICA*041	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*041	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*041	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*041	Brazil Parana Kaingang MIC		0.000	245
+MICA*041	Brazil Sao Paulo Mixed MIC	0.5	0.003	200
+MICA*041	Nigeria South Efik MIC		0.031	32
+MICA*041	Nigeria South Igbo MIC		0.098	46
+MICA*041	Nigeria South Yoruba MIC		0.020	74
+MICA*041	USA African American MIC		0.022	201
+MICA*041	USA African American MIC pop 2		0.013	39
+MICA*041	USA Boston African American MIC		0.158	60
+MICA*041	USA Caucasian MIC		0.000	103
+MICA*041	Wales MIC	0.0	0.000	166
+MICA*042	Wales MIC	0.0	0.000	166
+MICA*043	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*043	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*043	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*043	Brazil Parana Kaingang MIC		0.000	245
+MICA*043	Brazil Sao Paulo Mixed MIC	0.5	0.003	200
+MICA*043	Wales MIC	0.0	0.000	166
+MICA*044	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*044	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*044	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*044	Brazil Parana Kaingang MIC		0.000	245
+MICA*044	Wales MIC	0.0	0.000	166
+MICA*045	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*045	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*045	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*045	Brazil Parana Japanese MIC		0.008	190
+MICA*045	Brazil Parana Kaingang MIC		0.000	245
+MICA*045	China Baotou Han MIC		0.082	104
+MICA*045	China Guangxi Zhuang MIC		0.172	209
+MICA*045	China Zhangjiajie Tujias MIC		0.000	187
+MICA*045	China Zhejiang Province Han MIC		0.015	100
+MICA*045	South Korea Seoul MIC		0.032	139
+MICA*045	Wales MIC	0.0	0.000	166
+MICA*046	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*046	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*046	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*046	Brazil Parana Kaingang MIC		0.000	245
+MICA*046	Brazil Parana Mixed MIC		0.000	201
+MICA*046	China Zhangjiajie Tujias MIC		0.000	187
+MICA*046	Morocco Nador Metalsa MIC		0.012	82
+MICA*046	Spain Murcia MIC		0.006	154
+MICA*046	Wales MIC	0.0	0.000	166
+MICA*047	Argentina Formosa Toba MIC		0.000	94
+MICA*047	Argentina Formosa Wichi MIC		0.000	42
+MICA*047	Brazil Limao Verde and Corrego Reserve Terena MIC		0.000	60
+MICA*047	China Zhangjiajie Tujias MIC		0.000	187
+MICA*047	USA African American MIC		0.000	201
+MICA*047	USA Caucasian MIC		0.005	103
+MICA*047	Wales MIC	0.0	0.000	166
+MICA*048	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*048	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*048	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*048	Brazil Parana Kaingang MIC		0.000	245
+MICA*048	China Zhangjiajie Tujias MIC		0.000	187
+MICA*048	Japan MIC pop 2		0.118	152
+MICA*048	Wales MIC	0.0	0.000	166
+MICA*049	Brazil Parana Japanese MIC		0.005	190
+MICA*049	China Guangxi Zhuang MIC		0.002	209
+MICA*049	China Zhangjiajie Tujias MIC		0.000	187
+MICA*049	China Zhejiang Province Han MIC		0.035	100
+MICA*049	South Korea Seoul MIC		0.079	139
+MICA*049	Wales MIC	0.0	0.000	166
+MICA*050	China Zhangjiajie Tujias MIC		0.000	187
+MICA*050	Spain Murcia MIC		0.006	154
+MICA*050	Wales MIC	0.0	0.000	166
+MICA*051	Thailand North East MIC		0.000	255
+MICA*052	Brazil Mato Grosso do Sul Kaiowa MIC		0.000	174
+MICA*052	Brazil Mato Grosso do Sul Nandeva MIC		0.000	89
+MICA*052	Brazil Parana Guarani M'byÃ¡ MIC		0.000	100
+MICA*052	Brazil Parana Kaingang MIC		0.000	245
+MICA*052	China Zhangjiajie Tujias MIC		0.000	187
+MICA*052	Spain Murcia MIC		0.006	154
+MICA*052	Thailand North East MIC		0.082	255
+MICA*053	China Zhangjiajie Tujias MIC		0.003	187
+MICA*053	England Northwest MIC	0.4	0.002	250
+MICA*059	China Zhangjiajie Tujias MIC		0.000	187

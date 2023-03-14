@@ -1,0 +1,130 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+IL-1RA/mspa 11100 CC	Brazil Sao Paulo Mixed Cytokine	9.2		99
+IL-1RA/mspa 11100 CC	Brazil Parana Mixed Cytokine	7.0		823
+IL-1RA/mspa 11100 CC	Cyprus Cytokine	4.0		100
+IL-1RA/mspa 11100 CC	Czech Republic Prague Cytokine	9.0		103
+IL-1RA/mspa 11100 CC	Czech Republic Moravia Cytokine	6.2		67
+IL-1RA/mspa 11100 CC	Germany Cytokine	6.5		200
+IL-1RA/mspa 11100 CC	Greece Cytokine	7.0		120
+IL-1RA/mspa 11100 CC	Greece Thrace Region Cytokine	8.0		27
+IL-1RA/mspa 11100 CC	India North Cytokine	2.0		130
+IL-1RA/mspa 11100 CC	India Delhi Cytokine	2.9		34
+IL-1RA/mspa 11100 CC	India Mumbai Cytokine	0.0		62
+IL-1RA/mspa 11100 CC	Iran Tehran Farsi Cytokine	14.7		40
+IL-1RA/mspa 11100 CC	Iran Cytokine	2.5		40
+IL-1RA/mspa 11100 CC	Iran South East Sistani Cytokine	3.1		98
+IL-1RA/mspa 11100 CC	Iran South East Baloch Cytokine	1.0		96
+IL-1RA/mspa 11100 CC	Iran Yazd Cytokine	0.0		121
+IL-1RA/mspa 11100 CC	Iran Tehran Cytokine	2.9		140
+IL-1RA/mspa 11100 CC	Iraq Arab Cytokine	22.7		224
+IL-1RA/mspa 11100 CC	Ireland South Cytokine	10.5		200
+IL-1RA/mspa 11100 CC	Italy Torino Cytokine	2.9		140
+IL-1RA/mspa 11100 CC	South Korea Seoul Cytokine	16.0		57
+IL-1RA/mspa 11100 CC	Macedonia Cytokine	7.2		125
+IL-1RA/mspa 11100 CC	Malaysia Batek Cytokine	4.0		25
+IL-1RA/mspa 11100 CC	Malaysia Kensiu Cytokine	2.8		36
+IL-1RA/mspa 11100 CC	Malaysia Peninsular Malay Cytokine	20.6		97
+IL-1RA/mspa 11100 CC	Malaysia Peninsular Indian Cytokine	10.4		48
+IL-1RA/mspa 11100 CC	Malaysia Peninsular Chinese Cytokine	24.7		77
+IL-1RA/mspa 11100 CC	Malaysia Semai Cytokine	2.4		42
+IL-1RA/mspa 11100 CC	Malaysia Orang Kanaq Cytokine	18.2		11
+IL-1RA/mspa 11100 CC	Malaysia Lanoh Cytokine	4.0		24
+IL-1RA/mspa 11100 CC	Malaysia Che Wong Cytokine	19.3		26
+IL-1RA/mspa 11100 CC	Netherlands Cytokine	8.0		107
+IL-1RA/mspa 11100 CC	Portugal Center Cytokine	6.0		174
+IL-1RA/mspa 11100 CC	Portugal Azores Terceira Island Cytokine	4.3		117
+IL-1RA/mspa 11100 CC	Slovakia Cytokine	15.0		140
+IL-1RA/mspa 11100 CC	Taiwan Ami Cytokine	24.0		50
+IL-1RA/mspa 11100 CC	Taiwan Atayal Cytokine	4.0		50
+IL-1RA/mspa 11100 CC	Taiwan Hakka Cytokine	24.5		45
+IL-1RA/mspa 11100 CC	Taiwan Yami Cytokine	40.0		40
+IL-1RA/mspa 11100 CC	Taiwan Tsou Cytokine	18.0		50
+IL-1RA/mspa 11100 CC	Taiwan Minnan Cytokine	30.0		50
+IL-1RA/mspa 11100 CC	Turkey Istanbul Cytokine	6.5		104
+IL-1RA/mspa 11100 CC	Turkey Bursa Cytokine	3.6		60
+IL-1RA/mspa 11100 CT	Brazil Parana Mixed Cytokine	39.5		823
+IL-1RA/mspa 11100 CT	Brazil Sao Paulo Mixed Cytokine	35.7		99
+IL-1RA/mspa 11100 CT	Cyprus Cytokine	32.0		100
+IL-1RA/mspa 11100 CT	Czech Republic Prague Cytokine	43.4		103
+IL-1RA/mspa 11100 CT	Czech Republic Moravia Cytokine	41.5		67
+IL-1RA/mspa 11100 CT	Germany Cytokine	42.5		200
+IL-1RA/mspa 11100 CT	Greece Thrace Region Cytokine	31.0		27
+IL-1RA/mspa 11100 CT	Greece Cytokine	36.0		120
+IL-1RA/mspa 11100 CT	India Mumbai Cytokine	41.9		62
+IL-1RA/mspa 11100 CT	India Delhi Cytokine	29.4		34
+IL-1RA/mspa 11100 CT	India North Cytokine	22.0		130
+IL-1RA/mspa 11100 CT	Iran South East Baloch Cytokine	26.0		96
+IL-1RA/mspa 11100 CT	Iran South East Sistani Cytokine	17.4		98
+IL-1RA/mspa 11100 CT	Iran Cytokine	40.0		40
+IL-1RA/mspa 11100 CT	Iran Tehran Farsi Cytokine	31.3		40
+IL-1RA/mspa 11100 CT	Iran Tehran Cytokine	40.0		140
+IL-1RA/mspa 11100 CT	Iran Yazd Cytokine	48.3		121
+IL-1RA/mspa 11100 CT	Iraq Arab Cytokine	34.1		224
+IL-1RA/mspa 11100 CT	Ireland South Cytokine	41.0		200
+IL-1RA/mspa 11100 CT	Italy Torino Cytokine	40.7		140
+IL-1RA/mspa 11100 CT	South Korea Seoul Cytokine	68.0		57
+IL-1RA/mspa 11100 CT	Macedonia Cytokine	40.8		125
+IL-1RA/mspa 11100 CT	Malaysia Kensiu Cytokine	27.8		36
+IL-1RA/mspa 11100 CT	Malaysia Batek Cytokine	28.0		25
+IL-1RA/mspa 11100 CT	Malaysia Che Wong Cytokine	61.5		26
+IL-1RA/mspa 11100 CT	Malaysia Lanoh Cytokine	40.0		24
+IL-1RA/mspa 11100 CT	Malaysia Orang Kanaq Cytokine	63.6		11
+IL-1RA/mspa 11100 CT	Malaysia Semai Cytokine	42.8		42
+IL-1RA/mspa 11100 CT	Malaysia Peninsular Chinese Cytokine	32.5		77
+IL-1RA/mspa 11100 CT	Malaysia Peninsular Indian Cytokine	33.3		48
+IL-1RA/mspa 11100 CT	Malaysia Peninsular Malay Cytokine	35.1		97
+IL-1RA/mspa 11100 CT	Netherlands Cytokine	44.0		107
+IL-1RA/mspa 11100 CT	Portugal Center Cytokine	46.0		174
+IL-1RA/mspa 11100 CT	Portugal Azores Terceira Island Cytokine	41.0		117
+IL-1RA/mspa 11100 CT	Slovakia Cytokine	39.3		140
+IL-1RA/mspa 11100 CT	Taiwan Atayal Cytokine	24.0		50
+IL-1RA/mspa 11100 CT	Taiwan Ami Cytokine	26.0		50
+IL-1RA/mspa 11100 CT	Taiwan Minnan Cytokine	46.0		50
+IL-1RA/mspa 11100 CT	Taiwan Tsou Cytokine	30.0		50
+IL-1RA/mspa 11100 CT	Taiwan Yami Cytokine	37.5		40
+IL-1RA/mspa 11100 CT	Taiwan Hakka Cytokine	42.2		45
+IL-1RA/mspa 11100 CT	Turkey Bursa Cytokine	35.7		60
+IL-1RA/mspa 11100 CT	Turkey Istanbul Cytokine	44.4		104
+IL-1RA/mspa 11100 TT	Brazil Sao Paulo Mixed Cytokine	55.1		99
+IL-1RA/mspa 11100 TT	Brazil Parana Mixed Cytokine	53.5		823
+IL-1RA/mspa 11100 TT	Cyprus Cytokine	64.0		100
+IL-1RA/mspa 11100 TT	Czech Republic Prague Cytokine	47.6		103
+IL-1RA/mspa 11100 TT	Czech Republic Moravia Cytokine	52.3		67
+IL-1RA/mspa 11100 TT	Germany Cytokine	51.0		200
+IL-1RA/mspa 11100 TT	Greece Cytokine	57.0		120
+IL-1RA/mspa 11100 TT	Greece Thrace Region Cytokine	61.0		27
+IL-1RA/mspa 11100 TT	India Mumbai Cytokine	58.1		62
+IL-1RA/mspa 11100 TT	India North Cytokine	76.0		130
+IL-1RA/mspa 11100 TT	India Delhi Cytokine	67.7		34
+IL-1RA/mspa 11100 TT	Iran Tehran Farsi Cytokine	52.4		40
+IL-1RA/mspa 11100 TT	Iran Cytokine	57.5		40
+IL-1RA/mspa 11100 TT	Iran South East Sistani Cytokine	79.5		98
+IL-1RA/mspa 11100 TT	Iran South East Baloch Cytokine	73.0		96
+IL-1RA/mspa 11100 TT	Iran Yazd Cytokine	51.7		121
+IL-1RA/mspa 11100 TT	Iran Tehran Cytokine	57.1		140
+IL-1RA/mspa 11100 TT	Iraq Arab Cytokine	43.2		224
+IL-1RA/mspa 11100 TT	Ireland South Cytokine	48.5		200
+IL-1RA/mspa 11100 TT	Italy Torino Cytokine	56.4		140
+IL-1RA/mspa 11100 TT	South Korea Seoul Cytokine	16.0		57
+IL-1RA/mspa 11100 TT	Macedonia Cytokine	52.0		125
+IL-1RA/mspa 11100 TT	Malaysia Batek Cytokine	68.0		25
+IL-1RA/mspa 11100 TT	Malaysia Kensiu Cytokine	69.4		36
+IL-1RA/mspa 11100 TT	Malaysia Peninsular Malay Cytokine	44.3		97
+IL-1RA/mspa 11100 TT	Malaysia Peninsular Chinese Cytokine	42.9		77
+IL-1RA/mspa 11100 TT	Malaysia Peninsular Indian Cytokine	56.3		48
+IL-1RA/mspa 11100 TT	Malaysia Semai Cytokine	54.8		42
+IL-1RA/mspa 11100 TT	Malaysia Orang Kanaq Cytokine	18.2		11
+IL-1RA/mspa 11100 TT	Malaysia Lanoh Cytokine	56.0		24
+IL-1RA/mspa 11100 TT	Malaysia Che Wong Cytokine	19.2		26
+IL-1RA/mspa 11100 TT	Netherlands Cytokine	48.0		107
+IL-1RA/mspa 11100 TT	Portugal Center Cytokine	48.0		174
+IL-1RA/mspa 11100 TT	Portugal Azores Terceira Island Cytokine	54.7		117
+IL-1RA/mspa 11100 TT	Slovakia Cytokine	45.7		140
+IL-1RA/mspa 11100 TT	Taiwan Ami Cytokine	50.0		50
+IL-1RA/mspa 11100 TT	Taiwan Atayal Cytokine	72.0		50
+IL-1RA/mspa 11100 TT	Taiwan Hakka Cytokine	33.3		45
+IL-1RA/mspa 11100 TT	Taiwan Yami Cytokine	22.5		40
+IL-1RA/mspa 11100 TT	Taiwan Tsou Cytokine	52.0		50
+IL-1RA/mspa 11100 TT	Taiwan Minnan Cytokine	24.0		50
+IL-1RA/mspa 11100 TT	Turkey Istanbul Cytokine	49.1		104
+IL-1RA/mspa 11100 TT	Turkey Bursa Cytokine	60.7		60

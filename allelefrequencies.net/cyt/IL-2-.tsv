@@ -1,0 +1,302 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+IL-2/ - 330 GG	Brazil Sao Paulo Mixed Cytokine	13.8		99
+IL-2/ - 330 GG	Brazil Parana Mixed Cytokine	9.8		823
+IL-2/ - 330 GG	Cyprus Cytokine	19.8		100
+IL-2/ - 330 GG	Czech Republic Prague Cytokine	10.5		103
+IL-2/ - 330 GG	Czech Republic Moravia Cytokine	3.2		67
+IL-2/ - 330 GG	England Northwest Cytokine	62.0		500
+IL-2/ - 330 GG	England South Cytokine	8.1		260
+IL-2/ - 330 GG	England Newcastle Cytokine	4.5		200
+IL-2/ - 330 GG	England Southeast Cytokine	3.9		76
+IL-2/ - 330 GG	Germany Cytokine	11.5		200
+IL-2/ - 330 GG	Germany Cytokine pop 3	7.2		111
+IL-2/ - 330 GG	Greece Cytokine	18.0		120
+IL-2/ - 330 GG	Greece North Cytokine	26.0		100
+IL-2/ - 330 GG	Greece Thrace Region Cytokine	40.0		27
+IL-2/ - 330 GG	India North Cytokine	29.0		130
+IL-2/ - 330 GG	India Delhi Cytokine	30.0		34
+IL-2/ - 330 GG	Iran Cytokine	2.5		40
+IL-2/ - 330 GG	Iran Yazd Cytokine	0.8		121
+IL-2/ - 330 GG	Iran Tehran Cytokine	5.8		140
+IL-2/ - 330 GG	Iran South East Sistani Cytokine	19.4		98
+IL-2/ - 330 GG	Iran South East Baloch Cytokine	17.7		96
+IL-2/ - 330 GG	Iraq Arab Cytokine	19.6		224
+IL-2/ - 330 GG	Ireland Northern Cytokine	14.0		100
+IL-2/ - 330 GG	Ireland South Cytokine	10.0		200
+IL-2/ - 330 GG	Italy Torino Cytokine	12.1		140
+IL-2/ - 330 GG	South Korea Seoul Cytokine	28.0		57
+IL-2/ - 330 GG	Macedonia Cytokine	18.2		125
+IL-2/ - 330 GG	Malaysia Peninsular Malay Cytokine	12.4		97
+IL-2/ - 330 GG	Malaysia Orang Kanaq Cytokine	0.0		11
+IL-2/ - 330 GG	Malaysia Lanoh Cytokine	0.0		24
+IL-2/ - 330 GG	Malaysia Che Wong Cytokine	0.0		26
+IL-2/ - 330 GG	Malaysia Semai Cytokine	2.4		42
+IL-2/ - 330 GG	Malaysia Batek Cytokine	0.0		25
+IL-2/ - 330 GG	Malaysia Peninsular Chinese Cytokine	20.8		77
+IL-2/ - 330 GG	Malaysia Peninsular Indian Cytokine	4.0		48
+IL-2/ - 330 GG	Mexico Mestizo Cytokine	10.0		40
+IL-2/ - 330 GG	Netherlands Cytokine	7.0		107
+IL-2/ - 330 GG	Oman Cytokine	26.2		80
+IL-2/ - 330 GG	Poland Cytokine	9.3		205
+IL-2/ - 330 GG	Portugal Azores Terceira Island Cytokine	12.8		117
+IL-2/ - 330 GG	Portugal Center Cytokine	18.0		174
+IL-2/ - 330 GG	Singapore Chinese Cytokine	7.2		83
+IL-2/ - 330 GG	Slovakia Cytokine	11.6		140
+IL-2/ - 330 GG	South Africa Natal Region Zulu Cytokine	0.0		86
+IL-2/ - 330 GG	Spain Granada Cytokine	9.1		102
+IL-2/ - 330 GG	Taiwan Ami Cytokine	28.0		50
+IL-2/ - 330 GG	Taiwan Atayal Cytokine	8.0		50
+IL-2/ - 330 GG	Taiwan Tsou Cytokine	40.0		50
+IL-2/ - 330 GG	Taiwan Minnan Cytokine	10.0		50
+IL-2/ - 330 GG	Taiwan Hakka Cytokine	27.0		45
+IL-2/ - 330 GG	Taiwan Yami Cytokine	52.5		40
+IL-2/ - 330 GG	Turkey Bursa Cytokine	38.8		60
+IL-2/ - 330 GG	Turkey Istanbul Cytokine	22.4		104
+IL-2/ - 330 GG	USA Bronx Hispanic Cytokine	14.5		173
+IL-2/ - 330 GG	USA Southeast Caucasian Cytokine	6.5		145
+IL-2/ - 330 GG	USA Southeast African American Cytokine	1.0		250
+IL-2/ - 330 GT	Brazil Parana Mixed Cytokine	40.4		823
+IL-2/ - 330 GT	Brazil Sao Paulo Mixed Cytokine	26.6		99
+IL-2/ - 330 GT	Cyprus Cytokine	46.9		100
+IL-2/ - 330 GT	Czech Republic Prague Cytokine	44.1		103
+IL-2/ - 330 GT	Czech Republic Moravia Cytokine	54.8		67
+IL-2/ - 330 GT	England Northwest Cytokine	32.0		500
+IL-2/ - 330 GT	England South Cytokine	38.1		260
+IL-2/ - 330 GT	England Southeast Cytokine	40.8		76
+IL-2/ - 330 GT	England Newcastle Cytokine	44.5		200
+IL-2/ - 330 GT	Germany Cytokine	41.0		200
+IL-2/ - 330 GT	Germany Cytokine pop 3	41.4		111
+IL-2/ - 330 GT	Greece Cytokine	39.0		120
+IL-2/ - 330 GT	Greece North Cytokine	35.0		100
+IL-2/ - 330 GT	Greece Thrace Region Cytokine	20.0		27
+IL-2/ - 330 GT	India Delhi Cytokine	60.0		34
+IL-2/ - 330 GT	India North Cytokine	49.0		130
+IL-2/ - 330 GT	Iran Yazd Cytokine	73.6		121
+IL-2/ - 330 GT	Iran Cytokine	57.5		40
+IL-2/ - 330 GT	Iran South East Baloch Cytokine	54.2		96
+IL-2/ - 330 GT	Iran South East Sistani Cytokine	54.6		98
+IL-2/ - 330 GT	Iran Tehran Cytokine	67.6		140
+IL-2/ - 330 GT	Iraq Arab Cytokine	54.5		224
+IL-2/ - 330 GT	Ireland Northern Cytokine	48.0		100
+IL-2/ - 330 GT	Ireland South Cytokine	44.0		200
+IL-2/ - 330 GT	Italy Torino Cytokine	43.6		140
+IL-2/ - 330 GT	South Korea Seoul Cytokine	23.0		57
+IL-2/ - 330 GT	Macedonia Cytokine	45.4		125
+IL-2/ - 330 GT	Malaysia Peninsular Malay Cytokine	76.3		97
+IL-2/ - 330 GT	Malaysia Orang Kanaq Cytokine	45.5		11
+IL-2/ - 330 GT	Malaysia Semai Cytokine	66.7		42
+IL-2/ - 330 GT	Malaysia Che Wong Cytokine	50.0		26
+IL-2/ - 330 GT	Malaysia Lanoh Cytokine	36.0		24
+IL-2/ - 330 GT	Malaysia Batek Cytokine	52.0		25
+IL-2/ - 330 GT	Malaysia Peninsular Chinese Cytokine	59.7		77
+IL-2/ - 330 GT	Malaysia Peninsular Indian Cytokine	85.4		48
+IL-2/ - 330 GT	Mexico Mestizo Cytokine	40.0		40
+IL-2/ - 330 GT	Netherlands Cytokine	25.0		107
+IL-2/ - 330 GT	Oman Cytokine	33.8		80
+IL-2/ - 330 GT	Poland Cytokine	51.7		205
+IL-2/ - 330 GT	Portugal Azores Terceira Island Cytokine	43.6		117
+IL-2/ - 330 GT	Portugal Center Cytokine	44.0		174
+IL-2/ - 330 GT	Singapore Chinese Cytokine	49.4		83
+IL-2/ - 330 GT	Slovakia Cytokine	39.9		140
+IL-2/ - 330 GT	South Africa Natal Region Zulu Cytokine	8.1		86
+IL-2/ - 330 GT	Spain Granada Cytokine	32.7		102
+IL-2/ - 330 GT	Taiwan Ami Cytokine	46.0		50
+IL-2/ - 330 GT	Taiwan Hakka Cytokine	40.0		45
+IL-2/ - 330 GT	Taiwan Minnan Cytokine	34.0		50
+IL-2/ - 330 GT	Taiwan Tsou Cytokine	28.0		50
+IL-2/ - 330 GT	Taiwan Atayal Cytokine	14.0		50
+IL-2/ - 330 GT	Taiwan Yami Cytokine	32.5		40
+IL-2/ - 330 GT	Turkey Bursa Cytokine	30.6		60
+IL-2/ - 330 GT	Turkey Istanbul Cytokine	52.3		104
+IL-2/ - 330 GT	USA Bronx Hispanic Cytokine	37.3		173
+IL-2/ - 330 GT	USA Southeast Caucasian Cytokine	38.8		145
+IL-2/ - 330 GT	USA Southeast African American Cytokine	12.0		250
+IL-2/ - 330 TT	Brazil Parana Mixed Cytokine	49.8		823
+IL-2/ - 330 TT	Brazil Sao Paulo Mixed Cytokine	59.6		99
+IL-2/ - 330 TT	Cyprus Cytokine	33.3		100
+IL-2/ - 330 TT	Czech Republic Prague Cytokine	45.4		103
+IL-2/ - 330 TT	Czech Republic Moravia Cytokine	41.9		67
+IL-2/ - 330 TT	England Northwest Cytokine	6.0		500
+IL-2/ - 330 TT	England South Cytokine	53.8		260
+IL-2/ - 330 TT	England Newcastle Cytokine	50.0		200
+IL-2/ - 330 TT	England Southeast Cytokine	55.3		76
+IL-2/ - 330 TT	Germany Cytokine	47.5		200
+IL-2/ - 330 TT	Germany Cytokine pop 3	51.4		111
+IL-2/ - 330 TT	Greece Cytokine	43.0		120
+IL-2/ - 330 TT	Greece North Cytokine	38.0		100
+IL-2/ - 330 TT	Greece Thrace Region Cytokine	40.0		27
+IL-2/ - 330 TT	India North Cytokine	22.0		130
+IL-2/ - 330 TT	India Delhi Cytokine	10.0		34
+IL-2/ - 330 TT	Iran Cytokine	40.0		40
+IL-2/ - 330 TT	Iran Yazd Cytokine	25.6		121
+IL-2/ - 330 TT	Iran South East Baloch Cytokine	28.1		96
+IL-2/ - 330 TT	Iran Tehran Cytokine	26.6		140
+IL-2/ - 330 TT	Iran South East Sistani Cytokine	26.0		98
+IL-2/ - 330 TT	Iraq Arab Cytokine	25.9		224
+IL-2/ - 330 TT	Ireland Northern Cytokine	38.0		100
+IL-2/ - 330 TT	Ireland South Cytokine	46.0		200
+IL-2/ - 330 TT	Italy Torino Cytokine	44.3		140
+IL-2/ - 330 TT	South Korea Seoul Cytokine	49.0		57
+IL-2/ - 330 TT	Macedonia Cytokine	36.4		125
+IL-2/ - 330 TT	Malaysia Peninsular Malay Cytokine	11.3		97
+IL-2/ - 330 TT	Malaysia Orang Kanaq Cytokine	54.5		11
+IL-2/ - 330 TT	Malaysia Lanoh Cytokine	64.0		24
+IL-2/ - 330 TT	Malaysia Kensiu Cytokine	66.7		36
+IL-2/ - 330 TT	Malaysia Che Wong Cytokine	50.0		26
+IL-2/ - 330 TT	Malaysia Semai Cytokine	30.9		42
+IL-2/ - 330 TT	Malaysia Batek Cytokine	48.0		25
+IL-2/ - 330 TT	Malaysia Peninsular Indian Cytokine	10.4		48
+IL-2/ - 330 TT	Malaysia Peninsular Chinese Cytokine	19.5		77
+IL-2/ - 330 TT	Mexico Mestizo Cytokine	50.0		40
+IL-2/ - 330 TT	Netherlands Cytokine	68.0		107
+IL-2/ - 330 TT	Oman Cytokine	40.0		80
+IL-2/ - 330 TT	Poland Cytokine	39.0		205
+IL-2/ - 330 TT	Portugal Azores Terceira Island Cytokine	43.6		117
+IL-2/ - 330 TT	Portugal Center Cytokine	38.0		174
+IL-2/ - 330 TT	Singapore Chinese Cytokine	43.4		83
+IL-2/ - 330 TT	Slovakia Cytokine	48.6		140
+IL-2/ - 330 TT	South Africa Natal Region Zulu Cytokine	91.9		86
+IL-2/ - 330 TT	Spain Granada Cytokine	58.2		102
+IL-2/ - 330 TT	Taiwan Ami Cytokine	26.0		50
+IL-2/ - 330 TT	Taiwan Atayal Cytokine	78.0		50
+IL-2/ - 330 TT	Taiwan Tsou Cytokine	32.0		50
+IL-2/ - 330 TT	Taiwan Minnan Cytokine	56.0		50
+IL-2/ - 330 TT	Taiwan Hakka Cytokine	33.0		45
+IL-2/ - 330 TT	Taiwan Yami Cytokine	15.0		40
+IL-2/ - 330 TT	Turkey Bursa Cytokine	30.6		60
+IL-2/ - 330 TT	Turkey Istanbul Cytokine	25.2		104
+IL-2/ - 330 TT	USA Bronx Hispanic Cytokine	48.2		173
+IL-2/ - 330 TT	USA Southeast Caucasian Cytokine	54.8		145
+IL-2/ - 330 TT	USA Southeast African American Cytokine	87.0		250
+IL-2/ 166 GG	Brazil Parana Mixed Cytokine	48.0		823
+IL-2/ 166 GG	Brazil Sao Paulo Mixed Cytokine	61.7		99
+IL-2/ 166 GG	Cyprus Cytokine	68.8		100
+IL-2/ 166 GG	Czech Republic Prague Cytokine	42.6		103
+IL-2/ 166 GG	Czech Republic Moravia Cytokine	45.0		67
+IL-2/ 166 GG	England Northwest Cytokine	12.0		500
+IL-2/ 166 GG	Germany Cytokine	42.0		200
+IL-2/ 166 GG	Greece Cytokine	56.0		120
+IL-2/ 166 GG	Greece North Cytokine	78.0		100
+IL-2/ 166 GG	Greece Thrace Region Cytokine	65.0		27
+IL-2/ 166 GG	India Delhi Cytokine	76.7		34
+IL-2/ 166 GG	India North Cytokine	67.0		130
+IL-2/ 166 GG	Iran Yazd Cytokine	59.5		121
+IL-2/ 166 GG	Iran Cytokine	52.5		40
+IL-2/ 166 GG	Iran South East Baloch Cytokine	57.3		96
+IL-2/ 166 GG	Iran South East Sistani Cytokine	65.3		98
+IL-2/ 166 GG	Iran Tehran Cytokine	59.0		140
+IL-2/ 166 GG	Iraq Arab Cytokine	35.7		224
+IL-2/ 166 GG	Ireland South Cytokine	49.0		200
+IL-2/ 166 GG	Italy Torino Cytokine	61.4		140
+IL-2/ 166 GG	South Korea Seoul Cytokine	47.0		57
+IL-2/ 166 GG	Macedonia Cytokine	63.1		125
+IL-2/ 166 GG	Malaysia Peninsular Malay Cytokine	77.3		97
+IL-2/ 166 GG	Malaysia Orang Kanaq Cytokine	100.0		11
+IL-2/ 166 GG	Malaysia Semai Cytokine	76.2		42
+IL-2/ 166 GG	Malaysia Che Wong Cytokine	96.2		26
+IL-2/ 166 GG	Malaysia Kensiu Cytokine	61.1		36
+IL-2/ 166 GG	Malaysia Lanoh Cytokine	60.0		24
+IL-2/ 166 GG	Malaysia Batek Cytokine	80.0		25
+IL-2/ 166 GG	Malaysia Peninsular Chinese Cytokine	80.5		77
+IL-2/ 166 GG	Malaysia Peninsular Indian Cytokine	52.1		48
+IL-2/ 166 GG	Portugal Azores Terceira Island Cytokine	48.7		117
+IL-2/ 166 GG	Portugal Center Cytokine	62.0		174
+IL-2/ 166 GG	Slovakia Cytokine	40.6		140
+IL-2/ 166 GG	Spain Granada Cytokine	46.4		102
+IL-2/ 166 GG	Taiwan Ami Cytokine	42.0		50
+IL-2/ 166 GG	Taiwan Hakka Cytokine	49.0		45
+IL-2/ 166 GG	Taiwan Minnan Cytokine	20.0		50
+IL-2/ 166 GG	Taiwan Tsou Cytokine	52.0		50
+IL-2/ 166 GG	Taiwan Atayal Cytokine	32.0		50
+IL-2/ 166 GG	Taiwan Yami Cytokine	93.0		40
+IL-2/ 166 GG	Turkey Bursa Cytokine	71.4		60
+IL-2/ 166 GG	Turkey Istanbul Cytokine	66.4		104
+IL-2/ 166 GG	USA Bronx Hispanic Cytokine	42.7		173
+IL-2/ 166 GT	Brazil Sao Paulo Mixed Cytokine	30.9		99
+IL-2/ 166 GT	Brazil Parana Mixed Cytokine	41.6		823
+IL-2/ 166 GT	Cyprus Cytokine	24.0		100
+IL-2/ 166 GT	Czech Republic Moravia Cytokine	40.0		67
+IL-2/ 166 GT	Czech Republic Prague Cytokine	43.4		103
+IL-2/ 166 GT	England Northwest Cytokine	48.0		500
+IL-2/ 166 GT	Germany Cytokine	45.5		200
+IL-2/ 166 GT	Greece Cytokine	35.0		120
+IL-2/ 166 GT	Greece North Cytokine	21.0		100
+IL-2/ 166 GT	Greece Thrace Region Cytokine	20.0		27
+IL-2/ 166 GT	India North Cytokine	26.0		130
+IL-2/ 166 GT	India Delhi Cytokine	23.3		34
+IL-2/ 166 GT	Iran Cytokine	45.0		40
+IL-2/ 166 GT	Iran Yazd Cytokine	38.8		121
+IL-2/ 166 GT	Iran Tehran Cytokine	39.6		140
+IL-2/ 166 GT	Iran South East Sistani Cytokine	22.4		98
+IL-2/ 166 GT	Iran South East Baloch Cytokine	33.3		96
+IL-2/ 166 GT	Iraq Arab Cytokine	53.1		224
+IL-2/ 166 GT	Ireland South Cytokine	42.0		200
+IL-2/ 166 GT	Italy Torino Cytokine	32.1		140
+IL-2/ 166 GT	South Korea Seoul Cytokine	26.0		57
+IL-2/ 166 GT	Macedonia Cytokine	29.7		125
+IL-2/ 166 GT	Malaysia Peninsular Malay Cytokine	20.6		97
+IL-2/ 166 GT	Malaysia Orang Kanaq Cytokine	0.0		11
+IL-2/ 166 GT	Malaysia Lanoh Cytokine	40.0		24
+IL-2/ 166 GT	Malaysia Kensiu Cytokine	33.3		36
+IL-2/ 166 GT	Malaysia Che Wong Cytokine	3.8		26
+IL-2/ 166 GT	Malaysia Semai Cytokine	23.8		42
+IL-2/ 166 GT	Malaysia Batek Cytokine	20.0		25
+IL-2/ 166 GT	Malaysia Peninsular Indian Cytokine	45.8		48
+IL-2/ 166 GT	Malaysia Peninsular Chinese Cytokine	16.9		77
+IL-2/ 166 GT	Portugal Azores Terceira Island Cytokine	36.8		117
+IL-2/ 166 GT	Portugal Center Cytokine	30.0		174
+IL-2/ 166 GT	Slovakia Cytokine	44.9		140
+IL-2/ 166 GT	Spain Granada Cytokine	41.2		102
+IL-2/ 166 GT	Taiwan Ami Cytokine	42.0		50
+IL-2/ 166 GT	Taiwan Atayal Cytokine	36.0		50
+IL-2/ 166 GT	Taiwan Tsou Cytokine	28.0		50
+IL-2/ 166 GT	Taiwan Minnan Cytokine	42.0		50
+IL-2/ 166 GT	Taiwan Hakka Cytokine	33.0		45
+IL-2/ 166 GT	Taiwan Yami Cytokine	7.0		40
+IL-2/ 166 GT	Turkey Bursa Cytokine	16.3		60
+IL-2/ 166 GT	Turkey Istanbul Cytokine	28.0		104
+IL-2/ 166 GT	USA Bronx Hispanic Cytokine	26.5		173
+IL-2/ 166 TT	Brazil Sao Paulo Mixed Cytokine	7.4		99
+IL-2/ 166 TT	Brazil Parana Mixed Cytokine	10.4		823
+IL-2/ 166 TT	Cyprus Cytokine	7.3		100
+IL-2/ 166 TT	Czech Republic Moravia Cytokine	15.0		67
+IL-2/ 166 TT	Czech Republic Prague Cytokine	14.0		103
+IL-2/ 166 TT	England Northwest Cytokine	40.0		500
+IL-2/ 166 TT	Germany Cytokine	12.5		200
+IL-2/ 166 TT	Greece Cytokine	9.0		120
+IL-2/ 166 TT	Greece North Cytokine	0.0		100
+IL-2/ 166 TT	Greece Thrace Region Cytokine	15.0		27
+IL-2/ 166 TT	India Delhi Cytokine	0.0		34
+IL-2/ 166 TT	India North Cytokine	7.0		130
+IL-2/ 166 TT	Iran Yazd Cytokine	1.7		121
+IL-2/ 166 TT	Iran Cytokine	2.5		40
+IL-2/ 166 TT	Iran South East Baloch Cytokine	9.4		96
+IL-2/ 166 TT	Iran South East Sistani Cytokine	12.3		98
+IL-2/ 166 TT	Iran Tehran Cytokine	1.4		140
+IL-2/ 166 TT	Iraq Arab Cytokine	11.2		224
+IL-2/ 166 TT	Ireland South Cytokine	9.0		200
+IL-2/ 166 TT	Italy Torino Cytokine	7.0		140
+IL-2/ 166 TT	South Korea Seoul Cytokine	26.0		57
+IL-2/ 166 TT	Macedonia Cytokine	7.2		125
+IL-2/ 166 TT	Malaysia Peninsular Malay Cytokine	2.1		97
+IL-2/ 166 TT	Malaysia Orang Kanaq Cytokine	0.0		11
+IL-2/ 166 TT	Malaysia Semai Cytokine	0.0		42
+IL-2/ 166 TT	Malaysia Che Wong Cytokine	0.0		26
+IL-2/ 166 TT	Malaysia Kensiu Cytokine	5.6		36
+IL-2/ 166 TT	Malaysia Lanoh Cytokine	0.0		24
+IL-2/ 166 TT	Malaysia Batek Cytokine	0.0		25
+IL-2/ 166 TT	Malaysia Peninsular Chinese Cytokine	2.6		77
+IL-2/ 166 TT	Malaysia Peninsular Indian Cytokine	2.1		48
+IL-2/ 166 TT	Portugal Azores Terceira Island Cytokine	14.5		117
+IL-2/ 166 TT	Portugal Center Cytokine	8.0		174
+IL-2/ 166 TT	Slovakia Cytokine	14.5		140
+IL-2/ 166 TT	Spain Granada Cytokine	12.4		102
+IL-2/ 166 TT	Taiwan Ami Cytokine	16.0		50
+IL-2/ 166 TT	Taiwan Hakka Cytokine	18.0		45
+IL-2/ 166 TT	Taiwan Minnan Cytokine	38.0		50
+IL-2/ 166 TT	Taiwan Tsou Cytokine	20.0		50
+IL-2/ 166 TT	Taiwan Atayal Cytokine	32.0		50
+IL-2/ 166 TT	Taiwan Yami Cytokine	0.0		40
+IL-2/ 166 TT	Turkey Bursa Cytokine	12.3		60
+IL-2/ 166 TT	Turkey Istanbul Cytokine	5.6		104
+IL-2/ 166 TT	USA Bronx Hispanic Cytokine	10.8		173

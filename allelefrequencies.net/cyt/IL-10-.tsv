@@ -1,0 +1,835 @@
+allele	population	indivs_over_n	alleles_over_2n	n
+IL-10/ - 592 AA	Argentina Buenos Aires Cytokine	5.6		54
+IL-10/ - 592 AA	Brazil Sao Paulo Mixed Cytokine	12.8		99
+IL-10/ - 592 AA	Brazil Southeast Mixed race  Cytokine	14.0		100
+IL-10/ - 592 AA	Brazil Southeast Caucasian Cytokine	7.0		153
+IL-10/ - 592 AA	Brazil Southeast Black Cytokine	17.0		110
+IL-10/ - 592 AA	Brazil Sao Paulo and Parana Mixed Cytokine	10.0		214
+IL-10/ - 592 AA	Brazil Parana Mixed Cytokine	8.2		823
+IL-10/ - 592 AA	Bulgaria Cytokine	8.7		88
+IL-10/ - 592 AA	Canada Aboriginal Oji-cree Cytokine	16.0		130
+IL-10/ - 592 AA	Canada Manitoba Caucasoid Cytokine	1.0		116
+IL-10/ - 592 AA	Colombia Medellin Cytokine	3.9		102
+IL-10/ - 592 AA	Cyprus Cytokine	7.0		100
+IL-10/ - 592 AA	Czech Republic Moravia Cytokine	4.7		67
+IL-10/ - 592 AA	Czech Republic Prague Cytokine	4.8		103
+IL-10/ - 592 AA	Czech Republic Prague Cytokine pop2	6.0		125
+IL-10/ - 592 AA	England Northwest Cytokine	8.0		500
+IL-10/ - 592 AA	England Norfolk Cytokine	5.3		2,100
+IL-10/ - 592 AA	England South Cytokine	5.1		260
+IL-10/ - 592 AA	England Southeast Cytokine	2.7		76
+IL-10/ - 592 AA	England Cytokine	3.3		90
+IL-10/ - 592 AA	Germany Cytokine	5.0		200
+IL-10/ - 592 AA	Greece Cytokine	10.0		120
+IL-10/ - 592 AA	Greece North Cytokine	8.0		100
+IL-10/ - 592 AA	Greece Thrace Region Cytokine	17.0		27
+IL-10/ - 592 AA	Greece Cytokine pop 2	10.3		78
+IL-10/ - 592 AA	India North Cytokine	14.0		130
+IL-10/ - 592 AA	India Delhi Cytokine	20.4		34
+IL-10/ - 592 AA	Iran Cytokine	2.5		40
+IL-10/ - 592 AA	Iran Yazd Cytokine	2.5		121
+IL-10/ - 592 AA	Iran Tehran Cytokine	8.6		140
+IL-10/ - 592 AA	Iran South East Sistani Cytokine	10.2		98
+IL-10/ - 592 AA	Iran South East Baloch Cytokine	13.5		96
+IL-10/ - 592 AA	Iraq Arab Cytokine	19.4		224
+IL-10/ - 592 AA	Ireland Northern Cytokine	1.1		100
+IL-10/ - 592 AA	Ireland South Cytokine	3.0		200
+IL-10/ - 592 AA	Israel Jews Cytokine	10.4		48
+IL-10/ - 592 AA	Italy Milan Cytokine	11.7		94
+IL-10/ - 592 AA	Italy North Pavia Cytokine	2.0		58
+IL-10/ - 592 AA	Italy Sardinia Cytokine	3.5		137
+IL-10/ - 592 AA	Italy Cytokine	1.0		474
+IL-10/ - 592 AA	Italy Torino Cytokine	5.7		140
+IL-10/ - 592 AA	Italy North Cytokine	14.0		363
+IL-10/ - 592 AA	Italy Central Cytokine	8.6		70
+IL-10/ - 592 AA	South Korea Seoul Cytokine	40.0		57
+IL-10/ - 592 AA	Macedonia Cytokine	10.6		125
+IL-10/ - 592 AA	Malaysia Batek Cytokine	4.0		25
+IL-10/ - 592 AA	Malaysia Kensiu Cytokine	16.7		36
+IL-10/ - 592 AA	Malaysia Lanoh Cytokine	48.0		24
+IL-10/ - 592 AA	Malaysia Che Wong Cytokine	42.3		26
+IL-10/ - 592 AA	Malaysia Peninsular Chinese Cytokine	26.0		77
+IL-10/ - 592 AA	Malaysia Peninsular Indian Cytokine	12.5		48
+IL-10/ - 592 AA	Malaysia Peninsular Malay Cytokine	40.2		97
+IL-10/ - 592 AA	Malaysia Semai Cytokine	47.6		42
+IL-10/ - 592 AA	Malaysia Orang Kanaq Cytokine	0.0		11
+IL-10/ - 592 AA	Mexico Mestizo Cytokine	17.9		40
+IL-10/ - 592 AA	Oman Cytokine	6.3		80
+IL-10/ - 592 AA	Poland Wroclaw HSCT recipients Cytokine	6.7		134
+IL-10/ - 592 AA	Poland Wroclaw HSCT donors Cytokine	4.3		116
+IL-10/ - 592 AA	Portugal Center Cytokine	10.0		174
+IL-10/ - 592 AA	Portugal Azores Terceira Island Cytokine	9.4		117
+IL-10/ - 592 AA	Singapore Chinese Cytokine	45.7		83
+IL-10/ - 592 AA	Slovakia Cytokine	8.6		140
+IL-10/ - 592 AA	South Africa Natal Region Zulu Cytokine	6.0		86
+IL-10/ - 592 AA	Spain Granada Cytokine pop 2	8.0		176
+IL-10/ - 592 AA	Taiwan Cytokine pop 2	51.8		166
+IL-10/ - 592 AA	Taiwan Cytokine	49.0		184
+IL-10/ - 592 AA	Taiwan Yami Cytokine	65.0		40
+IL-10/ - 592 AA	Taiwan Minnan Cytokine	60.0		50
+IL-10/ - 592 AA	Taiwan Hakka Cytokine	47.0		45
+IL-10/ - 592 AA	Taiwan Ami Cytokine	80.0		50
+IL-10/ - 592 AA	Taiwan Atayal Cytokine	56.0		50
+IL-10/ - 592 AA	Taiwan Tsou Cytokine	44.0		50
+IL-10/ - 592 AA	Turkey Bursa Cytokine	13.3		60
+IL-10/ - 592 AA	Turkey Istanbul Cytokine	7.5		104
+IL-10/ - 592 AA	USA Caucasian Bone Marrow Donors Cytokine	6.4		1,477
+IL-10/ - 592 AA	USA Upstate NY Caucasian Renal Recs Cytokine	6.0		133
+IL-10/ - 592 AA	USA Bronx Hispanic Cytokine	8.8		173
+IL-10/ - 592 AA	USA Upstate NY Af Am Renal Recs Cytokine	25.0		16
+IL-10/ - 592 AA	USA Upstate NY Caucasian Heart Recs Cytokine	7.8		64
+IL-10/ - 592 AA	USA African American Cytokine	14.8		691
+IL-10/ - 592 AA	USA Florida Cuban Cytokine	7.1		295
+IL-10/ - 592 AA	USA Hispanic Bone Marrow Donors Cytokine	9.5		74
+IL-10/ - 592 AA	USA Amerindian Bone Marrow Donors Cytokine	21.8		23
+IL-10/ - 592 AA	USA N Carolina Caucasian Cytokine	6.0		81
+IL-10/ - 592 AA	USA N Carolina African American Cytokine	14.0		42
+IL-10/ - 592 AA	USA Pennsylvania Heart Recipients Af Amer Cytokine	10.5		19
+IL-10/ - 592 AA	USA Pennsylvania Heart Recipients Cauc Cytokine	12.0		75
+IL-10/ - 592 AA	USA Southeast African American Cytokine	15.6		250
+IL-10/ - 592 AA	USA Southeast Caucasian Cytokine	8.3		145
+IL-10/ - 592 AA	Venezuela Mixed Cytokine	6.5		46
+IL-10/ - 592 AC	Argentina Buenos Aires Cytokine	46.2		54
+IL-10/ - 592 AC	Brazil Sao Paulo Mixed Cytokine	41.5		99
+IL-10/ - 592 AC	Brazil Southeast Black Cytokine	46.0		110
+IL-10/ - 592 AC	Brazil Southeast Caucasian Cytokine	48.0		153
+IL-10/ - 592 AC	Brazil Southeast Mixed race  Cytokine	37.0		100
+IL-10/ - 592 AC	Brazil Sao Paulo and Parana Mixed Cytokine	43.6		214
+IL-10/ - 592 AC	Brazil Parana Mixed Cytokine	46.2		823
+IL-10/ - 592 AC	Bulgaria Cytokine	50.5		88
+IL-10/ - 592 AC	Canada Manitoba Caucasoid Cytokine	38.0		116
+IL-10/ - 592 AC	Canada Aboriginal Oji-cree Cytokine	50.0		130
+IL-10/ - 592 AC	Colombia Medellin Cytokine	49.0		102
+IL-10/ - 592 AC	Cyprus Cytokine	34.0		100
+IL-10/ - 592 AC	Czech Republic Moravia Cytokine	32.8		67
+IL-10/ - 592 AC	Czech Republic Prague Cytokine	44.1		103
+IL-10/ - 592 AC	Czech Republic Prague Cytokine pop2	48.5		125
+IL-10/ - 592 AC	England Northwest Cytokine	33.0		500
+IL-10/ - 592 AC	England Norfolk Cytokine	34.5		2,100
+IL-10/ - 592 AC	England South Cytokine	37.3		260
+IL-10/ - 592 AC	England Cytokine	34.1		90
+IL-10/ - 592 AC	England Southeast Cytokine	27.4		76
+IL-10/ - 592 AC	Germany Cytokine	36.0		200
+IL-10/ - 592 AC	Greece Cytokine	49.0		120
+IL-10/ - 592 AC	Greece North Cytokine	36.0		100
+IL-10/ - 592 AC	Greece Thrace Region Cytokine	48.0		27
+IL-10/ - 592 AC	Greece Cytokine pop 2	34.6		78
+IL-10/ - 592 AC	India North Cytokine	58.0		130
+IL-10/ - 592 AC	India Delhi Cytokine	50.6		34
+IL-10/ - 592 AC	Iran Cytokine	45.0		40
+IL-10/ - 592 AC	Iran South East Baloch Cytokine	44.8		96
+IL-10/ - 592 AC	Iran South East Sistani Cytokine	54.7		98
+IL-10/ - 592 AC	Iran Tehran Cytokine	40.7		140
+IL-10/ - 592 AC	Iran Yazd Cytokine	40.5		121
+IL-10/ - 592 AC	Iraq Arab Cytokine	40.3		224
+IL-10/ - 592 AC	Ireland Northern Cytokine	34.4		100
+IL-10/ - 592 AC	Ireland South Cytokine	28.5		200
+IL-10/ - 592 AC	Israel Jews Cytokine	43.8		48
+IL-10/ - 592 AC	Italy Milan Cytokine	36.2		94
+IL-10/ - 592 AC	Italy North Pavia Cytokine	34.0		58
+IL-10/ - 592 AC	Italy Sardinia Cytokine	44.7		137
+IL-10/ - 592 AC	Italy Cytokine	31.0		474
+IL-10/ - 592 AC	Italy Torino Cytokine	44.3		140
+IL-10/ - 592 AC	Italy North Cytokine	39.0		363
+IL-10/ - 592 AC	Italy Central Cytokine	42.9		70
+IL-10/ - 592 AC	South Korea Seoul Cytokine	47.0		57
+IL-10/ - 592 AC	Macedonia Cytokine	34.1		125
+IL-10/ - 592 AC	Malaysia Che Wong Cytokine	46.2		26
+IL-10/ - 592 AC	Malaysia Lanoh Cytokine	48.0		24
+IL-10/ - 592 AC	Malaysia Kensiu Cytokine	58.3		36
+IL-10/ - 592 AC	Malaysia Batek Cytokine	56.0		25
+IL-10/ - 592 AC	Malaysia Peninsular Chinese Cytokine	70.1		77
+IL-10/ - 592 AC	Malaysia Peninsular Malay Cytokine	52.6		97
+IL-10/ - 592 AC	Malaysia Peninsular Indian Cytokine	85.4		48
+IL-10/ - 592 AC	Malaysia Orang Kanaq Cytokine	100.0		11
+IL-10/ - 592 AC	Malaysia Semai Cytokine	40.4		42
+IL-10/ - 592 AC	Mexico Mestizo Cytokine	46.2		40
+IL-10/ - 592 AC	Oman Cytokine	36.7		80
+IL-10/ - 592 AC	Poland Wroclaw HSCT donors Cytokine	43.1		116
+IL-10/ - 592 AC	Poland Wroclaw HSCT recipients Cytokine	38.8		134
+IL-10/ - 592 AC	Portugal Center Cytokine	39.0		174
+IL-10/ - 592 AC	Portugal Azores Terceira Island Cytokine	43.6		117
+IL-10/ - 592 AC	Singapore Chinese Cytokine	43.2		83
+IL-10/ - 592 AC	Slovakia Cytokine	36.4		140
+IL-10/ - 592 AC	South Africa Natal Region Zulu Cytokine	56.0		86
+IL-10/ - 592 AC	Spain Granada Cytokine pop 2	36.0		176
+IL-10/ - 592 AC	Taiwan Cytokine pop 2	41.1		166
+IL-10/ - 592 AC	Taiwan Cytokine	41.0		184
+IL-10/ - 592 AC	Taiwan Yami Cytokine	25.0		40
+IL-10/ - 592 AC	Taiwan Hakka Cytokine	40.0		45
+IL-10/ - 592 AC	Taiwan Minnan Cytokine	36.0		50
+IL-10/ - 592 AC	Taiwan Tsou Cytokine	50.0		50
+IL-10/ - 592 AC	Taiwan Atayal Cytokine	32.0		50
+IL-10/ - 592 AC	Taiwan Ami Cytokine	18.0		50
+IL-10/ - 592 AC	Turkey Bursa Cytokine	31.7		60
+IL-10/ - 592 AC	Turkey Istanbul Cytokine	46.2		104
+IL-10/ - 592 AC	USA Caucasian Bone Marrow Donors Cytokine	35.5		1,477
+IL-10/ - 592 AC	USA Upstate NY Caucasian Renal Recs Cytokine	36.8		133
+IL-10/ - 592 AC	USA Bronx Hispanic Cytokine	47.1		173
+IL-10/ - 592 AC	USA Upstate NY Caucasian Heart Recs Cytokine	32.8		64
+IL-10/ - 592 AC	USA Upstate NY Af Am Renal Recs Cytokine	31.3		16
+IL-10/ - 592 AC	USA Florida Cuban Cytokine	37.5		295
+IL-10/ - 592 AC	USA African American Cytokine	51.5		691
+IL-10/ - 592 AC	USA Amerindian Bone Marrow Donors Cytokine	39.1		23
+IL-10/ - 592 AC	USA Hispanic Bone Marrow Donors Cytokine	45.9		74
+IL-10/ - 592 AC	USA N Carolina Caucasian Cytokine	25.0		81
+IL-10/ - 592 AC	USA N Carolina African American Cytokine	33.0		42
+IL-10/ - 592 AC	USA Pennsylvania Heart Recipients Af Amer Cytokine	57.9		19
+IL-10/ - 592 AC	USA Pennsylvania Heart Recipients Cauc Cytokine	40.0		75
+IL-10/ - 592 AC	USA Southeast African American Cytokine	46.0		250
+IL-10/ - 592 AC	USA Southeast Caucasian Cytokine	37.8		145
+IL-10/ - 592 AC	Venezuela Mixed Cytokine	50.0		46
+IL-10/ - 592 CC	Argentina Buenos Aires Cytokine	48.2		54
+IL-10/ - 592 CC	Brazil Sao Paulo Mixed Cytokine	45.7		99
+IL-10/ - 592 CC	Brazil Southeast Black Cytokine	37.0		110
+IL-10/ - 592 CC	Brazil Southeast Mixed race  Cytokine	49.0		100
+IL-10/ - 592 CC	Brazil Southeast Caucasian Cytokine	45.0		153
+IL-10/ - 592 CC	Brazil Sao Paulo and Parana Mixed Cytokine	46.4		214
+IL-10/ - 592 CC	Brazil Parana Mixed Cytokine	45.6		823
+IL-10/ - 592 CC	Bulgaria Cytokine	40.8		88
+IL-10/ - 592 CC	Canada Manitoba Caucasoid Cytokine	61.0		116
+IL-10/ - 592 CC	Canada Aboriginal Oji-cree Cytokine	34.0		130
+IL-10/ - 592 CC	Colombia Medellin Cytokine	47.1		102
+IL-10/ - 592 CC	Cyprus Cytokine	59.0		100
+IL-10/ - 592 CC	Czech Republic Moravia Cytokine	62.5		67
+IL-10/ - 592 CC	Czech Republic Prague Cytokine	51.0		103
+IL-10/ - 592 CC	Czech Republic Prague Cytokine pop2	45.5		125
+IL-10/ - 592 CC	England Northwest Cytokine	59.0		500
+IL-10/ - 592 CC	England Norfolk Cytokine	60.2		2,100
+IL-10/ - 592 CC	England South Cytokine	57.6		260
+IL-10/ - 592 CC	England Southeast Cytokine	69.9		76
+IL-10/ - 592 CC	England Cytokine	62.6		90
+IL-10/ - 592 CC	Germany Cytokine	59.0		200
+IL-10/ - 592 CC	Greece Cytokine	41.0		120
+IL-10/ - 592 CC	Greece North Cytokine	54.0		100
+IL-10/ - 592 CC	Greece Thrace Region Cytokine	35.0		27
+IL-10/ - 592 CC	Greece Cytokine pop 2	55.1		78
+IL-10/ - 592 CC	India North Cytokine	28.0		130
+IL-10/ - 592 CC	India Delhi Cytokine	29.0		34
+IL-10/ - 592 CC	Iran Cytokine	52.5		40
+IL-10/ - 592 CC	Iran Yazd Cytokine	57.0		121
+IL-10/ - 592 CC	Iran Tehran Cytokine	50.7		140
+IL-10/ - 592 CC	Iran South East Sistani Cytokine	35.1		98
+IL-10/ - 592 CC	Iran South East Baloch Cytokine	41.7		96
+IL-10/ - 592 CC	Iraq Arab Cytokine	40.3		224
+IL-10/ - 592 CC	Ireland Northern Cytokine	64.5		100
+IL-10/ - 592 CC	Ireland South Cytokine	68.5		200
+IL-10/ - 592 CC	Israel Jews Cytokine	45.8		48
+IL-10/ - 592 CC	Italy Milan Cytokine	52.1		94
+IL-10/ - 592 CC	Italy North Pavia Cytokine	64.0		58
+IL-10/ - 592 CC	Italy Sardinia Cytokine	51.8		137
+IL-10/ - 592 CC	Italy Cytokine	68.0		474
+IL-10/ - 592 CC	Italy Torino Cytokine	50.0		140
+IL-10/ - 592 CC	Italy North Cytokine	47.0		363
+IL-10/ - 592 CC	Italy Central Cytokine	48.6		70
+IL-10/ - 592 CC	South Korea Seoul Cytokine	13.0		57
+IL-10/ - 592 CC	Macedonia Cytokine	55.3		125
+IL-10/ - 592 CC	Malaysia Batek Cytokine	40.0		25
+IL-10/ - 592 CC	Malaysia Kensiu Cytokine	25.0		36
+IL-10/ - 592 CC	Malaysia Lanoh Cytokine	4.0		24
+IL-10/ - 592 CC	Malaysia Che Wong Cytokine	11.5		26
+IL-10/ - 592 CC	Malaysia Peninsular Chinese Cytokine	3.9		77
+IL-10/ - 592 CC	Malaysia Peninsular Indian Cytokine	2.1		48
+IL-10/ - 592 CC	Malaysia Peninsular Malay Cytokine	7.2		97
+IL-10/ - 592 CC	Malaysia Semai Cytokine	12.0		42
+IL-10/ - 592 CC	Malaysia Orang Kanaq Cytokine	0.0		11
+IL-10/ - 592 CC	Mexico Mestizo Cytokine	35.9		40
+IL-10/ - 592 CC	Oman Cytokine	57.0		80
+IL-10/ - 592 CC	Poland Wroclaw HSCT recipients Cytokine	54.5		134
+IL-10/ - 592 CC	Poland Wroclaw HSCT donors Cytokine	52.6		116
+IL-10/ - 592 CC	Portugal Center Cytokine	51.0		174
+IL-10/ - 592 CC	Portugal Azores Terceira Island Cytokine	47.0		117
+IL-10/ - 592 CC	Singapore Chinese Cytokine	11.1		83
+IL-10/ - 592 CC	Slovakia Cytokine	55.0		140
+IL-10/ - 592 CC	South Africa Natal Region Zulu Cytokine	38.0		86
+IL-10/ - 592 CC	Spain Granada Cytokine pop 2	56.0		176
+IL-10/ - 592 CC	Taiwan Cytokine pop 2	7.1		166
+IL-10/ - 592 CC	Taiwan Cytokine	10.0		184
+IL-10/ - 592 CC	Taiwan Yami Cytokine	10.0		40
+IL-10/ - 592 CC	Taiwan Minnan Cytokine	4.0		50
+IL-10/ - 592 CC	Taiwan Hakka Cytokine	13.0		45
+IL-10/ - 592 CC	Taiwan Tsou Cytokine	6.0		50
+IL-10/ - 592 CC	Taiwan Ami Cytokine	2.0		50
+IL-10/ - 592 CC	Taiwan Atayal Cytokine	12.0		50
+IL-10/ - 592 CC	Turkey Bursa Cytokine	55.0		60
+IL-10/ - 592 CC	Turkey Istanbul Cytokine	46.2		104
+IL-10/ - 592 CC	USA Caucasian Bone Marrow Donors Cytokine	58.1		1,477
+IL-10/ - 592 CC	USA Upstate NY Caucasian Renal Recs Cytokine	57.1		133
+IL-10/ - 592 CC	USA Bronx Hispanic Cytokine	44.1		173
+IL-10/ - 592 CC	USA Upstate NY Af Am Renal Recs Cytokine	43.8		16
+IL-10/ - 592 CC	USA Upstate NY Caucasian Heart Recs Cytokine	59.4		64
+IL-10/ - 592 CC	USA African American Cytokine	33.7		691
+IL-10/ - 592 CC	USA Florida Cuban Cytokine	55.4		295
+IL-10/ - 592 CC	USA Hispanic Bone Marrow Donors Cytokine	44.6		74
+IL-10/ - 592 CC	USA Amerindian Bone Marrow Donors Cytokine	39.1		23
+IL-10/ - 592 CC	USA N Carolina Caucasian Cytokine	69.0		81
+IL-10/ - 592 CC	USA N Carolina African American Cytokine	52.0		42
+IL-10/ - 592 CC	USA Pennsylvania Heart Recipients Af Amer Cytokine	31.6		19
+IL-10/ - 592 CC	USA Pennsylvania Heart Recipients Cauc Cytokine	48.0		75
+IL-10/ - 592 CC	USA Southeast African American Cytokine	38.4		250
+IL-10/ - 592 CC	USA Southeast Caucasian Cytokine	53.9		145
+IL-10/ - 592 CC	Venezuela Mixed Cytokine	43.5		46
+IL-10/ - 819 CC	Argentina Buenos Aires Cytokine	44.4		54
+IL-10/ - 819 CC	Brazil Sao Paulo Mixed Cytokine	45.5		99
+IL-10/ - 819 CC	Brazil Southeast Black Cytokine	37.0		110
+IL-10/ - 819 CC	Brazil Southeast Caucasian Cytokine	45.0		153
+IL-10/ - 819 CC	Brazil Southeast Mixed race  Cytokine	49.0		100
+IL-10/ - 819 CC	Brazil Sao Paulo and Parana Mixed Cytokine	46.4		214
+IL-10/ - 819 CC	Brazil Parana Mixed Cytokine	46.2		823
+IL-10/ - 819 CC	Bulgaria Cytokine	39.5		88
+IL-10/ - 819 CC	Canada Manitoba Caucasoid Cytokine	61.0		116
+IL-10/ - 819 CC	Canada Aboriginal Oji-cree Cytokine	34.0		130
+IL-10/ - 819 CC	Colombia Medellin Cytokine	47.1		102
+IL-10/ - 819 CC	Cyprus Cytokine	59.0		100
+IL-10/ - 819 CC	Czech Republic Moravia Cytokine	60.9		67
+IL-10/ - 819 CC	Czech Republic Prague Cytokine	51.0		103
+IL-10/ - 819 CC	Czech Republic Prague Cytokine pop2	45.5		125
+IL-10/ - 819 CC	England Northwest Cytokine	59.0		500
+IL-10/ - 819 CC	England South Cytokine	57.6		260
+IL-10/ - 819 CC	England Southeast Cytokine	69.9		76
+IL-10/ - 819 CC	Germany Cytokine pop 3	58.6		111
+IL-10/ - 819 CC	Germany Cytokine	59.0		200
+IL-10/ - 819 CC	Germany Cytokine pop 2	57.8		243
+IL-10/ - 819 CC	Greece Cytokine	40.0		120
+IL-10/ - 819 CC	Greece North Cytokine	54.0		100
+IL-10/ - 819 CC	Greece Thrace Region Cytokine	33.0		27
+IL-10/ - 819 CC	Greece Cytokine pop 2	55.1		78
+IL-10/ - 819 CC	India North Cytokine	28.0		130
+IL-10/ - 819 CC	India Delhi Cytokine	28.0		34
+IL-10/ - 819 CC	Iran Cytokine	52.5		40
+IL-10/ - 819 CC	Iran South East Baloch Cytokine	41.7		96
+IL-10/ - 819 CC	Iran South East Sistani Cytokine	35.7		98
+IL-10/ - 819 CC	Iran Tehran Cytokine	50.7		140
+IL-10/ - 819 CC	Iran Yazd Cytokine	57.0		121
+IL-10/ - 819 CC	Iraq Arab Cytokine	41.2		224
+IL-10/ - 819 CC	Ireland Northern Cytokine	64.5		100
+IL-10/ - 819 CC	Ireland South Cytokine	68.5		200
+IL-10/ - 819 CC	Israel Jews Cytokine	45.8		48
+IL-10/ - 819 CC	Italy Milan Cytokine	52.1		94
+IL-10/ - 819 CC	Italy North Pavia Cytokine	64.0		58
+IL-10/ - 819 CC	Italy Sardinia Cytokine	51.8		137
+IL-10/ - 819 CC	Italy Cytokine	68.0		474
+IL-10/ - 819 CC	Italy Torino Cytokine	50.0		140
+IL-10/ - 819 CC	Italy North Cytokine	47.0		363
+IL-10/ - 819 CC	Italy Central Cytokine	48.6		70
+IL-10/ - 819 CC	South Korea Seoul Cytokine	13.0		57
+IL-10/ - 819 CC	Macedonia Cytokine	55.3		125
+IL-10/ - 819 CC	Malaysia Che Wong Cytokine	15.4		26
+IL-10/ - 819 CC	Malaysia Lanoh Cytokine	4.0		24
+IL-10/ - 819 CC	Malaysia Kensiu Cytokine	27.7		36
+IL-10/ - 819 CC	Malaysia Batek Cytokine	36.0		25
+IL-10/ - 819 CC	Malaysia Peninsular Chinese Cytokine	23.4		77
+IL-10/ - 819 CC	Malaysia Peninsular Malay Cytokine	11.3		97
+IL-10/ - 819 CC	Malaysia Peninsular Indian Cytokine	10.4		48
+IL-10/ - 819 CC	Malaysia Orang Kanaq Cytokine	0.0		11
+IL-10/ - 819 CC	Malaysia Semai Cytokine	11.9		42
+IL-10/ - 819 CC	Mexico Guadalajara Mestizo Cytokine	32.1		106
+IL-10/ - 819 CC	Mexico Monterrey Mestizo Cytokine	31.2		109
+IL-10/ - 819 CC	Mexico Mestizo Cytokine	35.9		40
+IL-10/ - 819 CC	Netherlands Cytokine	57.0		107
+IL-10/ - 819 CC	Oman Cytokine	57.0		80
+IL-10/ - 819 CC	Poland Wroclaw HSCT donors Cytokine	52.6		116
+IL-10/ - 819 CC	Poland Wroclaw HSCT recipients Cytokine	54.5		134
+IL-10/ - 819 CC	Portugal Center Cytokine	51.0		174
+IL-10/ - 819 CC	Portugal Azores Terceira Island Cytokine	47.0		117
+IL-10/ - 819 CC	Singapore Chinese Cytokine	11.1		83
+IL-10/ - 819 CC	Slovakia Cytokine	55.0		140
+IL-10/ - 819 CC	South Africa Natal Region Zulu Cytokine	38.0		86
+IL-10/ - 819 CC	Spain Granada Cytokine pop 2	56.0		176
+IL-10/ - 819 CC	Taiwan Cytokine pop 2	6.0		166
+IL-10/ - 819 CC	Taiwan Yami Cytokine	10.0		40
+IL-10/ - 819 CC	Taiwan Hakka Cytokine	13.0		45
+IL-10/ - 819 CC	Taiwan Minnan Cytokine	4.0		50
+IL-10/ - 819 CC	Taiwan Tsou Cytokine	6.0		50
+IL-10/ - 819 CC	Taiwan Atayal Cytokine	12.0		50
+IL-10/ - 819 CC	Taiwan Ami Cytokine	2.0		50
+IL-10/ - 819 CC	Turkey Bursa Cytokine	53.3		60
+IL-10/ - 819 CC	Turkey Istanbul Cytokine	46.2		104
+IL-10/ - 819 CC	USA Upstate NY Caucasian Renal Recs Cytokine	57.1		133
+IL-10/ - 819 CC	USA Bronx Hispanic Cytokine	44.1		173
+IL-10/ - 819 CC	USA Upstate NY Caucasian Heart Recs Cytokine	59.4		64
+IL-10/ - 819 CC	USA Upstate NY Af Am Renal Recs Cytokine	43.8		16
+IL-10/ - 819 CC	USA Florida Cuban Cytokine	55.4		295
+IL-10/ - 819 CC	USA African American Cytokine	33.7		691
+IL-10/ - 819 CC	USA N Carolina Caucasian Cytokine	69.0		81
+IL-10/ - 819 CC	USA N Carolina African American Cytokine	52.0		42
+IL-10/ - 819 CC	USA Pennsylvania Heart Recipients Af Amer Cytokine	31.6		19
+IL-10/ - 819 CC	USA Pennsylvania Heart Recipients Cauc Cytokine	48.0		75
+IL-10/ - 819 CC	USA Southeast African American Cytokine	38.4		250
+IL-10/ - 819 CC	USA Southeast Caucasian Cytokine	53.9		145
+IL-10/ - 819 CC	Venezuela Mixed Cytokine	43.5		46
+IL-10/ - 819 CT	Argentina Buenos Aires Cytokine	50.0		54
+IL-10/ - 819 CT	Brazil Sao Paulo Mixed Cytokine	41.4		99
+IL-10/ - 819 CT	Brazil Southeast Black Cytokine	46.0		110
+IL-10/ - 819 CT	Brazil Southeast Mixed race  Cytokine	37.0		100
+IL-10/ - 819 CT	Brazil Southeast Caucasian Cytokine	48.0		153
+IL-10/ - 819 CT	Brazil Sao Paulo and Parana Mixed Cytokine	43.6		214
+IL-10/ - 819 CT	Brazil Parana Mixed Cytokine	46.0		823
+IL-10/ - 819 CT	Bulgaria Cytokine	51.8		88
+IL-10/ - 819 CT	Canada Manitoba Caucasoid Cytokine	38.0		116
+IL-10/ - 819 CT	Canada Aboriginal Oji-cree Cytokine	50.0		130
+IL-10/ - 819 CT	Colombia Medellin Cytokine	49.0		102
+IL-10/ - 819 CT	Cyprus Cytokine	34.0		100
+IL-10/ - 819 CT	Czech Republic Moravia Cytokine	34.4		67
+IL-10/ - 819 CT	Czech Republic Prague Cytokine	44.1		103
+IL-10/ - 819 CT	Czech Republic Prague Cytokine pop2	48.5		125
+IL-10/ - 819 CT	England Northwest Cytokine	33.0		500
+IL-10/ - 819 CT	England South Cytokine	37.3		260
+IL-10/ - 819 CT	England Southeast Cytokine	27.4		76
+IL-10/ - 819 CT	Germany Cytokine pop 3	35.1		111
+IL-10/ - 819 CT	Germany Cytokine	36.0		200
+IL-10/ - 819 CT	Germany Cytokine pop 2	36.4		243
+IL-10/ - 819 CT	Greece Cytokine	51.0		120
+IL-10/ - 819 CT	Greece North Cytokine	36.0		100
+IL-10/ - 819 CT	Greece Thrace Region Cytokine	50.0		27
+IL-10/ - 819 CT	Greece Cytokine pop 2	34.6		78
+IL-10/ - 819 CT	India North Cytokine	58.0		130
+IL-10/ - 819 CT	India Delhi Cytokine	51.6		34
+IL-10/ - 819 CT	Iran Cytokine	45.0		40
+IL-10/ - 819 CT	Iran Yazd Cytokine	40.5		121
+IL-10/ - 819 CT	Iran Tehran Cytokine	40.7		140
+IL-10/ - 819 CT	Iran South East Sistani Cytokine	53.1		98
+IL-10/ - 819 CT	Iran South East Baloch Cytokine	44.8		96
+IL-10/ - 819 CT	Iraq Arab Cytokine	36.8		224
+IL-10/ - 819 CT	Ireland Northern Cytokine	34.4		100
+IL-10/ - 819 CT	Ireland South Cytokine	28.5		200
+IL-10/ - 819 CT	Israel Jews Cytokine	43.8		48
+IL-10/ - 819 CT	Italy Milan Cytokine	36.2		94
+IL-10/ - 819 CT	Italy North Pavia Cytokine	34.0		58
+IL-10/ - 819 CT	Italy Sardinia Cytokine	44.7		137
+IL-10/ - 819 CT	Italy Cytokine	31.0		474
+IL-10/ - 819 CT	Italy Torino Cytokine	44.3		140
+IL-10/ - 819 CT	Italy North Cytokine	39.0		363
+IL-10/ - 819 CT	Italy Central Cytokine	42.9		70
+IL-10/ - 819 CT	South Korea Seoul Cytokine	47.0		57
+IL-10/ - 819 CT	Macedonia Cytokine	34.1		125
+IL-10/ - 819 CT	Malaysia Batek Cytokine	52.0		25
+IL-10/ - 819 CT	Malaysia Kensiu Cytokine	55.6		36
+IL-10/ - 819 CT	Malaysia Lanoh Cytokine	44.0		24
+IL-10/ - 819 CT	Malaysia Che Wong Cytokine	38.5		26
+IL-10/ - 819 CT	Malaysia Peninsular Chinese Cytokine	33.8		77
+IL-10/ - 819 CT	Malaysia Peninsular Indian Cytokine	89.6		48
+IL-10/ - 819 CT	Malaysia Peninsular Malay Cytokine	46.4		97
+IL-10/ - 819 CT	Malaysia Semai Cytokine	45.2		42
+IL-10/ - 819 CT	Malaysia Orang Kanaq Cytokine	100.0		11
+IL-10/ - 819 CT	Mexico Monterrey Mestizo Cytokine	55.0		109
+IL-10/ - 819 CT	Mexico Guadalajara Mestizo Cytokine	49.1		106
+IL-10/ - 819 CT	Mexico Mestizo Cytokine	46.2		40
+IL-10/ - 819 CT	Netherlands Cytokine	34.0		107
+IL-10/ - 819 CT	Oman Cytokine	36.7		80
+IL-10/ - 819 CT	Poland Wroclaw HSCT recipients Cytokine	38.8		134
+IL-10/ - 819 CT	Poland Wroclaw HSCT donors Cytokine	43.1		116
+IL-10/ - 819 CT	Portugal Center Cytokine	39.0		174
+IL-10/ - 819 CT	Portugal Azores Terceira Island Cytokine	43.6		117
+IL-10/ - 819 CT	Singapore Chinese Cytokine	43.2		83
+IL-10/ - 819 CT	Slovakia Cytokine	36.4		140
+IL-10/ - 819 CT	South Africa Natal Region Zulu Cytokine	56.0		86
+IL-10/ - 819 CT	Spain Granada Cytokine pop 2	36.0		176
+IL-10/ - 819 CT	Taiwan Cytokine pop 2	41.0		166
+IL-10/ - 819 CT	Taiwan Yami Cytokine	25.0		40
+IL-10/ - 819 CT	Taiwan Minnan Cytokine	36.0		50
+IL-10/ - 819 CT	Taiwan Hakka Cytokine	40.0		45
+IL-10/ - 819 CT	Taiwan Ami Cytokine	18.0		50
+IL-10/ - 819 CT	Taiwan Atayal Cytokine	32.0		50
+IL-10/ - 819 CT	Taiwan Tsou Cytokine	50.0		50
+IL-10/ - 819 CT	Turkey Bursa Cytokine	33.3		60
+IL-10/ - 819 CT	Turkey Istanbul Cytokine	46.2		104
+IL-10/ - 819 CT	USA Upstate NY Caucasian Renal Recs Cytokine	36.8		133
+IL-10/ - 819 CT	USA Bronx Hispanic Cytokine	47.1		173
+IL-10/ - 819 CT	USA Upstate NY Af Am Renal Recs Cytokine	31.3		16
+IL-10/ - 819 CT	USA Upstate NY Caucasian Heart Recs Cytokine	32.8		64
+IL-10/ - 819 CT	USA African American Cytokine	51.5		691
+IL-10/ - 819 CT	USA Florida Cuban Cytokine	37.5		295
+IL-10/ - 819 CT	USA N Carolina Caucasian Cytokine	25.0		81
+IL-10/ - 819 CT	USA N Carolina African American Cytokine	33.0		42
+IL-10/ - 819 CT	USA Pennsylvania Heart Recipients Af Amer Cytokine	57.9		19
+IL-10/ - 819 CT	USA Pennsylvania Heart Recipients Cauc Cytokine	40.0		75
+IL-10/ - 819 CT	USA Southeast African American Cytokine	46.0		250
+IL-10/ - 819 CT	USA Southeast Caucasian Cytokine	37.8		145
+IL-10/ - 819 CT	Venezuela Mixed Cytokine	50.0		46
+IL-10/ - 819 TT	Argentina Buenos Aires Cytokine	5.6		54
+IL-10/ - 819 TT	Brazil Sao Paulo Mixed Cytokine	13.1		99
+IL-10/ - 819 TT	Brazil Southeast Black Cytokine	17.0		110
+IL-10/ - 819 TT	Brazil Southeast Caucasian Cytokine	7.0		153
+IL-10/ - 819 TT	Brazil Southeast Mixed race  Cytokine	14.0		100
+IL-10/ - 819 TT	Brazil Sao Paulo and Parana Mixed Cytokine	10.0		214
+IL-10/ - 819 TT	Brazil Parana Mixed Cytokine	7.8		823
+IL-10/ - 819 TT	Bulgaria Cytokine	8.7		88
+IL-10/ - 819 TT	Canada Manitoba Caucasoid Cytokine	1.0		116
+IL-10/ - 819 TT	Canada Aboriginal Oji-cree Cytokine	16.0		130
+IL-10/ - 819 TT	Colombia Medellin Cytokine	3.9		102
+IL-10/ - 819 TT	Cyprus Cytokine	7.0		100
+IL-10/ - 819 TT	Czech Republic Moravia Cytokine	4.7		67
+IL-10/ - 819 TT	Czech Republic Prague Cytokine	4.8		103
+IL-10/ - 819 TT	Czech Republic Prague Cytokine pop2	6.0		125
+IL-10/ - 819 TT	England Northwest Cytokine	8.0		500
+IL-10/ - 819 TT	England South Cytokine	5.1		260
+IL-10/ - 819 TT	England Southeast Cytokine	2.7		76
+IL-10/ - 819 TT	Germany Cytokine pop 3	6.3		111
+IL-10/ - 819 TT	Germany Cytokine	5.0		200
+IL-10/ - 819 TT	Germany Cytokine pop 2	5.8		243
+IL-10/ - 819 TT	Greece Cytokine	9.0		120
+IL-10/ - 819 TT	Greece North Cytokine	10.0		100
+IL-10/ - 819 TT	Greece Thrace Region Cytokine	17.0		27
+IL-10/ - 819 TT	Greece Cytokine pop 2	10.3		78
+IL-10/ - 819 TT	India North Cytokine	14.0		130
+IL-10/ - 819 TT	India Delhi Cytokine	20.4		34
+IL-10/ - 819 TT	Iran Cytokine	2.5		40
+IL-10/ - 819 TT	Iran South East Baloch Cytokine	13.5		96
+IL-10/ - 819 TT	Iran South East Sistani Cytokine	10.2		98
+IL-10/ - 819 TT	Iran Tehran Cytokine	8.6		140
+IL-10/ - 819 TT	Iran Yazd Cytokine	2.5		121
+IL-10/ - 819 TT	Iraq Arab Cytokine	22.0		224
+IL-10/ - 819 TT	Ireland Northern Cytokine	1.1		100
+IL-10/ - 819 TT	Ireland South Cytokine	3.0		200
+IL-10/ - 819 TT	Israel Jews Cytokine	10.4		48
+IL-10/ - 819 TT	Italy Milan Cytokine	11.7		94
+IL-10/ - 819 TT	Italy North Pavia Cytokine	2.0		58
+IL-10/ - 819 TT	Italy Sardinia Cytokine	3.5		137
+IL-10/ - 819 TT	Italy Cytokine	1.0		474
+IL-10/ - 819 TT	Italy Torino Cytokine	5.7		140
+IL-10/ - 819 TT	Italy North Cytokine	14.0		363
+IL-10/ - 819 TT	Italy Central Cytokine	8.6		70
+IL-10/ - 819 TT	South Korea Seoul Cytokine	40.0		57
+IL-10/ - 819 TT	Macedonia Cytokine	10.6		125
+IL-10/ - 819 TT	Malaysia Che Wong Cytokine	46.1		26
+IL-10/ - 819 TT	Malaysia Lanoh Cytokine	52.0		24
+IL-10/ - 819 TT	Malaysia Kensiu Cytokine	16.7		36
+IL-10/ - 819 TT	Malaysia Batek Cytokine	12.0		25
+IL-10/ - 819 TT	Malaysia Peninsular Chinese Cytokine	42.9		77
+IL-10/ - 819 TT	Malaysia Peninsular Malay Cytokine	42.3		97
+IL-10/ - 819 TT	Malaysia Peninsular Indian Cytokine	0.0		48
+IL-10/ - 819 TT	Malaysia Orang Kanaq Cytokine	0.0		11
+IL-10/ - 819 TT	Malaysia Semai Cytokine	42.9		42
+IL-10/ - 819 TT	Mexico Guadalajara Mestizo Cytokine	18.8		106
+IL-10/ - 819 TT	Mexico Monterrey Mestizo Cytokine	13.8		109
+IL-10/ - 819 TT	Mexico Mestizo Cytokine	17.9		40
+IL-10/ - 819 TT	Netherlands Cytokine	9.0		107
+IL-10/ - 819 TT	Oman Cytokine	6.3		80
+IL-10/ - 819 TT	Poland Wroclaw HSCT donors Cytokine	4.3		116
+IL-10/ - 819 TT	Poland Wroclaw HSCT recipients Cytokine	6.7		134
+IL-10/ - 819 TT	Portugal Center Cytokine	10.0		174
+IL-10/ - 819 TT	Portugal Azores Terceira Island Cytokine	9.4		117
+IL-10/ - 819 TT	Singapore Chinese Cytokine	45.7		83
+IL-10/ - 819 TT	Slovakia Cytokine	8.6		140
+IL-10/ - 819 TT	South Africa Natal Region Zulu Cytokine	6.0		86
+IL-10/ - 819 TT	Spain Granada Cytokine pop 2	8.0		176
+IL-10/ - 819 TT	Taiwan Cytokine pop 2	53.0		166
+IL-10/ - 819 TT	Taiwan Yami Cytokine	65.0		40
+IL-10/ - 819 TT	Taiwan Hakka Cytokine	47.0		45
+IL-10/ - 819 TT	Taiwan Minnan Cytokine	60.0		50
+IL-10/ - 819 TT	Taiwan Tsou Cytokine	44.0		50
+IL-10/ - 819 TT	Taiwan Atayal Cytokine	56.0		50
+IL-10/ - 819 TT	Taiwan Ami Cytokine	80.0		50
+IL-10/ - 819 TT	Turkey Bursa Cytokine	13.4		60
+IL-10/ - 819 TT	Turkey Istanbul Cytokine	7.5		104
+IL-10/ - 819 TT	USA Upstate NY Caucasian Renal Recs Cytokine	6.0		133
+IL-10/ - 819 TT	USA Bronx Hispanic Cytokine	8.8		173
+IL-10/ - 819 TT	USA Upstate NY Caucasian Heart Recs Cytokine	7.8		64
+IL-10/ - 819 TT	USA Upstate NY Af Am Renal Recs Cytokine	25.0		16
+IL-10/ - 819 TT	USA Florida Cuban Cytokine	7.1		295
+IL-10/ - 819 TT	USA African American Cytokine	14.8		691
+IL-10/ - 819 TT	USA N Carolina Caucasian Cytokine	6.0		81
+IL-10/ - 819 TT	USA N Carolina African American Cytokine	14.0		42
+IL-10/ - 819 TT	USA Pennsylvania Heart Recipients Af Amer Cytokine	10.5		19
+IL-10/ - 819 TT	USA Pennsylvania Heart Recipients Cauc Cytokine	12.0		75
+IL-10/ - 819 TT	USA Southeast African American Cytokine	15.6		250
+IL-10/ - 819 TT	USA Southeast Caucasian Cytokine	8.3		145
+IL-10/ - 819 TT	Venezuela Mixed Cytokine	6.5		46
+IL-10/ - 1082 AA	Argentina Buenos Aires Cytokine	25.9		54
+IL-10/ - 1082 AA	Brazil Sao Paulo Mixed Cytokine	44.4		99
+IL-10/ - 1082 AA	Brazil Southeast Caucasian Cytokine	41.0		153
+IL-10/ - 1082 AA	Brazil Southeast Mixed race  Cytokine	42.0		100
+IL-10/ - 1082 AA	Brazil Southeast Black Cytokine	39.0		110
+IL-10/ - 1082 AA	Brazil Sao Paulo and Parana Mixed Cytokine	39.3		214
+IL-10/ - 1082 AA	Brazil Parana Mixed Cytokine	39.7		823
+IL-10/ - 1082 AA	Bulgaria Cytokine	41.6		88
+IL-10/ - 1082 AA	Canada Manitoba Caucasoid Cytokine	22.0		116
+IL-10/ - 1082 AA	Canada Aboriginal Oji-cree Cytokine	62.0		130
+IL-10/ - 1082 AA	Colombia Medellin Cytokine	50.0		102
+IL-10/ - 1082 AA	Cyprus Cytokine	44.0		100
+IL-10/ - 1082 AA	Czech Republic Moravia Cytokine	38.5		67
+IL-10/ - 1082 AA	Czech Republic Prague Cytokine	29.0		103
+IL-10/ - 1082 AA	Czech Republic Prague Cytokine pop2	27.0		125
+IL-10/ - 1082 AA	England Southeast Cytokine	22.5		76
+IL-10/ - 1082 AA	England Northwest Cytokine	28.0		500
+IL-10/ - 1082 AA	England South Cytokine	20.6		260
+IL-10/ - 1082 AA	England Norfolk Cytokine	22.2		2,100
+IL-10/ - 1082 AA	England Cytokine	20.9		90
+IL-10/ - 1082 AA	Germany Cytokine pop 3	29.7		111
+IL-10/ - 1082 AA	Germany Cytokine	24.5		200
+IL-10/ - 1082 AA	Germany Cytokine pop 2	35.4		243
+IL-10/ - 1082 AA	Greece Cytokine	42.0		120
+IL-10/ - 1082 AA	Greece North Cytokine	37.0		100
+IL-10/ - 1082 AA	Greece Thrace Region Cytokine	42.0		27
+IL-10/ - 1082 AA	Greece Cytokine pop 2	37.2		78
+IL-10/ - 1082 AA	Hong Kong Chinese Cytokine	89.0		100
+IL-10/ - 1082 AA	India Delhi Cytokine	58.1		34
+IL-10/ - 1082 AA	India North Cytokine	59.0		130
+IL-10/ - 1082 AA	Iran Cytokine	15.0		40
+IL-10/ - 1082 AA	Iran Tehran Cytokine	37.8		140
+IL-10/ - 1082 AA	Iran South East Sistani Cytokine	34.7		98
+IL-10/ - 1082 AA	Iran South East Baloch Cytokine	38.5		96
+IL-10/ - 1082 AA	Iran Yazd Cytokine	24.8		121
+IL-10/ - 1082 AA	Iraq Arab Cytokine	40.8		224
+IL-10/ - 1082 AA	Ireland Northern Cytokine	19.4		100
+IL-10/ - 1082 AA	Ireland South Cytokine	19.0		200
+IL-10/ - 1082 AA	Israel Jews Cytokine	35.4		48
+IL-10/ - 1082 AA	Italy North Cytokine	39.0		363
+IL-10/ - 1082 AA	Italy Torino Cytokine	33.6		140
+IL-10/ - 1082 AA	Italy Central Cytokine	35.7		70
+IL-10/ - 1082 AA	Italy North Pavia Cytokine	31.0		58
+IL-10/ - 1082 AA	Italy Cytokine	10.0		474
+IL-10/ - 1082 AA	Italy Sardinia Cytokine	7.0		137
+IL-10/ - 1082 AA	Italy Sicily Cytokine	11.1		106
+IL-10/ - 1082 AA	Italy Sicily West	30.5		220
+IL-10/ - 1082 AA	Italy Milan Cytokine	43.6		94
+IL-10/ - 1082 AA	Jordan Cytokine	42.5		118
+IL-10/ - 1082 AA	South Korea Seoul Cytokine	74.0		57
+IL-10/ - 1082 AA	Macedonia Cytokine	39.0		125
+IL-10/ - 1082 AA	Malaysia Batek Cytokine	84.0		25
+IL-10/ - 1082 AA	Malaysia Kensiu Cytokine	86.1		36
+IL-10/ - 1082 AA	Malaysia Lanoh Cytokine	88.0		24
+IL-10/ - 1082 AA	Malaysia Che Wong Cytokine	50.0		26
+IL-10/ - 1082 AA	Malaysia Peninsular Chinese Cytokine	32.5		77
+IL-10/ - 1082 AA	Malaysia Peninsular Indian Cytokine	37.5		48
+IL-10/ - 1082 AA	Malaysia Peninsular Malay Cytokine	50.5		97
+IL-10/ - 1082 AA	Malaysia Semai Cytokine	81.0		42
+IL-10/ - 1082 AA	Malaysia Orang Kanaq Cytokine	0.0		11
+IL-10/ - 1082 AA	Mexico Monterrey Mestizo Cytokine	47.7		109
+IL-10/ - 1082 AA	Mexico Guadalajara Mestizo Cytokine	44.3		106
+IL-10/ - 1082 AA	Mexico Mestizo Cytokine	46.2		40
+IL-10/ - 1082 AA	Netherlands Cytokine	29.0		107
+IL-10/ - 1082 AA	Oman Cytokine	44.3		80
+IL-10/ - 1082 AA	Poland Wroclaw HSCT recipients Cytokine	32.8		134
+IL-10/ - 1082 AA	Poland Wroclaw HSCT donors Cytokine	37.0		116
+IL-10/ - 1082 AA	Portugal Center Cytokine	36.0		174
+IL-10/ - 1082 AA	Portugal Azores Terceira Island Cytokine	38.5		117
+IL-10/ - 1082 AA	Russia Moscow Cytokine	29.8		228
+IL-10/ - 1082 AA	Singapore Chinese Cytokine	95.1		83
+IL-10/ - 1082 AA	Slovakia Cytokine	35.0		140
+IL-10/ - 1082 AA	South Africa Natal Region Zulu Cytokine	33.4		86
+IL-10/ - 1082 AA	Spain Granada Cytokine pop 2	33.1		176
+IL-10/ - 1082 AA	Sweden West Cytokine	18.0		103
+IL-10/ - 1082 AA	Taiwan Hakka Cytokine	93.0		45
+IL-10/ - 1082 AA	Taiwan Yami Cytokine	95.0		40
+IL-10/ - 1082 AA	Taiwan Ami Cytokine	96.0		50
+IL-10/ - 1082 AA	Taiwan Atayal Cytokine	88.0		50
+IL-10/ - 1082 AA	Taiwan Minnan Cytokine	94.0		50
+IL-10/ - 1082 AA	Taiwan Tsou Cytokine	98.0		50
+IL-10/ - 1082 AA	Turkey Bursa Cytokine	51.7		60
+IL-10/ - 1082 AA	Turkey Istanbul Cytokine	40.6		104
+IL-10/ - 1082 AA	USA Hispanic Bone Marrow Donors Cytokine	51.4		74
+IL-10/ - 1082 AA	USA Caucasian Bone Marrow Donors Cytokine	27.3		1,477
+IL-10/ - 1082 AA	USA Amerindian Bone Marrow Donors Cytokine	34.8		23
+IL-10/ - 1082 AA	USA Florida Cuban Cytokine	31.1		295
+IL-10/ - 1082 AA	USA Upstate NY Af Am Renal Recs Cytokine	43.8		16
+IL-10/ - 1082 AA	USA Upstate NY Caucasian Heart Recs Cytokine	34.4		64
+IL-10/ - 1082 AA	USA Upstate NY Caucasian Renal Recs Cytokine	33.1		133
+IL-10/ - 1082 AA	USA Bronx Hispanic Cytokine	38.8		173
+IL-10/ - 1082 AA	USA African American Cytokine	41.5		691
+IL-10/ - 1082 AA	USA N Carolina African American Cytokine	26.0		42
+IL-10/ - 1082 AA	USA N Carolina Caucasian Cytokine	16.0		81
+IL-10/ - 1082 AA	USA Pennsylvania Heart Recipients Af Amer Cytokine	47.4		19
+IL-10/ - 1082 AA	USA Pennsylvania Heart Recipients Cauc Cytokine	37.3		75
+IL-10/ - 1082 AA	USA Southeast Caucasian Cytokine	24.8		145
+IL-10/ - 1082 AA	USA Southeast African American Cytokine	47.0		250
+IL-10/ - 1082 AA	Venezuela Mixed Cytokine	50.0		46
+IL-10/ - 1082 AG	Argentina Buenos Aires Cytokine	48.1		54
+IL-10/ - 1082 AG	Brazil Southeast Black Cytokine	48.0		110
+IL-10/ - 1082 AG	Brazil Southeast Mixed race  Cytokine	47.0		100
+IL-10/ - 1082 AG	Brazil Sao Paulo Mixed Cytokine	41.4		99
+IL-10/ - 1082 AG	Brazil Southeast Caucasian Cytokine	40.0		153
+IL-10/ - 1082 AG	Brazil Sao Paulo and Parana Mixed Cytokine	44.1		214
+IL-10/ - 1082 AG	Brazil Parana Mixed Cytokine	49.6		823
+IL-10/ - 1082 AG	Bulgaria Cytokine	46.9		88
+IL-10/ - 1082 AG	Canada Manitoba Caucasoid Cytokine	56.0		116
+IL-10/ - 1082 AG	Canada Aboriginal Oji-cree Cytokine	32.0		130
+IL-10/ - 1082 AG	Colombia Medellin Cytokine	41.2		102
+IL-10/ - 1082 AG	Cyprus Cytokine	43.0		100
+IL-10/ - 1082 AG	Czech Republic Prague Cytokine	57.2		103
+IL-10/ - 1082 AG	Czech Republic Moravia Cytokine	33.8		67
+IL-10/ - 1082 AG	Czech Republic Prague Cytokine pop2	51.5		125
+IL-10/ - 1082 AG	England Southeast Cytokine	27.7		76
+IL-10/ - 1082 AG	England Northwest Cytokine	42.0		500
+IL-10/ - 1082 AG	England South Cytokine	53.8		260
+IL-10/ - 1082 AG	England Norfolk Cytokine	51.5		2,100
+IL-10/ - 1082 AG	England Cytokine	51.6		90
+IL-10/ - 1082 AG	Germany Cytokine pop 3	41.4		111
+IL-10/ - 1082 AG	Germany Cytokine	58.0		200
+IL-10/ - 1082 AG	Germany Cytokine pop 2	47.3		243
+IL-10/ - 1082 AG	Greece Cytokine	45.0		120
+IL-10/ - 1082 AG	Greece North Cytokine	53.0		100
+IL-10/ - 1082 AG	Greece Thrace Region Cytokine	46.0		27
+IL-10/ - 1082 AG	Greece Cytokine pop 2	42.3		78
+IL-10/ - 1082 AG	Hong Kong Chinese Cytokine	10.0		100
+IL-10/ - 1082 AG	India North Cytokine	36.0		130
+IL-10/ - 1082 AG	India Delhi Cytokine	37.6		34
+IL-10/ - 1082 AG	Iran Cytokine	82.5		40
+IL-10/ - 1082 AG	Iran South East Baloch Cytokine	55.2		96
+IL-10/ - 1082 AG	Iran South East Sistani Cytokine	59.2		98
+IL-10/ - 1082 AG	Iran Tehran Cytokine	53.6		140
+IL-10/ - 1082 AG	Iran Yazd Cytokine	71.9		121
+IL-10/ - 1082 AG	Iraq Arab Cytokine	41.3		224
+IL-10/ - 1082 AG	Ireland Northern Cytokine	46.2		100
+IL-10/ - 1082 AG	Ireland South Cytokine	53.5		200
+IL-10/ - 1082 AG	Israel Jews Cytokine	52.1		48
+IL-10/ - 1082 AG	Italy Torino Cytokine	54.3		140
+IL-10/ - 1082 AG	Italy North Cytokine	48.0		363
+IL-10/ - 1082 AG	Italy Central Cytokine	51.4		70
+IL-10/ - 1082 AG	Italy North Pavia Cytokine	44.0		58
+IL-10/ - 1082 AG	Italy Sardinia Cytokine	70.6		137
+IL-10/ - 1082 AG	Italy Cytokine	53.0		474
+IL-10/ - 1082 AG	Italy Sicily Cytokine	63.7		106
+IL-10/ - 1082 AG	Italy Sicily West	45.9		220
+IL-10/ - 1082 AG	Italy Milan Cytokine	38.3		94
+IL-10/ - 1082 AG	Jordan Cytokine	51.7		118
+IL-10/ - 1082 AG	South Korea Seoul Cytokine	26.0		57
+IL-10/ - 1082 AG	Macedonia Cytokine	48.0		125
+IL-10/ - 1082 AG	Malaysia Che Wong Cytokine	46.2		26
+IL-10/ - 1082 AG	Malaysia Lanoh Cytokine	12.0		24
+IL-10/ - 1082 AG	Malaysia Kensiu Cytokine	13.9		36
+IL-10/ - 1082 AG	Malaysia Batek Cytokine	16.0		25
+IL-10/ - 1082 AG	Malaysia Peninsular Chinese Cytokine	66.2		77
+IL-10/ - 1082 AG	Malaysia Peninsular Malay Cytokine	49.5		97
+IL-10/ - 1082 AG	Malaysia Peninsular Indian Cytokine	62.5		48
+IL-10/ - 1082 AG	Malaysia Orang Kanaq Cytokine	100.0		11
+IL-10/ - 1082 AG	Malaysia Semai Cytokine	19.0		42
+IL-10/ - 1082 AG	Mexico Monterrey Mestizo Cytokine	43.1		109
+IL-10/ - 1082 AG	Mexico Guadalajara Mestizo Cytokine	48.1		106
+IL-10/ - 1082 AG	Mexico Mestizo Cytokine	35.9		40
+IL-10/ - 1082 AG	Netherlands Cytokine	44.0		107
+IL-10/ - 1082 AG	Oman Cytokine	41.8		80
+IL-10/ - 1082 AG	Poland Wroclaw HSCT recipients Cytokine	52.2		134
+IL-10/ - 1082 AG	Poland Wroclaw HSCT donors Cytokine	44.0		116
+IL-10/ - 1082 AG	Portugal Center Cytokine	52.0		174
+IL-10/ - 1082 AG	Portugal Azores Terceira Island Cytokine	53.8		117
+IL-10/ - 1082 AG	Russia Moscow Cytokine	52.2		228
+IL-10/ - 1082 AG	Singapore Chinese Cytokine	4.9		83
+IL-10/ - 1082 AG	Slovakia Cytokine	43.6		140
+IL-10/ - 1082 AG	South Africa Natal Region Zulu Cytokine	57.1		86
+IL-10/ - 1082 AG	Spain Granada Cytokine pop 2	49.7		176
+IL-10/ - 1082 AG	Sweden West Cytokine	56.0		103
+IL-10/ - 1082 AG	Taiwan Yami Cytokine	5.0		40
+IL-10/ - 1082 AG	Taiwan Hakka Cytokine	7.0		45
+IL-10/ - 1082 AG	Taiwan Tsou Cytokine	2.0		50
+IL-10/ - 1082 AG	Taiwan Minnan Cytokine	6.0		50
+IL-10/ - 1082 AG	Taiwan Atayal Cytokine	12.0		50
+IL-10/ - 1082 AG	Taiwan Ami Cytokine	2.0		50
+IL-10/ - 1082 AG	Turkey Bursa Cytokine	41.7		60
+IL-10/ - 1082 AG	Turkey Istanbul Cytokine	46.2		104
+IL-10/ - 1082 AG	USA Hispanic Bone Marrow Donors Cytokine	40.5		74
+IL-10/ - 1082 AG	USA Caucasian Bone Marrow Donors Cytokine	49.5		1,477
+IL-10/ - 1082 AG	USA Amerindian Bone Marrow Donors Cytokine	60.9		23
+IL-10/ - 1082 AG	USA Florida Cuban Cytokine	50.3		295
+IL-10/ - 1082 AG	USA Upstate NY Caucasian Renal Recs Cytokine	40.6		133
+IL-10/ - 1082 AG	USA Upstate NY Caucasian Heart Recs Cytokine	40.6		64
+IL-10/ - 1082 AG	USA Upstate NY Af Am Renal Recs Cytokine	43.8		16
+IL-10/ - 1082 AG	USA African American Cytokine	48.2		691
+IL-10/ - 1082 AG	USA Bronx Hispanic Cytokine	55.3		173
+IL-10/ - 1082 AG	USA N Carolina Caucasian Cytokine	52.0		81
+IL-10/ - 1082 AG	USA N Carolina African American Cytokine	55.0		42
+IL-10/ - 1082 AG	USA Pennsylvania Heart Recipients Af Amer Cytokine	52.6		19
+IL-10/ - 1082 AG	USA Pennsylvania Heart Recipients Cauc Cytokine	45.3		75
+IL-10/ - 1082 AG	USA Southeast African American Cytokine	39.8		250
+IL-10/ - 1082 AG	USA Southeast Caucasian Cytokine	49.7		145
+IL-10/ - 1082 AG	Venezuela Mixed Cytokine	45.6		46
+IL-10/ - 1082 GG	Argentina Buenos Aires Cytokine	25.9		54
+IL-10/ - 1082 GG	Brazil Southeast Black Cytokine	13.0		110
+IL-10/ - 1082 GG	Brazil Southeast Mixed race  Cytokine	11.0		100
+IL-10/ - 1082 GG	Brazil Sao Paulo Mixed Cytokine	14.2		99
+IL-10/ - 1082 GG	Brazil Southeast Caucasian Cytokine	19.0		153
+IL-10/ - 1082 GG	Brazil Sao Paulo and Parana Mixed Cytokine	16.6		214
+IL-10/ - 1082 GG	Brazil Parana Mixed Cytokine	10.7		823
+IL-10/ - 1082 GG	Bulgaria Cytokine	11.5		88
+IL-10/ - 1082 GG	Canada Manitoba Caucasoid Cytokine	22.0		116
+IL-10/ - 1082 GG	Canada Aboriginal Oji-cree Cytokine	6.0		130
+IL-10/ - 1082 GG	Colombia Medellin Cytokine	8.8		102
+IL-10/ - 1082 GG	Cyprus Cytokine	13.0		100
+IL-10/ - 1082 GG	Czech Republic Moravia Cytokine	27.7		67
+IL-10/ - 1082 GG	Czech Republic Prague Cytokine	13.8		103
+IL-10/ - 1082 GG	Czech Republic Prague Cytokine pop2	21.5		125
+IL-10/ - 1082 GG	England Southeast Cytokine	49.9		76
+IL-10/ - 1082 GG	England Northwest Cytokine	30.0		500
+IL-10/ - 1082 GG	England South Cytokine	25.6		260
+IL-10/ - 1082 GG	England Norfolk Cytokine	26.3		2,100
+IL-10/ - 1082 GG	England Cytokine	27.5		90
+IL-10/ - 1082 GG	Germany Cytokine pop 3	28.8		111
+IL-10/ - 1082 GG	Germany Cytokine	17.5		200
+IL-10/ - 1082 GG	Germany Cytokine pop 2	17.3		243
+IL-10/ - 1082 GG	Greece Cytokine	13.0		120
+IL-10/ - 1082 GG	Greece North Cytokine	10.0		100
+IL-10/ - 1082 GG	Greece Thrace Region Cytokine	12.0		27
+IL-10/ - 1082 GG	Greece Cytokine pop 2	20.5		78
+IL-10/ - 1082 GG	Hong Kong Chinese Cytokine	1.0		100
+IL-10/ - 1082 GG	India North Cytokine	5.0		130
+IL-10/ - 1082 GG	India Delhi Cytokine	4.3		34
+IL-10/ - 1082 GG	Iran Cytokine	2.5		40
+IL-10/ - 1082 GG	Iran South East Baloch Cytokine	6.3		96
+IL-10/ - 1082 GG	Iran Tehran Cytokine	8.6		140
+IL-10/ - 1082 GG	Iran South East Sistani Cytokine	6.1		98
+IL-10/ - 1082 GG	Iran Yazd Cytokine	3.3		121
+IL-10/ - 1082 GG	Iraq Arab Cytokine	17.9		224
+IL-10/ - 1082 GG	Ireland Northern Cytokine	34.4		100
+IL-10/ - 1082 GG	Ireland South Cytokine	27.5		200
+IL-10/ - 1082 GG	Israel Jews Cytokine	12.5		48
+IL-10/ - 1082 GG	Italy North Cytokine	13.0		363
+IL-10/ - 1082 GG	Italy Torino Cytokine	12.1		140
+IL-10/ - 1082 GG	Italy Central Cytokine	12.9		70
+IL-10/ - 1082 GG	Italy North Pavia Cytokine	25.0		58
+IL-10/ - 1082 GG	Italy Cytokine	37.0		474
+IL-10/ - 1082 GG	Italy Sardinia Cytokine	22.4		137
+IL-10/ - 1082 GG	Italy Sicily Cytokine	25.2		106
+IL-10/ - 1082 GG	Italy Sicily West	23.6		220
+IL-10/ - 1082 GG	Italy Milan Cytokine	18.1		94
+IL-10/ - 1082 GG	Jordan Cytokine	5.9		118
+IL-10/ - 1082 GG	South Korea Seoul Cytokine	0.0		57
+IL-10/ - 1082 GG	Macedonia Cytokine	13.0		125
+IL-10/ - 1082 GG	Malaysia Batek Cytokine	0.0		25
+IL-10/ - 1082 GG	Malaysia Kensiu Cytokine	0.0		36
+IL-10/ - 1082 GG	Malaysia Lanoh Cytokine	0.0		24
+IL-10/ - 1082 GG	Malaysia Che Wong Cytokine	3.8		26
+IL-10/ - 1082 GG	Malaysia Peninsular Chinese Cytokine	1.3		77
+IL-10/ - 1082 GG	Malaysia Peninsular Indian Cytokine	0.0		48
+IL-10/ - 1082 GG	Malaysia Peninsular Malay Cytokine	0.0		97
+IL-10/ - 1082 GG	Malaysia Semai Cytokine	0.0		42
+IL-10/ - 1082 GG	Malaysia Orang Kanaq Cytokine	0.0		11
+IL-10/ - 1082 GG	Mexico Monterrey Mestizo Cytokine	9.2		109
+IL-10/ - 1082 GG	Mexico Guadalajara Mestizo Cytokine	7.6		106
+IL-10/ - 1082 GG	Mexico Mestizo Cytokine	17.9		40
+IL-10/ - 1082 GG	Netherlands Cytokine	27.0		107
+IL-10/ - 1082 GG	Oman Cytokine	13.9		80
+IL-10/ - 1082 GG	Poland Wroclaw HSCT recipients Cytokine	15.0		134
+IL-10/ - 1082 GG	Poland Wroclaw HSCT donors Cytokine	19.0		116
+IL-10/ - 1082 GG	Portugal Center Cytokine	12.0		174
+IL-10/ - 1082 GG	Portugal Azores Terceira Island Cytokine	7.7		117
+IL-10/ - 1082 GG	Russia Moscow Cytokine	18.0		228
+IL-10/ - 1082 GG	Singapore Chinese Cytokine	0.0		83
+IL-10/ - 1082 GG	Slovakia Cytokine	21.4		140
+IL-10/ - 1082 GG	South Africa Natal Region Zulu Cytokine	9.5		86
+IL-10/ - 1082 GG	Spain Granada Cytokine pop 2	17.1		176
+IL-10/ - 1082 GG	Sweden West Cytokine	26.0		103
+IL-10/ - 1082 GG	Taiwan Hakka Cytokine	0.0		45
+IL-10/ - 1082 GG	Taiwan Yami Cytokine	0.0		40
+IL-10/ - 1082 GG	Taiwan Tsou Cytokine	0.0		50
+IL-10/ - 1082 GG	Taiwan Minnan Cytokine	0.0		50
+IL-10/ - 1082 GG	Taiwan Ami Cytokine	2.0		50
+IL-10/ - 1082 GG	Taiwan Atayal Cytokine	0.0		50
+IL-10/ - 1082 GG	Turkey Bursa Cytokine	6.6		60
+IL-10/ - 1082 GG	Turkey Istanbul Cytokine	13.2		104
+IL-10/ - 1082 GG	USA Hispanic Bone Marrow Donors Cytokine	8.1		74
+IL-10/ - 1082 GG	USA Caucasian Bone Marrow Donors Cytokine	23.2		1,477
+IL-10/ - 1082 GG	USA Amerindian Bone Marrow Donors Cytokine	4.3		23
+IL-10/ - 1082 GG	USA Florida Cuban Cytokine	18.6		295
+IL-10/ - 1082 GG	USA Upstate NY Af Am Renal Recs Cytokine	12.5		16
+IL-10/ - 1082 GG	USA Upstate NY Caucasian Heart Recs Cytokine	25.0		64
+IL-10/ - 1082 GG	USA Upstate NY Caucasian Renal Recs Cytokine	26.3		133
+IL-10/ - 1082 GG	USA Bronx Hispanic Cytokine	5.9		173
+IL-10/ - 1082 GG	USA African American Cytokine	10.3		691
+IL-10/ - 1082 GG	USA N Carolina African American Cytokine	19.0		42
+IL-10/ - 1082 GG	USA N Carolina Caucasian Cytokine	32.0		81
+IL-10/ - 1082 GG	USA Pennsylvania Heart Recipients Af Amer Cytokine	0.0		19
+IL-10/ - 1082 GG	USA Pennsylvania Heart Recipients Cauc Cytokine	17.3		75
+IL-10/ - 1082 GG	USA Southeast Caucasian Cytokine	25.5		145
+IL-10/ - 1082 GG	USA Southeast African American Cytokine	13.2		250
+IL-10/ - 1082 GG	Venezuela Mixed Cytokine	4.4		46
