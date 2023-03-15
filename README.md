@@ -9,7 +9,16 @@ Here, we share a script [allelefrequencies.py](allelefrequencies.py) to
 download allele frequencies for HLA, KIR, MIC, and cytokine genes from
 [Allele Frequency Net Database](http://allelefrequencies.net) (AFND).
 
-We also share [57 TSV files](allelefrequencies.net/) ready for analysis.
+[What is the Allele Frequency Net
+Database?](http://www.allelefrequencies.net/faqs.asp)
+
+> The Allele Frequency Net Database (AFND) is a public database which
+> contains frequency information of several immune genes such as Human
+> Leukocyte Antigens (HLA), Killer-cell Immunoglobulin-like Receptors
+> (KIR), Major histocompatibility complex class I chain-related (MIC)
+> genes, and a number of cytokine gene polymorphisms.
+
+We share [57 TSV files](allelefrequencies.net/) ready for analysis.
 
 Each file looks like this:
 
