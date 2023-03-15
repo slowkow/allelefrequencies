@@ -19,17 +19,20 @@ library(readr)
 library(magrittr)
 library(ggplot2)
 library(ggstance)
+file_size <- function(x) glue("{fs::file_size(x)}B")
+d <- fread("afnd.tsv")
+n_hla <- d %>% filter(group == "hla") %>% count(gene) %>% nrow
+n_kir <- d %>% filter(group == "kir") %>% count(gene) %>% nrow
+n_mic <- d %>% filter(group == "mic") %>% count(gene) %>% nrow
+n_cyt <- d %>% filter(group == "cyt") %>% count(gene) %>% nrow
 ```
 
 
 ## Introduction
 
-Here, we share a single file [afnd.tsv](afnd.tsv) in tab-delimited format with
-all allele frequencies for HLA, KIR, MIC, and cytokine genes from [Allele
-Frequency Net Database](http://allelefrequencies.net) (AFND).
+Here, we share a single file [afnd.tsv](afnd.tsv) (`r file_size("afnd.tsv")`) in tab-delimited format with all allele frequencies for `r n_hla` HLA genes, `r n_kir` KIR genes, `r n_mic` MIC genes, and `r n_cyt` cytokine genes from [Allele Frequency Net Database](http://allelefrequencies.net) (AFND).  
 
-The script [allelefrequencies.py](allelefrequencies.py) automatically downloads
-allele frequencies from the website.
+The script [allelefrequencies.py](allelefrequencies.py) automatically downloads allele frequencies from the website.
 
 [What is the Allele Frequency Net Database?](http://www.allelefrequencies.net/faqs.asp)
 
@@ -71,6 +74,16 @@ d %>%
   select(population, n) %>%
   unique() %>%
   arrange(-n)
+```
+
+Count the number of alleles for each gene:
+
+```{r}
+d %>%
+  count(group, gene, allele) %>%
+  count(group, gene) %>%
+  arrange(-n) %>%
+  head(15)
 ```
 
 Sum the allele frequencies for each gene in each population. This lets us see
@@ -176,8 +189,8 @@ old files is still available via FTP.
 
 ## Acknowledgments
 
-Also, I want to say thanks to David A. Wells for sharing [scrapeAF][1], which
-inspired me to work on this project.
+Thanks to David A. Wells for sharing [scrapeAF][1], which inspired me to work
+on this project.
 
 [1]: https://github.com/DAWells/scrapeAF
 

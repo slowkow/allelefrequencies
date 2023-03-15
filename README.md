@@ -5,10 +5,10 @@ Kamil Slowikowski
 
 ## Introduction
 
-Here, we share a single file [afnd.tsv](afnd.tsv) in tab-delimited
-format with all allele frequencies for HLA, KIR, MIC, and cytokine genes
-from [Allele Frequency Net Database](http://allelefrequencies.net)
-(AFND).
+Here, we share a single file [afnd.tsv](afnd.tsv) (5.99MB) in
+tab-delimited format with all allele frequencies for 8 HLA genes, 18 KIR
+genes, 2 MIC genes, and 29 cytokine genes from [Allele Frequency Net
+Database](http://allelefrequencies.net) (AFND).
 
 The script [allelefrequencies.py](allelefrequencies.py) automatically
 downloads allele frequencies from the website.
@@ -76,6 +76,33 @@ d %>%
     ## 1492:                      Cameroon Baka Pygmy      10
     ## 1493: Paraguay/Argentina Guarani NA-DHS_23 (G)      10
 
+Count the number of alleles for each gene:
+
+``` r
+d %>%
+  count(group, gene, allele) %>%
+  count(group, gene) %>%
+  arrange(-n) %>%
+  head(15)
+```
+
+    ##     group  gene    n
+    ##  1:   hla     B 1979
+    ##  2:   hla     A 1394
+    ##  3:   hla     C 1209
+    ##  4:   hla  DRB1  954
+    ##  5:   hla  DPB1  384
+    ##  6:   hla  DQB1  351
+    ##  7:   kir  3DL1   90
+    ##  8:   mic  MICA   69
+    ##  9:   kir  3DL3   67
+    ## 10:   kir  2DL1   52
+    ## 11:   kir  2DL4   35
+    ## 12:   mic  MICB   34
+    ## 13:   hla  DQA1   30
+    ## 14:   kir  3DL2   30
+    ## 15:   kir 2DL5B   24
+
 Sum the allele frequencies for each gene in each population. This lets
 us see which populations have a set of allele frequencies that adds up
 to 100 percent:
@@ -132,7 +159,7 @@ ggplot(my_d) +
   )
 ```
 
-![](README_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
 
 ## Citation
 
@@ -190,6 +217,6 @@ archive of old files is still available via FTP.
 
 ## Acknowledgments
 
-Also, I want to say thanks to David A. Wells for sharing
+Thanks to David A. Wells for sharing
 [scrapeAF](https://github.com/DAWells/scrapeAF), which inspired me to
 work on this project.
