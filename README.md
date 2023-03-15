@@ -5,9 +5,13 @@ Kamil Slowikowski
 
 ## Introduction
 
-Here, we share a script [allelefrequencies.py](allelefrequencies.py) to
-download allele frequencies for HLA, KIR, MIC, and cytokine genes from
-[Allele Frequency Net Database](http://allelefrequencies.net) (AFND).
+Here, we share a single file [afnd.tsv](afnd.tsv) in tab-delimited
+format with all allele frequencies for HLA, KIR, MIC, and cytokine genes
+from [Allele Frequency Net Database](http://allelefrequencies.net)
+(AFND).
+
+The script [allelefrequencies.py](allelefrequencies.py) automatically
+downloads allele frequencies from the website.
 
 [What is the Allele Frequency Net
 Database?](http://www.allelefrequencies.net/faqs.asp)
@@ -18,31 +22,32 @@ Database?](http://www.allelefrequencies.net/faqs.asp)
 > (KIR), Major histocompatibility complex class I chain-related (MIC)
 > genes, and a number of cytokine gene polymorphisms.
 
-We share [57 TSV files](allelefrequencies.net/) ready for analysis.
-
-Each file looks like this:
+The [afnd.tsv](afnd.tsv) file looks like this:
 
 ``` r
-d <- fread("allelefrequencies.net/hla/A.tsv")
+d <- fread("afnd.tsv")
 head(d)
 ```
 
-    ##     allele                              population indivs_over_n alleles_over_2n   n
-    ## 1: A*01:01                  Argentina Rosario Toba          15.1          0.0760  86
-    ## 2: A*01:01                Armenia combined Regions                        0.1250 100
-    ## 3: A*01:01 Australia Cape York Peninsula Aborigine                        0.0530 103
-    ## 4: A*01:01      Australia Groote Eylandt Aborigine                        0.0270  75
-    ## 5: A*01:01     Australia New South Wales Caucasian                        0.1870 134
-    ## 6: A*01:01            Australia Yuendumu Aborigine                        0.0080 191
+    ##    group gene  allele                              population indivs_over_n alleles_over_2n   n
+    ## 1:   hla    A A*01:01                  Argentina Rosario Toba          15.1          0.0760  86
+    ## 2:   hla    A A*01:01                Armenia combined Regions                        0.1250 100
+    ## 3:   hla    A A*01:01 Australia Cape York Peninsula Aborigine                        0.0530 103
+    ## 4:   hla    A A*01:01      Australia Groote Eylandt Aborigine                        0.0270  75
+    ## 5:   hla    A A*01:01     Australia New South Wales Caucasian                        0.1870 134
+    ## 6:   hla    A A*01:01            Australia Yuendumu Aborigine                        0.0080 191
 
 Definitions:
 
-    alleles_over_2n (Alleles / 2n)
-    Allele Frequency: total number of copies of the allele in the population sample
-    in three decimal format.
-    
-    indivs_over_n (Individuals / n)
-    Percentage of individuals who have the allele or gene.
+  - `alleles_over_2n` (Alleles / 2n) Allele Frequency: total number of
+    copies of the allele in the population sample in three decimal
+    format.
+
+  - `indivs_over_n` (Individuals / n) Percentage of individuals who have
+    the allele or gene.
+
+  - `n` (Individuals / n) Number of individuals sampled from the
+    population.
 
 ## Examples
 
@@ -58,41 +63,54 @@ d %>%
   arrange(-n)
 ```
 
-    ##                                    population       n
-    ##   1:             Germany DKMS - German donors 3456066
-    ##   2:              USA NMDP European Caucasian 1242890
-    ##   3:          USA NMDP African American pop 2  416581
-    ##   4:              USA NMDP Mexican or Chicano  261235
-    ##   5:              USA NMDP South Asian Indian  185391
-    ##  ---                                                 
-    ## 436:                          Bulgaria Romani      13
-    ## 437:                            Cameroon Sawa      13
-    ## 438:    Paraguay/Argentina Ache NA-DHS_24 (G)      13
-    ## 439:                      Cameroon Baka Pygmy      10
-    ## 440: Paraguay/Argentina Guarani NA-DHS_23 (G)      10
+    ##                                     population       n
+    ##    1:             Germany DKMS - German donors 3456066
+    ##    2:              USA NMDP European Caucasian 1242890
+    ##    3:          USA NMDP African American pop 2  416581
+    ##    4:              USA NMDP Mexican or Chicano  261235
+    ##    5:              USA NMDP South Asian Indian  185391
+    ##   ---                                                 
+    ## 1489:                            Cameroon Sawa      13
+    ## 1490:    Paraguay/Argentina Ache NA-DHS_24 (G)      13
+    ## 1491:            Malaysia Orang Kanaq Cytokine      11
+    ## 1492:                      Cameroon Baka Pygmy      10
+    ## 1493: Paraguay/Argentina Guarani NA-DHS_23 (G)      10
 
-Sum the allele frequencies for each population and see if they add up to
-100%:
+Sum the allele frequencies for each gene in each population. This lets
+us see which populations have a set of allele frequencies that adds up
+to 100 percent:
 
 ``` r
 d %>%
   mutate(alleles_over_2n = parse_number(alleles_over_2n)) %>%
-  group_by(population) %>%
+  filter(alleles_over_2n > 0) %>%
+  group_by(group, gene, population) %>%
   summarize(sum = sum(alleles_over_2n)) %>%
   count(sum == 1)
 ```
 
-    ## # A tibble: 2 × 2
-    ##   `sum == 1`     n
-    ##   <lgl>      <int>
-    ## 1 FALSE        403
-    ## 2 TRUE          37
+    ## `summarise()` has grouped output by 'group', 'gene'. You can override using the `.groups` argument.
+
+    ## # A tibble: 45 × 4
+    ## # Groups:   group, gene [28]
+    ##    group gene  `sum == 1`     n
+    ##    <chr> <chr> <lgl>      <int>
+    ##  1 hla   A     FALSE        401
+    ##  2 hla   A     TRUE          37
+    ##  3 hla   B     FALSE        495
+    ##  4 hla   B     TRUE          37
+    ##  5 hla   C     FALSE        311
+    ##  6 hla   C     TRUE          31
+    ##  7 hla   DPA1  FALSE         52
+    ##  8 hla   DPA1  TRUE           8
+    ##  9 hla   DPB1  FALSE        193
+    ## 10 hla   DPB1  TRUE          53
+    ## # … with 35 more rows
 
 Plot the frequency of a specific allele in populations with more than
 1000 sampled individuals:
 
 ``` r
-d <- fread("allelefrequencies.net/hla/DQB1.tsv")
 my_allele <- "DQB1*02:01"
 my_d <- d %>% filter(allele == my_allele) %>%
   mutate(
@@ -126,6 +144,51 @@ Frequency Net Database**:
     update: gold-standard data classification, open access genotype data
     and new query tools.](https://pubmed.ncbi.nlm.nih.gov/31722398)
     Nucleic Acids Res. 2020;48: D783–D788. <doi:10.1093/nar/gkz1029>
+
+## Related work
+
+Here are all of the resources I could find that have information about
+HLA allele frequencies in different populations.
+
+### CIWD version 3.0.0
+
+Hurley CK, Kempenich J, Wadsworth K, Sauter J, Hofmann JA, Schefzyk D,
+et al. [Common, intermediate and well-documented HLA alleles in world
+populations: CIWD version
+3.0.0.](https://www.ncbi.nlm.nih.gov/pubmed/31970929) Hladnikia.
+2020;95: 516–531. <doi:10.1111/tan.13811>
+
+The authors provide xlsx files on this website:
+
+  - <https://www.ihiw18.org/component-immunogenetics/download-common-and-well-documented-alleles-3-0>
+
+But the frequency information has been binned into categories:
+
+  - C, common
+  - I, intermediate
+  - WD, well-documented
+  - NA, not applicable
+
+There is a tool called
+[HLA-Net](https://hla-net.eu/tools/cwd-viewer/results/) that provides a
+visualization of the CIWD data.
+
+### IEDB Tools
+
+<http://tools.iedb.org/population/download>
+
+At the IEDB Tools page, we can find a tool called **Population
+Coverage**. The authors have downloaded the HLA frequency information
+from AFND and saved it in a Python pickle file.
+
+### dbMHC
+
+<https://www.ncbi.nlm.nih.gov/gv/mhc>
+
+The dbMHC database and website appears to be discontinued. But an
+archive of old files is still available via FTP.
+
+## Acknowledgments
 
 Also, I want to say thanks to David A. Wells for sharing
 [scrapeAF](https://github.com/DAWells/scrapeAF), which inspired me to

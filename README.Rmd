@@ -21,11 +21,15 @@ library(ggplot2)
 library(ggstance)
 ```
 
+
 ## Introduction
 
-Here, we share a script [allelefrequencies.py](allelefrequencies.py) to
-download allele frequencies for HLA, KIR, MIC, and cytokine genes from [Allele
+Here, we share a single file [afnd.tsv](afnd.tsv) in tab-delimited format with
+all allele frequencies for HLA, KIR, MIC, and cytokine genes from [Allele
 Frequency Net Database](http://allelefrequencies.net) (AFND).
+
+The script [allelefrequencies.py](allelefrequencies.py) automatically downloads
+allele frequencies from the website.
 
 [What is the Allele Frequency Net Database?](http://www.allelefrequencies.net/faqs.asp)
 
@@ -35,26 +39,25 @@ Frequency Net Database](http://allelefrequencies.net) (AFND).
 > histocompatibility complex class I chain-related (MIC) genes, and a number of
 > cytokine gene polymorphisms.
 
-We share [`r length(Sys.glob("allelefrequencies.net/*/*.tsv"))` TSV
-files](allelefrequencies.net/) ready for analysis.
-
-Each file looks like this:
+The [afnd.tsv](afnd.tsv) file looks like this:
 
 ```{r}
-d <- fread("allelefrequencies.net/hla/A.tsv")
+d <- fread("afnd.tsv")
 head(d)
 ```
 
 Definitions:
 
-```
-alleles_over_2n (Alleles / 2n)
-Allele Frequency: total number of copies of the allele in the population sample
-in three decimal format.
+- `alleles_over_2n` (Alleles / 2n)
+  Allele Frequency: total number of copies of
+  the allele in the population sample in three decimal format.
 
-indivs_over_n (Individuals / n)
-Percentage of individuals who have the allele or gene.
-```
+- `indivs_over_n` (Individuals / n)
+  Percentage of individuals who have the allele or gene.
+
+- `n` (Individuals / n)
+  Number of individuals sampled from the population.
+
 
 ## Examples
 
@@ -70,12 +73,14 @@ d %>%
   arrange(-n)
 ```
 
-Sum the allele frequencies for each population and see if they add up to 100%:
+Sum the allele frequencies for each gene in each population. This lets us see
+which populations have a set of allele frequencies that adds up to 100 percent:
 
 ```{r}
 d %>%
   mutate(alleles_over_2n = parse_number(alleles_over_2n)) %>%
-  group_by(population) %>%
+  filter(alleles_over_2n > 0) %>%
+  group_by(group, gene, population) %>%
   summarize(sum = sum(alleles_over_2n)) %>%
   count(sum == 1)
 ```
@@ -94,7 +99,6 @@ sampled individuals:
 
 ```{r, dpi = 300, fig.width = 9, fig.height = 7}
 
-d <- fread("allelefrequencies.net/hla/DQB1.tsv")
 my_allele <- "DQB1*02:01"
 my_d <- d %>% filter(allele == my_allele) %>%
   mutate(
@@ -116,6 +120,7 @@ ggplot(my_d) +
   )
 ```
 
+
 ## Citation
 
 If you use this data, please cite the latest manuscript about **Allele Frequency
@@ -127,7 +132,52 @@ Net Database**:
   tools.](https://pubmed.ncbi.nlm.nih.gov/31722398) Nucleic Acids Res. 2020;48:
   D783–D788. doi:10.1093/nar/gkz1029
 
+
+## Related work
+
+Here are all of the resources I could find that have information about HLA
+allele frequencies in different populations.
+
+### CIWD version 3.0.0
+
+Hurley CK, Kempenich J, Wadsworth K, Sauter J, Hofmann JA, Schefzyk D, et al.
+[Common, intermediate and well-documented HLA alleles in world populations: CIWD
+version 3.0.0.](https://www.ncbi.nlm.nih.gov/pubmed/31970929) Hladnikia. 2020;95: 516–531. doi:10.1111/tan.13811
+
+The authors provide xlsx files on this website:
+
+- https://www.ihiw18.org/component-immunogenetics/download-common-and-well-documented-alleles-3-0
+
+But the frequency information has been binned into categories:
+
+- C, common
+- I, intermediate
+- WD, well-documented
+- NA, not applicable
+
+There is a tool called [HLA-Net](https://hla-net.eu/tools/cwd-viewer/results/)
+that provides a visualization of the CIWD data.
+
+### IEDB Tools
+
+http://tools.iedb.org/population/download
+
+At the IEDB Tools page, we can find a tool called **Population Coverage**. The
+authors have downloaded the HLA frequency information from AFND and saved it in
+a Python pickle file.
+
+### dbMHC
+
+https://www.ncbi.nlm.nih.gov/gv/mhc
+
+The dbMHC database and website appears to be discontinued. But an archive of
+old files is still available via FTP.
+
+
+## Acknowledgments
+
 Also, I want to say thanks to David A. Wells for sharing [scrapeAF][1], which
 inspired me to work on this project.
 
 [1]: https://github.com/DAWells/scrapeAF
+

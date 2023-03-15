@@ -96,12 +96,26 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlencode
 from tqdm import tqdm
 import gzip
+from glob import glob
 
 def main():
     download_hla()
     download_kir()
     download_cyt()
     download_mic()
+    # Concatenate all data into a single file
+    files = glob("allelefrequencies.net/*/*.tsv")
+    dfs = []
+    for file in files:
+        df = pd.read_csv(file, sep = "\t")
+        df['group'] = os.path.basename(os.path.dirname(file))
+        df['gene'] = os.path.basename(file).replace('.tsv', '')
+        dfs.append(df)
+    df = pd.concat(dfs)
+    # Move these columns to the left
+    df.insert(0, 'gene', df.pop('gene'))
+    df.insert(0, 'group', df.pop('group'))
+    write_tsv(df, "afnd.tsv")
 
 def download_hla():
     out = 'hla'
@@ -188,7 +202,9 @@ def download_mic():
 
 def write_tsv(d, tsv_file):
     print(f'Writing {tsv_file}')
-    os.makedirs(os.path.dirname(tsv_file), exist_ok=True)
+    parent = os.path.dirname(tsv_file)
+    if parent:
+        os.makedirs(parent, exist_ok=True)
     d.to_csv(tsv_file, sep='\t', index=False)
 
 def safe(x):
