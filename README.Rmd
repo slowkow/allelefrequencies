@@ -1,5 +1,5 @@
 ---
-title: "Allele Frequencies Net Database"
+title: "HLA allele frequencies in tab-delimited format"
 author: "Kamil Slowikowski"
 date: "`r format(Sys.Date())`"
 output:
@@ -23,9 +23,9 @@ library(ggstance)
 
 ## Introduction
 
-Here, we share a script `allelefrequencies.py` to download allele frequencies
-for HLA, KIR, MIC, and cytokine genes from [Allele Frequency Net
-Database](http://allelefrequencies.net) (AFND).
+Here, we share a script [allelefrequencies.py](allelefrequencies.py) to
+download allele frequencies for HLA, KIR, MIC, and cytokine genes from [Allele
+Frequency Net Database](http://allelefrequencies.net) (AFND).
 
 We also share [`r length(Sys.glob("allelefrequencies.net/*/*.tsv"))` TSV
 files](allelefrequencies.net/) ready for analysis.

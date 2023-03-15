@@ -1,13 +1,13 @@
-Allele Frequencies Net Database
+HLA allele frequencies in tab-delimited format
 ================
 Kamil Slowikowski
-2023-03-14
+2023-03-15
 
 ## Introduction
 
-Here, we share a script `allelefrequencies.py` to download allele
-frequencies for HLA, KIR, MIC, and cytokine genes from [Allele Frequency
-Net Database](http://allelefrequencies.net) (AFND).
+Here, we share a script [allelefrequencies.py](allelefrequencies.py) to
+download allele frequencies for HLA, KIR, MIC, and cytokine genes from
+[Allele Frequency Net Database](http://allelefrequencies.net) (AFND).
 
 We also share [57 TSV files](allelefrequencies.net/) ready for analysis.
 
