@@ -1,5 +1,7 @@
 # HLA allele frequencies in tab-delimited format
 
+<a href="https://zenodo.org/badge/latestdoi/614108789"><img src="https://zenodo.org/badge/614108789.svg" alt="DOI"></a>
+
 Kamil Slowikowski
 
 2023-06-16
