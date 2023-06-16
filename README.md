@@ -1,3 +1,11 @@
+# HLA allele frequencies in tab-delimited format
+
+Kamil Slowikowski
+
+2023-06-16
+
+**Table of Contents**
+
 - [HLA allele frequencies in tab-delimited
   format](#hla-allele-frequencies-in-tab-delimited-format)
   - [Introduction](#introduction)
@@ -5,12 +13,6 @@
   - [Citation](#citation)
   - [Related work](#related-work)
   - [Acknowledgments](#acknowledgments)
-
-# HLA allele frequencies in tab-delimited format
-
-Kamil Slowikowski
-
-2023-06-16
 
 ## Introduction
 
@@ -51,8 +53,8 @@ Definitions:
 - `alleles_over_2n` (Alleles / 2n) Allele Frequency: total number of
   copies of the allele in the population sample in three decimal format.
 
-- `indivs_over_n` (Individuals / n) Percentage of individuals who have
-  the allele or gene.
+- `indivs_over_n` (100 \* Individuals / n) Percentage of individuals who
+  have the allele or gene.
 
 - `n` (Individuals) Number of individuals sampled from the population.
 

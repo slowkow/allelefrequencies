@@ -3,10 +3,10 @@ output:
   md_document:
     variant: "gfm"
     standalone: true
-    toc: true
+    toc: false
     toc_depth: 2
   html_document:
-    toc: true
+    toc: false
     toc_depth: 2
     self_contained: true
 ---
@@ -26,12 +26,20 @@ library(readr)
 library(magrittr)
 library(ggplot2)
 library(ggstance)
+devtools::source_gist("c83e078bf8c81b035e32c3fc0cf04ee8", filename = 'render_toc.R')
 file_size <- function(x) glue("{fs::file_size(x)}B")
 d <- fread("afnd.tsv")
 n_hla <- d %>% filter(group == "hla") %>% count(gene) %>% nrow
 n_kir <- d %>% filter(group == "kir") %>% count(gene) %>% nrow
 n_mic <- d %>% filter(group == "mic") %>% count(gene) %>% nrow
 n_cyt <- d %>% filter(group == "cyt") %>% count(gene) %>% nrow
+```
+
+
+**Table of Contents**
+
+```{r toc, echo=FALSE} 
+render_toc("README.Rmd", toc_depth = 2)
 ```
 
 
@@ -62,7 +70,7 @@ Definitions:
   Allele Frequency: total number of copies of
   the allele in the population sample in three decimal format.
 
-- `indivs_over_n` (Individuals / n)
+- `indivs_over_n` (100 \* Individuals / n)
   Percentage of individuals who have the allele or gene.
 
 - `n` (Individuals)
