@@ -3,10 +3,14 @@ title: "HLA allele frequencies in tab-delimited format"
 author: "Kamil Slowikowski"
 date: "`r format(Sys.Date())`"
 output:
-  github_document:
+  md_document:
+    standalone: true
+    variant: "gfm"
     toc: true
     toc_depth: 2
   html_document:
+    toc: true
+    toc_depth: 2
     self_contained: true
 ---
 
@@ -30,7 +34,7 @@ n_cyt <- d %>% filter(group == "cyt") %>% count(gene) %>% nrow
 
 ## Introduction
 
-Here, we share a single file [afnd.tsv](afnd.tsv) (`r file_size("afnd.tsv")`) in tab-delimited format with all allele frequencies for `r n_hla` HLA genes, `r n_kir` KIR genes, `r n_mic` MIC genes, and `r n_cyt` cytokine genes from [Allele Frequency Net Database](http://allelefrequencies.net) (AFND).  
+Here, we share a single file [afnd.tsv](afnd.tsv) (`r file_size("afnd.tsv")`) in tab-delimited format with all allele frequencies for `r n_hla` HLA genes, `r n_kir` KIR genes, `r n_mic` MIC genes, and `r n_cyt` cytokine genes from [Allele Frequency Net Database](http://allelefrequencies.net) (AFND).
 
 The script [allelefrequencies.py](allelefrequencies.py) automatically downloads allele frequencies from the website.
 
@@ -58,7 +62,7 @@ Definitions:
 - `indivs_over_n` (Individuals / n)
   Percentage of individuals who have the allele or gene.
 
-- `n` (Individuals / n)
+- `n` (Individuals)
   Number of individuals sampled from the population.
 
 
@@ -86,8 +90,9 @@ d %>%
   head(15)
 ```
 
-Sum the allele frequencies for each gene in each population. This lets us see
-which populations have a set of allele frequencies that adds up to 100 percent:
+Sum the allele frequencies for each gene in each population. This allows us to
+see which populations have a set of allele frequencies that adds up to 100
+percent:
 
 ```{r}
 d %>%
@@ -145,6 +150,29 @@ Net Database**:
   tools.](https://pubmed.ncbi.nlm.nih.gov/31722398) Nucleic Acids Res. 2020;48:
   D783–D788. doi:10.1093/nar/gkz1029
 
+```
+@ARTICLE{Gonzalez-Galarza2020,
+  title    = "{Allele frequency net database (AFND) 2020 update: gold-standard
+              data classification, open access genotype data and new query
+              tools}",
+  author   = "Gonzalez-Galarza, Faviel F and McCabe, Antony and Santos, Eduardo
+              J Melo Dos and Jones, James and Takeshita, Louise and
+              Ortega-Rivera, Nestor D and Cid-Pavon, Glenda M Del and
+              Ramsbottom, Kerry and Ghattaoraya, Gurpreet and Alfirevic, Ana
+              and Middleton, Derek and Jones, Andrew R",
+  journal  = "Nucleic acids research",
+  volume   =  48,
+  number   = "D1",
+  pages    = "D783--D788",
+  month    =  jan,
+  year     =  2020,
+  language = "en",
+  issn     = "0305-1048, 1362-4962",
+  pmid     = "31722398",
+  doi      = "10.1093/nar/gkz1029",
+  pmc      = "PMC7145554"
+}
+```
 
 ## Related work
 
@@ -153,15 +181,16 @@ allele frequencies in different populations.
 
 ### CIWD version 3.0.0
 
-Hurley CK, Kempenich J, Wadsworth K, Sauter J, Hofmann JA, Schefzyk D, et al.
-[Common, intermediate and well-documented HLA alleles in world populations: CIWD
-version 3.0.0.](https://www.ncbi.nlm.nih.gov/pubmed/31970929) Hladnikia. 2020;95: 516–531. doi:10.1111/tan.13811
+- Hurley CK, Kempenich J, Wadsworth K, Sauter J, Hofmann JA, Schefzyk D, et al.
+  [Common, intermediate and well-documented HLA alleles in world populations:
+  CIWD version 3.0.0.](https://www.ncbi.nlm.nih.gov/pubmed/31970929) Hladnikia.
+  2020;95: 516–531. doi:10.1111/tan.13811
 
 The authors provide xlsx files on this website:
 
 - https://www.ihiw18.org/component-immunogenetics/download-common-and-well-documented-alleles-3-0
 
-But the frequency information has been binned into categories:
+But the frequency information is binned into categories:
 
 - C, common
 - I, intermediate

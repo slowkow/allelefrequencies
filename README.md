@@ -1,7 +1,8 @@
-HLA allele frequencies in tab-delimited format
-================
-Kamil Slowikowski
-2023-03-15
+- [Introduction](#introduction)
+- [Examples](#examples)
+- [Citation](#citation)
+- [Related work](#related-work)
+- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -39,15 +40,13 @@ head(d)
 
 Definitions:
 
-  - `alleles_over_2n` (Alleles / 2n) Allele Frequency: total number of
-    copies of the allele in the population sample in three decimal
-    format.
+- `alleles_over_2n` (Alleles / 2n) Allele Frequency: total number of
+  copies of the allele in the population sample in three decimal format.
 
-  - `indivs_over_n` (Individuals / n) Percentage of individuals who have
-    the allele or gene.
+- `indivs_over_n` (Individuals / n) Percentage of individuals who have
+  the allele or gene.
 
-  - `n` (Individuals / n) Number of individuals sampled from the
-    population.
+- `n` (Individuals) Number of individuals sampled from the population.
 
 ## Examples
 
@@ -103,9 +102,9 @@ d %>%
     ## 14:   kir  3DL2   30
     ## 15:   kir 2DL5B   24
 
-Sum the allele frequencies for each gene in each population. This lets
-us see which populations have a set of allele frequencies that adds up
-to 100 percent:
+Sum the allele frequencies for each gene in each population. This allows
+us to see which populations have a set of allele frequencies that adds
+up to 100 percent:
 
 ``` r
 d %>%
@@ -118,21 +117,21 @@ d %>%
 
     ## `summarise()` has grouped output by 'group', 'gene'. You can override using the `.groups` argument.
 
-    ## # A tibble: 45 × 4
+    ## # A tibble: 44 × 4
     ## # Groups:   group, gene [28]
     ##    group gene  `sum == 1`     n
     ##    <chr> <chr> <lgl>      <int>
-    ##  1 hla   A     FALSE        401
-    ##  2 hla   A     TRUE          37
-    ##  3 hla   B     FALSE        495
-    ##  4 hla   B     TRUE          37
-    ##  5 hla   C     FALSE        311
-    ##  6 hla   C     TRUE          31
-    ##  7 hla   DPA1  FALSE         52
-    ##  8 hla   DPA1  TRUE           8
-    ##  9 hla   DPB1  FALSE        193
-    ## 10 hla   DPB1  TRUE          53
-    ## # … with 35 more rows
+    ##  1 hla   A     FALSE        420
+    ##  2 hla   A     TRUE          18
+    ##  3 hla   B     FALSE        513
+    ##  4 hla   B     TRUE          19
+    ##  5 hla   C     FALSE        323
+    ##  6 hla   C     TRUE          19
+    ##  7 hla   DPA1  FALSE         54
+    ##  8 hla   DPA1  TRUE           6
+    ##  9 hla   DPB1  FALSE        207
+    ## 10 hla   DPB1  TRUE          39
+    ## # ℹ 34 more rows
 
 Plot the frequency of a specific allele in populations with more than
 1000 sampled individuals:
@@ -166,11 +165,35 @@ ggplot(my_d) +
 If you use this data, please cite the latest manuscript about **Allele
 Frequency Net Database**:
 
-  - Gonzalez-Galarza FF, McCabe A, Santos EJMD, Jones J, Takeshita L,
-    Ortega-Rivera ND, et al. [Allele frequency net database (AFND) 2020
-    update: gold-standard data classification, open access genotype data
-    and new query tools.](https://pubmed.ncbi.nlm.nih.gov/31722398)
-    Nucleic Acids Res. 2020;48: D783–D788. <doi:10.1093/nar/gkz1029>
+- Gonzalez-Galarza FF, McCabe A, Santos EJMD, Jones J, Takeshita L,
+  Ortega-Rivera ND, et al. [Allele frequency net database (AFND) 2020
+  update: gold-standard data classification, open access genotype data
+  and new query tools.](https://pubmed.ncbi.nlm.nih.gov/31722398)
+  Nucleic Acids Res. 2020;48: D783–D788. <doi:10.1093/nar/gkz1029>
+
+<!-- -->
+
+    @ARTICLE{Gonzalez-Galarza2020,
+      title    = "{Allele frequency net database (AFND) 2020 update: gold-standard
+                  data classification, open access genotype data and new query
+                  tools}",
+      author   = "Gonzalez-Galarza, Faviel F and McCabe, Antony and Santos, Eduardo
+                  J Melo Dos and Jones, James and Takeshita, Louise and
+                  Ortega-Rivera, Nestor D and Cid-Pavon, Glenda M Del and
+                  Ramsbottom, Kerry and Ghattaoraya, Gurpreet and Alfirevic, Ana
+                  and Middleton, Derek and Jones, Andrew R",
+      journal  = "Nucleic acids research",
+      volume   =  48,
+      number   = "D1",
+      pages    = "D783--D788",
+      month    =  jan,
+      year     =  2020,
+      language = "en",
+      issn     = "0305-1048, 1362-4962",
+      pmid     = "31722398",
+      doi      = "10.1093/nar/gkz1029",
+      pmc      = "PMC7145554"
+    }
 
 ## Related work
 
@@ -179,22 +202,22 @@ HLA allele frequencies in different populations.
 
 ### CIWD version 3.0.0
 
-Hurley CK, Kempenich J, Wadsworth K, Sauter J, Hofmann JA, Schefzyk D,
-et al. [Common, intermediate and well-documented HLA alleles in world
-populations: CIWD version
-3.0.0.](https://www.ncbi.nlm.nih.gov/pubmed/31970929) Hladnikia.
-2020;95: 516–531. <doi:10.1111/tan.13811>
+- Hurley CK, Kempenich J, Wadsworth K, Sauter J, Hofmann JA, Schefzyk D,
+  et al. [Common, intermediate and well-documented HLA alleles in world
+  populations: CIWD version
+  3.0.0.](https://www.ncbi.nlm.nih.gov/pubmed/31970929) Hladnikia.
+  2020;95: 516–531. <doi:10.1111/tan.13811>
 
 The authors provide xlsx files on this website:
 
-  - <https://www.ihiw18.org/component-immunogenetics/download-common-and-well-documented-alleles-3-0>
+- <https://www.ihiw18.org/component-immunogenetics/download-common-and-well-documented-alleles-3-0>
 
-But the frequency information has been binned into categories:
+But the frequency information is binned into categories:
 
-  - C, common
-  - I, intermediate
-  - WD, well-documented
-  - NA, not applicable
+- C, common
+- I, intermediate
+- WD, well-documented
+- NA, not applicable
 
 There is a tool called
 [HLA-Net](https://hla-net.eu/tools/cwd-viewer/results/) that provides a
