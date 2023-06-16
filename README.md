@@ -1,8 +1,16 @@
-- [Introduction](#introduction)
-- [Examples](#examples)
-- [Citation](#citation)
-- [Related work](#related-work)
-- [Acknowledgments](#acknowledgments)
+- [HLA allele frequencies in tab-delimited
+  format](#hla-allele-frequencies-in-tab-delimited-format)
+  - [Introduction](#introduction)
+  - [Examples](#examples)
+  - [Citation](#citation)
+  - [Related work](#related-work)
+  - [Acknowledgments](#acknowledgments)
+
+# HLA allele frequencies in tab-delimited format
+
+Kamil Slowikowski
+
+2023-06-16
 
 ## Introduction
 

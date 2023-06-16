@@ -1,11 +1,8 @@
 ---
-title: "HLA allele frequencies in tab-delimited format"
-author: "Kamil Slowikowski"
-date: "`r format(Sys.Date())`"
 output:
   md_document:
-    standalone: true
     variant: "gfm"
+    standalone: true
     toc: true
     toc_depth: 2
   html_document:
@@ -13,6 +10,12 @@ output:
     toc_depth: 2
     self_contained: true
 ---
+
+# HLA allele frequencies in tab-delimited format
+
+Kamil Slowikowski
+
+`r format(Sys.Date())`
 
 ```{r,include=FALSE}
 options(width=100)
