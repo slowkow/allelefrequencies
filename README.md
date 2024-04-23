@@ -4,7 +4,7 @@
 
 Kamil Slowikowski
 
-2023-06-16
+2024-04-22
 
 **Table of Contents**
 
@@ -249,6 +249,15 @@ from AFND and saved it in a Python pickle file.
 
 The dbMHC database and website appears to be discontinued. But an
 archive of old files is still available via FTP.
+
+### NMDP
+
+<https://bioinformatics.bethematchclinical.org/hla-resources/haplotype-frequencies/high-resolution-hla-alleles-and-haplotypes-in-the-us-population/>
+
+- Maiers M, Gragert L, Klitz W. [High-resolution HLA alleles and
+  haplotypes in the United States
+  population.](https://pubmed.ncbi.nlm.nih.gov/17869653) Hum Immunol.
+  2007;68: 779–788. <doi:10.1016/j.humimm.2007.04.005>
 
 ## Acknowledgments
 
