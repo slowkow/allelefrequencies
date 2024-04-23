@@ -212,6 +212,15 @@ Frequency Net Database**:
 Here are all of the resources I could find that have information about
 HLA allele frequencies in different populations.
 
+### HLAfreq
+
+<https://github.com/Vaccitech/HLAfreq/>
+
+- Wells DA, McAuley M. [HLAfreq: Download and combine HLA allele
+  frequency
+  data.](https://www.biorxiv.org/content/10.1101/2023.09.15.557761v1)
+  bioRxiv. 2023. <doi:10.1101/2023.09.15.557761>
+
 ### CIWD version 3.0.0
 
 - Hurley CK, Kempenich J, Wadsworth K, Sauter J, Hofmann JA, Schefzyk D,
